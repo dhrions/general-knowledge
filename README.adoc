@@ -18,6 +18,8 @@ Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date 
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
+== Introduction
+
 Cercles concentriques.
 
 PESTEL :
@@ -67,19 +69,13 @@ Liste finale :
 
 == Premier cercle
 
-=== Politique
-
-image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
-
 === Économie
 
 En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://www.youtube.com/watch?v=7kYXEBHePJc[la vidéo de la chaîne YouTube Heu?reka dédiée].
 
 image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
 
-=== Social
-
-=== Science et technologies
+=== Sciences et technologies
 
 ==== Méthode scientifique
 
@@ -91,11 +87,9 @@ https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique
 
 https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
 
-=== Écologie
+=== Politique et droit
 
-=== Légal
-
-Le plus important est de connaître le concept de « hiérarchie des normes ».
+En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
 
 Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
 
@@ -107,11 +101,21 @@ On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographi
 .Schéma de la hiérarchie des normes d'après vie-publique.fr
 image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
 
-https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
-
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
 
-=== Culturel
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+
+==== En France
+
+https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
+
+=== Arts
+
+==== Littérature
+
+Les mouvements littéraires (cf. https://commentairecompose.fr/mouvement-litteraire/[ce site]).
+
+=== Sport
 
 === Histoire
 
