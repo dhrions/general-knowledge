@@ -20,7 +20,7 @@ Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date 
 
 Cercles concentriques.
 
-PESTEL-CSHG :
+PESTEL :
 
 * Politique
 * Économie
@@ -29,6 +29,9 @@ PESTEL-CSHG :
 * Écologie
 * Légal
 * Culturel
+
+Autres domaines
+
 ** https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[Art]
 ... Architecture
 ... Sculpture
@@ -40,7 +43,25 @@ PESTEL-CSHG :
 ... Arts médiatiques
 ... Bande dessinée
 ... Jeux vidéo
-** Sport
+* Sport
+* Gastronomie
+* Histoire
+* Géographie
+
+Liste finale :
+
+* Philosophie
+* Politique et droit
+* Économie
+* Sciences et technologies
+** Mathématiques
+** Informatique
+** Botanique
+** Psychologie
+** Sociologie
+* Arts
+* Sport
+* Gastronomie
 * Histoire
 * Géographie
 
@@ -58,7 +79,13 @@ image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et de
 
 === Social
 
-=== Technologique
+=== Science et technologies
+
+==== Méthode scientifique
+
+https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube Scilabus]
+
+https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube Hygiène mentale]
 
 ==== Internet
 
@@ -89,6 +116,10 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_ju
 === Histoire
 
 https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
+
+=== Géographie
+
+https://www.jeux-geographiques.com/[Jeux géographiques]
 
 == Deuxième cercle
 
