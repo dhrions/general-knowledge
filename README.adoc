@@ -20,52 +20,52 @@ Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date 
 
 == Introduction
 
-Cercles concentriques.
+// Cercles concentriques.
 
-PESTEL :
+// PESTEL :
 
-* Politique
-* Économie
-* Social
-* Technologique
-* Écologie
-* Légal
-* Culturel
+// * Politique
+// * Économie
+// * Social
+// * Technologique
+// * Écologie
+// * Légal
+// * Culturel
 
-Autres domaines
+// Autres domaines
 
-** https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[Art]
-... Architecture
-... Sculpture
-... Arts visuels (peinture, dessin, photographie...)
-... Musique
-... Littérature
-... Arts de la scène (danse, théâtre, mime, cirque)
-... Cinéma
-... Arts médiatiques
-... Bande dessinée
-... Jeux vidéo
-* Sport
-* Gastronomie
-* Histoire
-* Géographie
+// ** https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[Art]
+// ... Architecture
+// ... Sculpture
+// ... Arts visuels (peinture, dessin, photographie...)
+// ... Musique
+// ... Littérature
+// ... Arts de la scène (danse, théâtre, mime, cirque)
+// ... Cinéma
+// ... Arts médiatiques
+// ... Bande dessinée
+// ... Jeux vidéo
+// * Sport
+// * Gastronomie
+// * Histoire
+// * Géographie
 
-Liste finale :
+// Liste finale :
 
-* Philosophie
-* Politique et droit
-* Économie
-* Sciences et technologies
-** Mathématiques
-** Informatique
-** Botanique
-** Psychologie
-** Sociologie
-* Arts
-* Sport
-* Gastronomie
-* Histoire
-* Géographie
+// * Philosophie
+// * Politique et droit
+// * Économie
+// * Sciences et technologies
+// ** Mathématiques
+// ** Informatique
+// ** Botanique
+// ** Psychologie
+// ** Sociologie
+// * Arts
+// * Sport
+// * Gastronomie
+// * Histoire
+// * Géographie
 
 == Premier cercle
 
