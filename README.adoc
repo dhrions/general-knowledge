@@ -1,0 +1,170 @@
+= Culture générale
+Dhrions
+Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date et une remarque
+// Document attributes
+:sectnums:                                                          
+:toc:                                                   
+:toclevels: 5  
+:toc-title: Ma super table des matières
+
+:description: Example AsciiDoc document                             
+:keywords: AsciiDoc                                                 
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js
+
+// Mes variables
+:url-wiki: https://fr.wikipedia.org/wiki
+:url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
+
+Cercles concentriques.
+
+PESTEL-CSHG :
+
+* Politique
+* Économie
+* Social
+* Technologique
+* Écologie
+* Légal
+* Culturel
+** https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[Art]
+... Architecture
+... Sculpture
+... Arts visuels (peinture, dessin, photographie...)
+... Musique
+... Littérature
+... Arts de la scène (danse, théâtre, mime, cirque)
+... Cinéma
+... Arts médiatiques
+... Bande dessinée
+... Jeux vidéo
+** Sport
+* Histoire
+* Géographie
+
+== Premier cercle
+
+=== Politique
+
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+
+=== Économie
+
+En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://www.youtube.com/watch?v=7kYXEBHePJc[la vidéo de la chaîne YouTube Heu?reka dédiée].
+
+image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
+
+=== Social
+
+=== Technologique
+
+==== Internet
+
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Comprendre le web] est un cours en ligne gratuit qui permet de comprendre le fonctionnement d'Internet.
+
+=== Écologie
+
+=== Légal
+
+Le plus important est de connaître le concept de « hiérarchie des normes ».
+
+Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
+
+.Pyradime de Kelsen d'après Wikipédia
+image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
+
+On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
+
+.Schéma de la hiérarchie des normes d'après vie-publique.fr
+image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
+
+https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
+
+=== Culturel
+
+=== Histoire
+
+https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
+
+== Deuxième cercle
+
+=== Politique
+
+=== Économie
+
+=== Social
+
+=== Technologique
+
+=== Écologie
+
+=== Légal
+
+// == Asie
+// .Liste des pays :
+// . Premier
+// . Deuxième
+
+// {subtitle}
+
+// == Europe
+
+// Pour aller en <<Amérique>>, c'est par <<Amérique, ici>>.
+
+// === Europe de l'ouest ({url-wiki-Europe-Ouest}[cf. Wikipédia])
+
+// ==== France ({url-wiki}/France[cf. Wikipédia])
+
+// .Voici le titre d'un bloc
+// Et là, cela est un bloc, constitué d'une phrase.
+// Et d'une deuxièle phrase.
+// Et d'une troisième.
+
+// ===== Alsace
+// [quote, Shakespeare, Hamlet - Acte III - Scène 1]
+// Être ou ne pas être, telle est la question.
+
+// ====== Bas-Rhin
+
+// ====== Haut-Rhin
+// ===== Bretagne
+// [source, python]
+// ----
+// print("Hello world"!)
+// ----
+// ===== Provence Alpes Côtes d'Azur
+// ==== Espagne
+// ==== Portugal
+
+// Il y a un dossier intéressant : link:./example1[ici].
+
+// Je peux facilement inclure une partie d'un fichier de code en-dessous.
+
+// [source, python]
+// ----
+// include::./example1/python.py[tag=le-nom-de-mon-tag]
+// ----
+// CAUTION: `include` ne fonctionne pas sur Git Hub.
+
+// === Europe de l'est
+
+// == Afrique
+
+// * item
+// ** nested item
+// * item
+// * item
+// * item
+// ** nested item
+// ** nested item
+// *** subnested item
+// ** nested item
+// * item
+
+// == Amérique
+
+// More test
