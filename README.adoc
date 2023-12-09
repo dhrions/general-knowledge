@@ -18,7 +18,7 @@ Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date 
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
-== Introduction
+// == Introduction
 
 // Cercles concentriques.
 
