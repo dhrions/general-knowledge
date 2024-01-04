@@ -1,6 +1,6 @@
 = Culture générale
 Dhrions
-Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date et une remarque
+Version 1.0.1, 04/01/2024
 // Document attributes
 :sectnums:                                                          
 :toc:                                                   
@@ -18,54 +18,23 @@ Version 1.0.0, 09/12/2023 // Ligne optionnelle dédiée à la revision, la date 
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
-// == Introduction
+Ce document est subjectif notamment car il repose sur une vision française de la culture générale : plutôt centrée sur la France et sur les matières classiques (qui fait écho à une conception considérée parfois comme « bourgeoise » de la culture générale).
 
-// Cercles concentriques.
+== Introduction
 
-// PESTEL :
+Plutôt que d'étudier un sujet en profondeur, la culture générale consiste à avoir une vision globale de nombreux sujets.
+Pour avoir une culture générale équilibré, il vaut mieux procéder dans cet ordre :
 
-// * Politique
-// * Économie
-// * Social
-// * Technologique
-// * Écologie
-// * Légal
-// * Culturel
+* connaître les fondamentaux de chaque domaine ;
+* connaître les fondamentaux de chaque sous-domaine ;
+* connaître les fondamentaux de chaque sous-sous-domaine ;
+* etc.
 
-// Autres domaines
+On peut s'imaginer cela à la manière de cercles concentriques.
 
-// ** https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[Art]
-// ... Architecture
-// ... Sculpture
-// ... Arts visuels (peinture, dessin, photographie...)
-// ... Musique
-// ... Littérature
-// ... Arts de la scène (danse, théâtre, mime, cirque)
-// ... Cinéma
-// ... Arts médiatiques
-// ... Bande dessinée
-// ... Jeux vidéo
-// * Sport
-// * Gastronomie
-// * Histoire
-// * Géographie
+image::cercles-concentriques-culture-generale.jpg[Cercles concentriques de la culture générale, 300]
 
-// Liste finale :
-
-// * Philosophie
-// * Politique et droit
-// * Économie
-// * Sciences et technologies
-// ** Mathématiques
-// ** Informatique
-// ** Botanique
-// ** Psychologie
-// ** Sociologie
-// * Arts
-// * Sport
-// * Gastronomie
-// * Histoire
-// * Géographie
+Pour avoir une culture générale équilibrée, il faut commencer par le cercle rouge avant de passer au cercle orange, puis au cercle jaune, etc. 
 
 == Premier cercle
 
@@ -93,7 +62,7 @@ En droit, le plus important est de connaître le concept de « hiérarchie des n
 
 Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
 
-.Pyradime de Kelsen d'après Wikipédia
+.Pyramide de Kelsen d'après Wikipédia
 image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
 
 On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
@@ -113,7 +82,32 @@ https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisati
 
 ==== Littérature
 
-Les mouvements littéraires (cf. https://commentairecompose.fr/mouvement-litteraire/[ce site]).
+L'essentiel, dans la culture française, est de connaître les grands mouvements littéraires français (voire européens pour certains) :
+
+. l'humanisme (XVI^e^ siècle) ;
+. la Pléiade (XVI^e^ siècle) ;
+. le baroque (XVII^e^ siècle) ;
+. le classicisme (XVII^e^ siècle) ;
+. les Lumières (XVIII^e^ siècle) ;
+. le romantisme (XIX^e^ siècle) ;
+. le Parnasse (XIX^e^ siècle) ;
+. le réalisme (XIX^e^ siècle) ;
+. le naturalisme (XIX^e^ siècle) ;
+. le symbolisme (XIX^e^ siècle) ;
+. le surréalisme (XX^e^ siècle) ;
+. l'absurde (XX^e^ siècle) ;
+. le Nouveau Roman (XX^e^ siècle).
+
+.Frise des mouvements littéraires français
+image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 600]
+
+Il faut également connaître le contexte historique, les caractéristiques, les auteurs et les œuvres majeures de ces différents mouvements.
+
+Sources :
+
+* https://www.laculturegenerale.com/mouvement-litteraires-francais/[www.laculturegenerale.com] est pleinement en cible car il donne l'essentiel : le contexte historique, les caractéristiques, les auteurs et les œuvres majeures ;
+* https://commentairecompose.fr/mouvement-litteraire/[commentairecompose.fr] ;
+* https://www.bacdefrancais.net/mouvements-litteraires.php[www.bacdefrancais.net].
 
 === Sport
 
