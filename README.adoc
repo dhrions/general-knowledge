@@ -18,7 +18,11 @@ Version 1.0.1, 04/01/2024
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
-Ce document est subjectif notamment car il repose sur une vision française de la culture générale : plutôt centrée sur la France et sur les matières classiques (qui fait écho à une conception considérée parfois comme « bourgeoise » de la culture générale).
+L'objectif de ce document est de proposer une hiérarchie des connaissances à assimiler et les ressources les plus utiles pour les acquérir.
+Ce document n'a pas pour objectif de contenir des connaissances.
+
+Il est important du prendre de la hauteur sur le présent document : celui-ci est forcément subjectif.
+En effet, il repose notamment sur une vision française de la culture générale : plutôt centrée sur la France et sur les matières classiques (qui fait écho à une conception considérée parfois comme « bourgeoise » de la culture générale).
 
 == Introduction
 
@@ -38,23 +42,11 @@ Pour avoir une culture générale équilibrée, il faut commencer par le cercle 
 
 == Premier cercle
 
-=== Économie
+=== Philosophie
 
-En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://www.youtube.com/watch?v=7kYXEBHePJc[la vidéo de la chaîne YouTube Heu?reka dédiée].
+À l'inverse des mouvements artistiques (voir <<Littérature, _infra_>>) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps :
 
-image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
-
-=== Sciences et technologies
-
-==== Méthode scientifique
-
-https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
-
-https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
-
-==== Internet
-
-https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
+* le scepticisme naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle) jusqu'à aujourd'hui ;
 
 === Politique et droit
 
@@ -78,11 +70,31 @@ image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
 
 https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
 
+=== Économie
+
+En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://www.youtube.com/watch?v=7kYXEBHePJc[la vidéo de la chaîne YouTube Heu?reka dédiée].
+
+image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
+
+=== Sciences et technologies
+
+==== Méthode scientifique
+
+https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
+
+https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
+
+==== Mathématiques
+
+==== Internet
+
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
+
 === Arts
 
 ==== Littérature
 
-L'essentiel, dans la culture française, est de connaître les grands mouvements littéraires français (voire européens pour certains) :
+L'essentiel, dans la culture française, est de connaître les grands mouvements littéraires (voire artistiques au sens large) français (voire européens pour certains) :
 
 . l'humanisme (XVI^e^ siècle) ;
 . la Pléiade (XVI^e^ siècle) ;
@@ -112,15 +124,37 @@ Pour chacun de ces mouvements, il faut connaître :
 * les caractéristiques stylistiques ;
 * les autres arts associés (peinture, musique, etc.).
 
+NOTE:: de nombreux mouvements littéraires sont associés à d'autres arts (peinture, musique, etc.).
+Par exemple, le romantisme existe aussi en peinture et en musique.
+
+NOTE:: De nombreux mouvements littéraires se sont créés en opposition à ceux auxquels qu'ils ont supplanté.
+Ainsi, le baroque excentrique et débridé s'oppose au classicisme épuré et mesuré, les Lumières rationnelles et émancipatrices s'opposent au romantisme passionné et exalté, le romantisme passionné et exalté s'oppose au réalisme terre-à-terre et objectif, le réalisme terre-à-terre et objectif s'oppose au symbolisme mystérieux et subjectif.
+
 Sources :
 
 * https://www.laculturegenerale.com/mouvement-litteraires-francais/[www.laculturegenerale.com] est pleinement en cible car il donne l'essentiel : le contexte historique, les caractéristiques, les auteurs et les œuvres majeures ;
 * https://commentairecompose.fr/mouvement-litteraire/[commentairecompose.fr] ;
 * https://www.bacdefrancais.net/mouvements-litteraires.php[www.bacdefrancais.net].
 
-=== Sport
-
 === Histoire
+
+Il faut en tout premier connaître les 5 grandes périodes de l'Histoire et les dates associées :
+
+. https://fr.wikipedia.org/wiki/Pr%C3%A9histoire[la Préhistoire] (-2,8 millions d'années à -3000) ;
+. https://fr.wikipedia.org/wiki/Antiquit%C3%A9[l'Antiquité] (-3000 à 476) ;
+. https://fr.wikipedia.org/wiki/Moyen_%C3%82ge[le Moyen Âge] (476 à 1492) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_moderne[l'époque moderne] (1492 à 1789) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_contemporaine[l'époque contemporaine] (1789 à nos jours).
+
+.Frise des grandes époques de l'Histoire
+image::Histoire.png[Frise des grandes époques de l'Histoire]
+
+Il faut également connaître les événements séparant ces grandes périodes :
+
+. https://fr.wikipedia.org/wiki/Histoire_de_l%27%C3%A9criture[l'invention de l'écriture] (vers -3000) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9clin_de_l%27Empire_romain_d%27Occident[la chute de l'Empire romain d'Occident] (476) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9couverte_et_exploration_de_l%27Am%C3%A9rique[la découverte de l'Amérique] (1492) ;
+. https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise[la Révolution française] (1789).
 
 https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
 
@@ -128,9 +162,13 @@ https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Hi
 
 https://www.jeux-geographiques.com/[Jeux géographiques]
 
+=== Sport
+
 == Deuxième cercle
 
-=== Politique
+=== Philosophie
+
+=== Politique et droit
 
 === Géographie
 
@@ -138,77 +176,44 @@ https://fr.wikipedia.org/wiki/Balkanisation[Balkanisation (Wikipédia)] : proces
 
 === Économie
 
+=== Sciences et technologies
+
 === Social
 
 https://www.youtube.com/watch?v=aed8Q40M8r8[Vidéo documentaire de la chaîne YouTube « Heu?reka » sur les inégalités de salaires entre les hommes et les femmes].
 
-=== Technologique
+=== Arts
 
-=== Écologie
+=== Histoire
 
-=== Légal
+=== Géographie
 
-// == Asie
-// .Liste des pays :
-// . Premier
-// . Deuxième
+=== Sport
 
-// {subtitle}
+// == n-ième cercle
 
-// == Europe
+// === Philosophie
 
-// Pour aller en <<Amérique>>, c'est par <<Amérique, ici>>.
+// === Politique et droit
 
-// === Europe de l'ouest ({url-wiki-Europe-Ouest}[cf. Wikipédia])
+// === Économie
 
-// ==== France ({url-wiki}/France[cf. Wikipédia])
+// === Sciences et technologies
 
-// .Voici le titre d'un bloc
-// Et là, cela est un bloc, constitué d'une phrase.
-// Et d'une deuxièle phrase.
-// Et d'une troisième.
+// ==== Mathématiques
 
-// ===== Alsace
-// [quote, Shakespeare, Hamlet - Acte III - Scène 1]
-// Être ou ne pas être, telle est la question.
+// ==== Informatique
 
-// ====== Bas-Rhin
+// ==== Botanique
 
-// ====== Haut-Rhin
-// ===== Bretagne
-// [source, python]
-// ----
-// print("Hello world"!)
-// ----
-// ===== Provence Alpes Côtes d'Azur
-// ==== Espagne
-// ==== Portugal
+// ==== Psychologie
 
-// Il y a un dossier intéressant : link:./example1[ici].
+// ==== Sociologie
 
-// Je peux facilement inclure une partie d'un fichier de code en-dessous.
+// === Arts
 
-// [source, python]
-// ----
-// include::./example1/python.py[tag=le-nom-de-mon-tag]
-// ----
-// CAUTION: `include` ne fonctionne pas sur Git Hub.
+// === Histoire
 
-// === Europe de l'est
+// === Géographie
 
-// == Afrique
-
-// * item
-// ** nested item
-// * item
-// * item
-// * item
-// ** nested item
-// ** nested item
-// *** subnested item
-// ** nested item
-// * item
-
-// == Amérique
-
-// More test
+// === Sport
