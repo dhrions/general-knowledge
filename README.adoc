@@ -101,7 +101,16 @@ L'essentiel, dans la culture française, est de connaître les grands mouvements
 .Frise des mouvements littéraires français
 image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 600]
 
-Il faut également connaître le contexte historique, les caractéristiques, les auteurs et les œuvres majeures de ces différents mouvements.
+Pour chacun de ces mouvements, il faut connaître :
+
+* la période historique ;
+* le contexte historique (et l'éventuel moment ou texte fondateur) ;
+* les auteurs principaux ;
+* les œuvres majeures ;
+* les genres associés (roman, théâtre, poésie, etc.) ;
+* les thèmes associés (amour, mort, etc.) ;
+* les caractéristiques stylistiques ;
+* les autres arts associés (peinture, musique, etc.).
 
 Sources :
 
