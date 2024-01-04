@@ -44,12 +44,72 @@ Pour avoir une culture générale équilibrée, il faut commencer par le cercle 
 
 === Philosophie
 
+==== Courants philosophiques
+
 À l'inverse des mouvements artistiques (voir <<Littérature, _infra_>>) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps :
 
 * le scepticisme naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec des philosophes comme René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle), continue à l'époque contemporaine avec des philosophes comme Bertand Russell (XX^e^ siècle) jusqu'à aujourd'hui ;
 * l'empirisme naît à l'époque moderne avec Francis Bacon (XVII^e^ siècle), il se poursuit avec des philosophes comme John Locke (XVII^e^ siècle), David Hume (XVIII^e^ siècle) puis à l'époque contemporaine avec des philosophes comme John Stuart Mill (XIX^e^ siècle) jusqu'à aujourd'hui.
 
 Il existe des sortes de filiations de philosophes à travers le temps.
+
+Les principaux courants généraux de philosophie sont les suivants :
+
+* l'empirisme : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme);
+* le rationalisme : doctrine qui pose les raisons discursives comme seule source possible de toute connaissance du monde (il s'oppose à l'empirisme) ;
+* l'idéalisme : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
+* le positivisme ;
+* le stoïcisme ;
+* le scepticisme ;
+* le matérialisme ;
+* le structuralisme ;
+* la phénoménologie ;
+* l'existentialisme ;
+* le cynisme ;
+* l'épicurisme ;
+* le platonisme ;
+* le confucianisme ;
+* le taoïsme ;
+* le zoroastrisme ;
+* le manichéisme ;
+* le bouddhisme ;
+* le pragmatisme.
+
+==== Domaines philosophiques
+
+Les différents domaines de la philosophie occidentale sont les suivants (cf. https://fr.wikipedia.org/wiki/Philosophie#Les_branches_de_la_philosophie_occidentale[« Philosophie » sur Wikipédia]) :
+
+* la *métaphysique* et ses diverses branches (« Qu'est-ce que la réalité ? », « Y a-t-il des réalités immatérielles ? », « Dieu existe-t-il ? », « L'âme existe-elle ? Est-elle immortelle ? Incorporelle ? ») ;
+* l'*ontologie*, rattachée ou non à la métaphysique selon les interprètes (« Qu'est-ce que l'être ? », « Pourquoi y a-t-il de l'être plutôt que rien ? ») ;
+* la *philosophie de la religion*, partiellement rattachée à la métaphysique puisqu'elle tente de définir le divin et pose la question de l'existence de Dieu, qu'elle double d'une interrogation sur la nature du sacré en général ;
+* la *philosophie morale* ou l'éthique : discipline pratique et normative permettant de définir la meilleure conduite pour chaque situation: (« Quelle est la fin des actions humaines ? », « Le bien et le mal sont-ils des valeurs universelles permettant de définir cette fin ? ») ;
+* la *philosophie de l'art* ou l'esthétique (« Qu'est-ce que le beau ? », « Qu'est-ce que l'art ? ») ;
+* la *philosophie des valeurs*, ou axiologie, qui regroupe l'éthique et l'esthétique ci-dessus ;
+* la *philosophie de l'esprit* (« Quelles sont les relations entre corps et esprit ? », « Comment fonctionne la cognition ? ») ;
+* la *phénoménologie*, dont la méthode est de partir des expériences humaines pour appréhender la réalité telle qu'elle se donne, à travers les phénomènes ;
+* la *philosophie de la logique* ;
+* la *philosophie politique* (« D'où peut provenir la légitimité du pouvoir ? », « Quel est le meilleur régime politique ? », « La morale peut-elle et doit-elle guider l'action politique ? ») ;
+* la *philosophie du droit* (« Quelles sont les relations entre droit et justice ? », « Comment naissent les normes juridiques ? », « Selon quels critères faut-il les juger ? ») ;
+* la *philosophie de l'action* (« La liberté est-elle illusoire ? ») ;
+* la *philosophie du langage* (« Quelle est l'origine du langage ? », « En quoi le langage se distingue-t-il d'autres systèmes de communications ? », « Quelles relations entretiennent langage et pensée ? ») ;
+* la *philosophie de l'histoire* (« L'histoire est-elle régie par des lois, une nécessité, ou est-elle le fruit abscons de la contingence ? ») ;
+* l'*épistémologie* qui est littéralement l'étude de la science et la connaissance ;
+* la *gnoséologie* (« D'où provient la connaissance ? ») ;
+* la *théorie de la connaissance* (« Qu'est-ce que la vérité ? »).
+
+==== Émission d'Arte
+
+// Les principaux courants de philosophie politique sont les suivants :
+
+// * le communisme ;
+// * le socialisme ;
+// * le libéralisme ;
+// * le conservatisme ;
+// * l'anarchisme ;
+// * l'humanisme ;
+// * le fascisme ;
+// * le contractualisme ;
+// * le libertarianisme.
 
 === Politique et droit
 
