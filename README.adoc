@@ -46,7 +46,10 @@ Pour avoir une culture générale équilibrée, il faut commencer par le cercle 
 
 À l'inverse des mouvements artistiques (voir <<Littérature, _infra_>>) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps :
 
-* le scepticisme naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle) jusqu'à aujourd'hui ;
+* le scepticisme naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec des philosophes comme René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle), continue à l'époque contemporaine avec des philosophes comme Bertand Russell (XX^e^ siècle) jusqu'à aujourd'hui ;
+* l'empirisme naît à l'époque moderne avec Francis Bacon (XVII^e^ siècle), il se poursuit avec des philosophes comme John Locke (XVII^e^ siècle), David Hume (XVIII^e^ siècle) puis à l'époque contemporaine avec des philosophes comme John Stuart Mill (XIX^e^ siècle) jusqu'à aujourd'hui.
+
+Il existe des sortes de filiations de philosophes à travers le temps.
 
 === Politique et droit
 
