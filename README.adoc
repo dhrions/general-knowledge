@@ -231,6 +231,77 @@ https://www.jeux-geographiques.com/[Jeux géographiques]
 
 === Philosophie
 
+==== Concepts importants
+
+===== Le paradoxe d'Achille et de la tortue (V^e^ siècle av. J.-C.)
+
+Le https://fr.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue[paradoxe d'Achille et de la tortue] est un paradoxe philosophique dû à Zénon d'Élée (V^e^ siècle av. J.-C.) selon lequel le héros grec Achille a disputé une course à pied avec une tortue.
+Comme Achille était réputé être un coureur très rapide, il avait accordé gracieusement au lent reptile une avance de cent mètres.
+L'argument exposé par Zénon est qu'Achille ne pourra pas rattraper la tortue si celle-ci a de l'avance sur lui, et ce, quelle que soit sa vitesse (non nulle) ; car pendant qu'Achille court jusqu'au point d'où a démarré la tortue, cette dernière avance, de telle sorte qu'Achille ne pourra jamais annuler l'avance de l'animal.
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zeno_Achilles_Paradox.png/220px-Zeno_Achilles_Paradox.png[Paradoxe d'Achille et de la tortue]
+
+===== L'allégorie de la caverne (IV^e^ siècle av. J.-C.)
+
+L'https://fr.wikipedia.org/wiki/All%C3%A9gorie_de_la_caverne[allégorie de la caverne] est une allégorie exposée par Platon dans La République.
+Elle expose en termes imagés les conditions d'accession de l'humain à la connaissance du Bien, au sens métaphysique du terme, ainsi que la transmission de cette connaissance.
+
+L'allégorie met en scène des humains enchaînés et immobilisés dans une caverne. Ils tournent le dos à l'entrée et voient non pas les objets, mais les ombres des objets qui passent devant cette entrée et sont projetées contre le mur. Ils croient voir la réalité, alors qu'ils n'en voient qu'une projection.
+
+.Tableau « La grotte de Platon » attribué à Michiel Coxcie au milieu du XVI^e^ siècle
+image::https://upload.wikimedia.org/wikipedia/commons/6/66/De_grot_van_Plato.jpg[La grotte de Platon attribué à Michiel Coxcie au milieu du XVI^e^ siècle.]
+
+===== L'anneau de Gygès (IV^e^ siècle av. J.-C.)
+
+L’ https://fr.wikipedia.org/wiki/Anneau_de_Gyg%C3%A8s[anneau de Gygès] est un anneau magique mythologique qui, selon une allégorie philosophique proposée par Platon dans le deuxième livre de La République, permettrait à son détenteur de devenir invisible.
+Mythe classique de la philosophie occidentale, l'allégorie de l'anneau de Gygès permet de soulever des questions éthiques.
+
+L'allégorie de l'anneau de Gygès permet au frère de Platon de soulever la question suivante : est-ce qu'être un homme juste, ce n’est pas en réalité être assez naïf pour respecter les lois et la morale même si cela peut être désavantageux ? In fine, n'agissons-nous de manière juste que parce que nous avons peur de la répression pénale ? Si oui, alors, chacun agirait comme Gygès une fois l'anneau obtenu.
+
+Plus largement, l'allégorie permet de débattre sur les motivations de la moralité chez l'homme : résulte-t-elle seulement d'une convention sociale et arbitraire, ou bien d'une pure idée morale qui dispose toujours déjà les hommes à la justice ?
+
+===== Le bateau de Thésée
+
+Le https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e[bateau de Thésée] est une expérience de pensée philosophique concernant la notion d'identité
+Elle imagine un bateau dont toutes les parties sont remplacées progressivement.
+Au bout d'un certain temps, le bateau ne contient plus aucune de ses parties d'origine.
+La question est alors de savoir s'il s'agit du même bateau ou d'un bateau différent.
+
+===== Le malin génie (1641)
+
+Le https://fr.wikipedia.org/wiki/Malin_g%C3%A9nie[« malin génie »] est une expérience de pensée proposée par René Descartes dans les Méditations métaphysiques (1641) pour illustrer son interprétation du scepticisme.
+
+===== L'état de nature (1651)
+
+L’ https://fr.wikipedia.org/wiki/%C3%89tat_de_nature[état de nature] est une notion de philosophie politique forgée par les théoriciens du contrat à partir du XVII^e^ siècle qui s'oppose à l'état civil. Elle désigne la situation dans laquelle l'humanité se serait trouvée avant l'émergence de la société, et particulièrement avant l'institution de l'État et du droit positif. Bien que certains aient cru à la réalité de l'état de nature, le concept est d'ordinaire pensé comme une hypothèse méthodologique, utile indépendamment de sa véracité historique. Il existe différentes conceptions de l'état de nature, largement différentes selon leurs auteurs. On retrouve sur les débats au sujet de l'état de nature l'idée du Bon Sauvage (d'une nature innocente ou bonne), et celle de Hobbes (d'une nature mauvaise), entre autres. Dans tous les cas, l'état de nature est situé dans un temps reculé, avant la naissance des sociétés étatiques. Selon le point de vue des partisans d'une nature bonne (ou innocente), le développement des sociétés étatiques met globalement fin à cet état. 
+
+===== Le paradoxe de l'eau et du diamant (1776)
+
+Le https://fr.wikipedia.org/wiki/Paradoxe_de_l%27eau_et_du_diamant[paradoxe de l'eau et du diamant] est un paradoxe économique qui montre que la valeur d'un bien ne dépend pas de son utilité.
+En effet, l'eau est indispensable à la vie mais elle est bon marché alors que le diamant est inutile mais il est onéreux.
+
+===== Le paradoxe de la veste de laine (1776)
+
+Le https://www.youtube.com/watch?v=azNw7Vx1R8o[paradoxe de la veste de laine] est un paradoxe économique qui illustre le fait que la confection d'un bien par une seule personne nécessite en réalité le travail d'une infinité de personnes.
+
+En effet, une seule personne est nécessaire pour confectionner une veste de laine mais il faut en réalité le travail d'une infinité de personnes pour la confectionner : il faut qu'un berger ait élevé les moutons, qu'un agriculteur produise de la nourriture pour le berger, qu'un forgeron ait confectionné les outils de l'agricultureur, qu'un cordonnier ait confectionné les chaussures du forgeron, etc.
+
+===== Le démon de Laplace (1814)
+
+Le https://fr.wikipedia.org/wiki/Machine_de_Laplace[démon de Laplace], aussi parfois appelée « génie de Laplace », fait référence à une expérience de pensée proposée par Laplace, dans son ouvrage Essai philosophique sur les probabilités (1814) pour illustrer son interprétation du déterminisme dur.
+
+Laplace indique :
+
+"Une intelligence qui pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvemens des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l'avenir comme le passé, serait présent à ses yeux."
+-- Pierre-Simon Laplace, Essai philosophique sur les probabilités
+
+===== Le dilemme du tramway (1967)
+
+Le https://fr.wikipedia.org/wiki/Dilemme_du_tramway[dilemme ou problème du tramway] (_trolley problem_ en anglais) est une expérience de pensée qui se conçoit ainsi sous une forme générale : une personne peut effectuer un geste qui bénéficiera à un groupe de personnes A, mais, ce faisant, nuira à une personne B ; dans ces circonstances, est-il moral pour la personne d'effectuer ce geste ?
+L'expérience, utilisée en éthique, en sciences cognitives et en neuroéthique, a été décrite pour la première fois par Philippa Foot en 19671 et analysée en profondeur par Judith Jarvis Thomson, Peter Unger et Frances Kamm.
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trolley_problem.png/370px-Trolley_problem.png[Le dilemme du tramway]
+
 === Politique et droit
 
 === Géographie
