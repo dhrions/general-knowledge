@@ -1,6 +1,6 @@
 = Culture générale
 Dhrions
-Version 1.0.1, 04/01/2024
+Version 1.0.2, 13/01/2024
 // Document attributes
 :sectnums:                                                          
 :toc:                                                   
@@ -152,6 +152,49 @@ https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique
 ==== Internet
 
 https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
+
+==== Santé
+
+===== DALY
+
+Les DALY mesurent le nombre de jours perdus en bonne santé.
+Une perte d'un DALY peut ainsi correspondre à :
+
+* Un décès un an plus tôt que l'âge de référence (exemple : 92 ans).
+Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
+* Deux années de vie avec une incapacité de 50 %.
+
+Comparativement à la mortalité, les DALY permettent de prendre en compte les incapacités et les maladies chroniques.
+
+===== Dans le monde
+
+Les principales causes de perte de DALY en 2019 dans le monde peuvent être visualisées grâce au _treemap_ suivant (cf. https://vizhub.healthdata.org/gbd-compare/) :
+
+image::cause-loss-dalys-world-2019.png[Visualisation des données de santé dans le monde]
+
+On peut voir que les principales causes de perte de DALY en 2019 sont les suivantes :
+
+* les décès néonatals (7,33 %) ;
+* les maladies cardiovasculaires (7,19 %) ;
+* les accidents vasculaires cérébraux (5,65 %).
+
+Et pour information, voici d'autres causes de perte de DALY choisies arbitrairement :
+
+* les maladies diarrhéiques (3,19 %) ;
+* les accidents de la route (2,87 %) ;
+* le SIDA (1,88 %) ;
+* les suicides (1,35 %) ;
+* les conflits et le terrorisme (0,25 %, soit 29,32 moins important que les décès néonataux).
+
+===== En France
+
+En France, les principales causes de perte de DALY en 2019 sont les suivantes (cf. https://vizhub.healthdata.org/gbd-compare/) :
+
+* les cancers (21,28 %)
+* les maladies cardiovasculaires (12,82 %) ;
+* les douleurs lombaires (5,11 %) ;
+* parmi les cancers, le cancer du poumon (4,9 %) ;
+* les chutes (4,34 %).
 
 === Arts
 
