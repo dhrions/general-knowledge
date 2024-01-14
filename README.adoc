@@ -149,11 +149,19 @@ https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique
 
 ==== Mathématiques
 
+==== Statistiques
+
+"Les statistiques, c'est réduire la quantité de données."
+-- Ronald Aylmer Fisher, cf. https://youtu.be/BII9UNkQosI?si=rzUjQDAex78wobw0&t=59[Youtube]
+
 ==== Internet
 
 https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
 
 ==== Santé
+
+"L'épidémiologie, c'est compter les mots."
+-- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]
 
 ===== DALY
 
