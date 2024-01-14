@@ -157,14 +157,20 @@ Les différents domaines de la santé sont les suivants :
 
 ===== DALY
 
-Les DALY mesurent le nombre de jours perdus en bonne santé.
+L'*espérance de vie corrigée de l'incapacité* (EVCI) est un mode d'évaluation du coût des maladies mesurant l'espérance de vie en bonne santé, c'est-à-dire en soustrayant à l'espérance de vie le nombre d'années « perdues » à cause de la maladie, du handicap ou d'une mort précoce (cf. https://fr.wikipedia.org/wiki/Esp%C3%A9rance_de_vie_corrig%C3%A9e_de_l%27incapacit%C3%A9[Wikipédia]).
+
+En anglais, on parle de _Disability-Adjusted Life Year_ (DALY).
+
+Les DALY  mesurent ainsi le nombre de jours perdus en bonne santé.
 Une perte d'un DALY peut ainsi correspondre à :
 
 * Un décès un an plus tôt que l'âge de référence (exemple : 92 ans).
 Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
-* Deux années de vie avec une incapacité de 50 %.
+* 2 années de vie avec une incapacité de 50 % correspondent à 1 DALY.
+40 années de vie avec une incapacité de 50 % correspondent à 20 DALY.
+40 années de vie avec une incapacité de 25 % correspondent à 30 DALY.
 
-Comparativement à la mortalité, les DALY permettent de prendre en compte les incapacités et les maladies chroniques.
+*Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.*
 
 ===== DALY dans le monde
 
@@ -217,7 +223,7 @@ L'essentiel, dans la culture française, est de connaître les grands mouvements
 . le Nouveau Roman (XX^e^ siècle).
 
 .Frise des mouvements littéraires français
-image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 600]
+image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 800]
 
 Pour chacun de ces mouvements, il faut connaître :
 
