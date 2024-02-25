@@ -1,6 +1,6 @@
 = Culture générale
 Dhrions
-Version 1.0.2, 13/01/2024
+Version 1.0.2, 25/02/2024
 // Document attributes
 :sectnums:                                                          
 :toc:                                                   
@@ -46,3 +46,32 @@ Les différents cercles :
 * link:./circle-2/README.adoc[deuxième cercle].
 
 == Apprendre à apprendre
+
+Le mieux est de visionner https://www.youtube.com/watch?v=RVB3PBPxMWg[la vidéo de Science Étonnante] sur le sujet.
+
+Il fait notamment référence aux 4 étapes pour apprendre :
+
+image::scienceetonnante-4-etapes.png[Les 4 étapes pour apprendre, 300]
+
+Il présente donc un modèle sur la mémoire :
+
+image::scienceetonnante-memoire.png[La mémorisation, 300]
+
+Comme indiqué https://youtu.be/RVB3PBPxMWg?si=mrILRZGqKE55lwAT&t=524[ici], les méthodes d'apprentissage visent donc à :
+
+* encoder efficacement ;
+* favoriser la consolidation dans la mémoire à long terme ;
+* mémoriser des connaissances conceptuelles sous la forme de schémas mentaux ;
+* améliorer la récupération grâce à des amorces qui rendent nos connaissances disponibles et mobilisables.
+
+Les méthodes d'apprentissage sont donc :
+
+* la répétition espacée ;
+* l'autotest ;
+* l'entrelacement (_interleaving_) ;
+* l'élaboration ;
+* l'enseignement.
+
+=== Mnémoniques
+
+http://villemin.gerard.free.fr/Wwwgvmm/MnemoTe/Phrase.htm#index[Ce site] rassemble de nombreux mnémoniques.
