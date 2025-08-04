@@ -81,32 +81,47 @@ Les différents domaines de la philosophie occidentale sont les suivants (cf. ht
 // * le contractualisme ;
 // * le libertarianisme.
 
-== Politique et droit
+== Sciences
 
-En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
+=== Méthode scientifique
 
-Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
+https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
 
-.Pyramide de Kelsen d'après Wikipédia
-image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
+https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
 
-On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
+=== Histoire
 
-.Schéma de la hiérarchie des normes d'après vie-publique.fr
-image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
+Il faut en tout premier connaître les 5 grandes périodes de l'Histoire et les dates associées :
 
-.Première de couverture du livre _L'État_ d'Atila Özer
-image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+. https://fr.wikipedia.org/wiki/Pr%C3%A9histoire[la Préhistoire] (-2,8 millions d'années à -3000) ;
+. https://fr.wikipedia.org/wiki/Antiquit%C3%A9[l'Antiquité] (-3000 à 476) ;
+. https://fr.wikipedia.org/wiki/Moyen_%C3%82ge[le Moyen Âge] (476 à 1492) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_moderne[l'époque moderne] (1492 à 1789) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_contemporaine[l'époque contemporaine] (1789 à nos jours).
 
-=== En France
+.Frise des grandes époques de l'Histoire
+image::Histoire.png[Frise des grandes époques de l'Histoire]
 
-Après la hiérarchie des normes, le plus important est de connaître l'organisation juridictionnelle en France.
-Pour ce faire, on peut consulter link:https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[l'article Wikipédia dédié à ce sujet].
+Il faut également connaître les événements séparant ces grandes périodes :
 
-.Organisation juridictionnelle nationale française
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
+. https://fr.wikipedia.org/wiki/Histoire_de_l%27%C3%A9criture[l'invention de l'écriture] (vers -3000) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9clin_de_l%27Empire_romain_d%27Occident[la chute de l'Empire romain d'Occident] (476) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9couverte_et_exploration_de_l%27Am%C3%A9rique[la découverte de l'Amérique] (1492) ;
+. https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise[la Révolution française] (1789).
 
-== Économie
+https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
+
+=== Géographie
+
+https://www.jeux-geographiques.com/[Jeux géographiques]
+
+=== Anthropologie
+
+=== Sociologie
+
+=== Démographie
+
+=== Économie
 
 En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://youtu.be/7kYXEBHePJc?si=IWp4v0JeD6z00bsL&t=2000[la vidéo de la chaîne YouTube Heu?reka dédiée].
 
@@ -127,17 +142,44 @@ En vidéo, il u a aussi :
 * link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
 * link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
 
-== Sciences et technologies
+=== Politique
 
-=== Méthode scientifique
+=== Linguistique
 
-https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
+=== Droit
 
-https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
+En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
+
+==== Hiérarchie des normes
+
+Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
+
+.Pyramide de Kelsen d'après Wikipédia
+image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
+
+On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
+
+.Schéma de la hiérarchie des normes d'après vie-publique.fr
+image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
+
+.Première de couverture du livre _L'État_ d'Atila Özer
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+
+==== Organisation juridictionnelle nationale française
+
+Après la hiérarchie des normes, le plus important est de connaître l'organisation juridictionnelle en France.
+Pour ce faire, on peut consulter link:https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[l'article Wikipédia dédié à ce sujet].
+
+.Organisation juridictionnelle nationale française
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
+
+=== Pscyhologie
+
+=== Logique
 
 === Mathématiques
 
-=== Statistiques
+==== Statistiques
 
 "Les statistiques, c'est réduire la quantité de données."
 -- Ronald Aylmer Fisher, cf. https://youtu.be/BII9UNkQosI?si=rzUjQDAex78wobw0&t=59[Youtube]
@@ -146,13 +188,19 @@ https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique
 * https://www.youtube.com/watch?v=e5QMapt8Wfg&t=15s[Les indicateurs de dispersion]
 * https://www.youtube.com/watch?v=BII9UNkQosI&t=210s[Proportions et taux de variation]
 
-=== Internet
+=== Informatique
 
 https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
 
-=== Santé
+=== Chimie
 
-==== Les différents domaines
+=== Physique
+
+=== Biosciences
+
+==== Santé
+
+===== Les différents domaines
 
 Les différents domaines de la santé sont les suivants :
 
@@ -169,9 +217,9 @@ Les différents domaines de la santé sont les suivants :
 "L'épidémiologie, c'est compter les mots."
 -- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]
 
-==== Les indicateurs de santé
+===== Les indicateurs de santé
 
-===== DALY
+====== DALY
 
 L'*espérance de vie corrigée de l'incapacité* (EVCI) est un mode d'évaluation du coût des maladies mesurant l'espérance de vie en bonne santé, c'est-à-dire en soustrayant à l'espérance de vie le nombre d'années « perdues » à cause de la maladie, du handicap ou d'une mort précoce (cf. https://fr.wikipedia.org/wiki/Esp%C3%A9rance_de_vie_corrig%C3%A9e_de_l%27incapacit%C3%A9[Wikipédia]).
 
@@ -188,7 +236,7 @@ Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
 
 *Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.*
 
-===== DALY dans le monde
+====== DALY dans le monde
 
 Les principales causes de perte de DALY en 2019 dans le monde peuvent être visualisées grâce au _treemap_ suivant (cf. https://vizhub.healthdata.org/gbd-compare/) :
 
@@ -208,7 +256,7 @@ Et pour information, voici d'autres causes de perte de DALY choisies arbitrairem
 * les suicides (1,35 %) ;
 * les conflits et le terrorisme (0,25 %, soit 29,32 moins important que les décès néonataux).
 
-===== DALY en France
+====== DALY en France
 
 En France, les principales causes de perte de DALY en 2019 sont les suivantes (cf. https://vizhub.healthdata.org/gbd-compare/) :
 
@@ -217,6 +265,10 @@ En France, les principales causes de perte de DALY en 2019 sont les suivantes (c
 * les douleurs lombaires (5,11 %) ;
 * parmi les cancers, le cancer du poumon (4,9 %) ;
 * les chutes (4,34 %).
+
+=== Géosciences
+
+=== Sciences de l'Univers
 
 == Arts
 
@@ -264,30 +316,6 @@ Sources :
 * https://commentairecompose.fr/mouvement-litteraire/[commentairecompose.fr] ;
 * https://www.bacdefrancais.net/mouvements-litteraires.php[www.bacdefrancais.net].
 
-== Histoire
 
-Il faut en tout premier connaître les 5 grandes périodes de l'Histoire et les dates associées :
-
-. https://fr.wikipedia.org/wiki/Pr%C3%A9histoire[la Préhistoire] (-2,8 millions d'années à -3000) ;
-. https://fr.wikipedia.org/wiki/Antiquit%C3%A9[l'Antiquité] (-3000 à 476) ;
-. https://fr.wikipedia.org/wiki/Moyen_%C3%82ge[le Moyen Âge] (476 à 1492) ;
-. https://fr.wikipedia.org/wiki/%C3%89poque_moderne[l'époque moderne] (1492 à 1789) ;
-. https://fr.wikipedia.org/wiki/%C3%89poque_contemporaine[l'époque contemporaine] (1789 à nos jours).
-
-.Frise des grandes époques de l'Histoire
-image::Histoire.png[Frise des grandes époques de l'Histoire]
-
-Il faut également connaître les événements séparant ces grandes périodes :
-
-. https://fr.wikipedia.org/wiki/Histoire_de_l%27%C3%A9criture[l'invention de l'écriture] (vers -3000) ;
-. https://fr.wikipedia.org/wiki/D%C3%A9clin_de_l%27Empire_romain_d%27Occident[la chute de l'Empire romain d'Occident] (476) ;
-. https://fr.wikipedia.org/wiki/D%C3%A9couverte_et_exploration_de_l%27Am%C3%A9rique[la découverte de l'Amérique] (1492) ;
-. https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise[la Révolution française] (1789).
-
-https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
-
-== Géographie
-
-https://www.jeux-geographiques.com/[Jeux géographiques]
 
 == Sport
