@@ -27,25 +27,25 @@ Il existe des sortes de filiations de philosophes à travers le temps.
 
 Les principaux courants généraux de philosophie sont les suivants :
 
-* l'empirisme : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme);
+* l'*empirisme* : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme);
 * le rationalisme : doctrine qui pose les raisons discursives comme seule source possible de toute connaissance du monde (il s'oppose à l'empirisme) ;
-* l'idéalisme : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
-* le positivisme ;
-* le stoïcisme ;
-* le scepticisme ;
-* le matérialisme ;
-* le structuralisme ;
-* la phénoménologie ;
-* l'existentialisme ;
-* le cynisme ;
-* l'épicurisme ;
-* le platonisme ;
-* le confucianisme ;
-* le taoïsme ;
-* le zoroastrisme ;
-* le manichéisme ;
-* le bouddhisme ;
-* le pragmatisme.
+* l'*idéalisme* : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
+* le *positivisme* ;
+* le *stoïcisme* ;
+* le *scepticisme* ;
+* le *matérialisme* ;
+* le *structuralisme* ;
+* la *phénoménologie* ;
+* l'*existentialisme* ;
+* le *cynisme* ;
+* l'*épicurisme* ;
+* le *platonisme* ;
+* le *confucianisme* ;
+* le *taoïsme* ;
+* le *zoroastrisme* ;
+* le *manichéisme* ;
+* le *bouddhisme* ;
+* le *pragmatisme*.
 
 === Domaines philosophiques
 
@@ -97,13 +97,17 @@ On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographi
 .Schéma de la hiérarchie des normes d'après vie-publique.fr
 image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
 
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
-
+.Première de couverture du livre _L'État_ d'Atila Özer
 image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
 
 === En France
 
+Après la hiérarchie des normes, le plus important est de connaître l'organisation juridictionnelle en France.
+
 https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
+
+.Organisation juridictionnelle nationale française
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
 
 == Économie
 
