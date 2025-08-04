@@ -128,19 +128,9 @@ En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la
 .Schéma de présentation des bases de l'économie et des finances par Heu?reka
 image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
 
-La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
+La collection des « ABC de l'économie » par la Banque de France présente aussi une vidéo et une fiche à ce sujet.
 
-On y trouve :
-
-* link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[catalogue interactif des ressources] ;
-* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des dossiers pédagogiques sur de nombreux thèmes] ;
-* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412234%5D=5412234&periodicity=All&start-date=&end-date[un lexique des mots faisant l'acutalité de l'économie] ;
-* link:https://youtube.com/playlist?list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&si=JdOYwWskejgHserw[un lien vers la playlist Youtube].
-
-En vidéo, il u a aussi :
-
-* link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
-* link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
+link:../circle-2/README.adoc#économie[2^e^ cercle de l'économie]
 
 === Politique
 
@@ -216,55 +206,6 @@ Les différents domaines de la santé sont les suivants :
 
 "L'épidémiologie, c'est compter les mots."
 -- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]
-
-===== Les indicateurs de santé
-
-====== DALY
-
-L'*espérance de vie corrigée de l'incapacité* (EVCI) est un mode d'évaluation du coût des maladies mesurant l'espérance de vie en bonne santé, c'est-à-dire en soustrayant à l'espérance de vie le nombre d'années « perdues » à cause de la maladie, du handicap ou d'une mort précoce (cf. https://fr.wikipedia.org/wiki/Esp%C3%A9rance_de_vie_corrig%C3%A9e_de_l%27incapacit%C3%A9[Wikipédia]).
-
-En anglais, on parle de _Disability-Adjusted Life Year_ (DALY).
-
-Les DALY  mesurent ainsi le nombre de jours perdus en bonne santé.
-Une perte d'un DALY peut ainsi correspondre à :
-
-* Un décès un an plus tôt que l'âge de référence (exemple : 92 ans).
-Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
-* 2 années de vie avec une incapacité de 50 % correspondent à 1 DALY.
-40 années de vie avec une incapacité de 50 % correspondent à 20 DALY.
-40 années de vie avec une incapacité de 25 % correspondent à 30 DALY.
-
-*Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.*
-
-====== DALY dans le monde
-
-Les principales causes de perte de DALY en 2019 dans le monde peuvent être visualisées grâce au _treemap_ suivant (cf. https://vizhub.healthdata.org/gbd-compare/) :
-
-image::cause-loss-dalys-world-2019.png[Visualisation des données de santé dans le monde]
-
-On peut voir que les principales causes de perte de DALY en 2019 sont les suivantes :
-
-* les décès néonatals (7,33 %) ;
-* les maladies cardiovasculaires (7,19 %) ;
-* les accidents vasculaires cérébraux (5,65 %).
-
-Et pour information, voici d'autres causes de perte de DALY choisies arbitrairement :
-
-* les maladies diarrhéiques (3,19 %) ;
-* les accidents de la route (2,87 %) ;
-* le SIDA (1,88 %) ;
-* les suicides (1,35 %) ;
-* les conflits et le terrorisme (0,25 %, soit 29,32 moins important que les décès néonataux).
-
-====== DALY en France
-
-En France, les principales causes de perte de DALY en 2019 sont les suivantes (cf. https://vizhub.healthdata.org/gbd-compare/) :
-
-* les cancers (21,28 %)
-* les maladies cardiovasculaires (12,82 %) ;
-* les douleurs lombaires (5,11 %) ;
-* parmi les cancers, le cancer du poumon (4,9 %) ;
-* les chutes (4,34 %).
 
 === Géosciences
 
