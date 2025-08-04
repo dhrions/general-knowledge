@@ -69,8 +69,6 @@ Les différents domaines de la philosophie occidentale sont les suivants (cf. ht
 * la *gnoséologie* (« D'où provient la connaissance ? ») ;
 * la *théorie de la connaissance* (« Qu'est-ce que la vérité ? »).
 
-=== Émission d'Arte
-
 // Les principaux courants de philosophie politique sont les suivants :
 
 // * le communisme ;
@@ -103,8 +101,7 @@ image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
 === En France
 
 Après la hiérarchie des normes, le plus important est de connaître l'organisation juridictionnelle en France.
-
-https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisation juridictionnelle en France (Wikipédia)]
+Pour ce faire, on peut consulter link:https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[l'article Wikipédia dédié à ce sujet].
 
 .Organisation juridictionnelle nationale française
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
