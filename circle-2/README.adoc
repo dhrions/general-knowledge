@@ -134,9 +134,10 @@ En vidéo, il y a aussi :
 Il y a plusieurs concepts à maîtriser :
 
 * l'inflation ;
-* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
+* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
 * la création monétaire (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
-* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco]).
+* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
+* la politique monétaire (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
 
 === Politique
 === Linguistique
@@ -149,6 +150,41 @@ Il y a plusieurs concepts à maîtriser :
 === Informatique
 === Chimie
 === Physique
+
+==== Énergie
+
+L'énergie est une capacité à produire un travail.
+L'énergie est mesurée en Joules (J).
+
+===== Typologies
+
+L'énergie peut être :
+
+* *potentielle* : énergie de position (ex. : énergie potentielle gravitationnelle) ;
+* *cinétique* : énergie de mouvement (ex. : énergie cinétique) ;
+* *thermique* : énergie de chaleur (ex. : énergie thermique) ;
+* *électrique* : énergie électrique (ex. : énergie électrique) ;
+* *mécanique* : énergie mécanique (ex. : énergie mécanique) ;
+* *chimique* : énergie chimique (ex. : énergie chimique) ;
+* *nucléaire* : énergie nucléaire (ex. : énergie nucléaire) ;
+* *éolienne* : énergie éolienne (ex. : énergie éolienne) ;
+* *solaire* : énergie solaire (ex. : énergie solaire) ;
+* *hydraulique* : énergie hydraulique (ex. : énergie hydraulique) ;
+* *géothermique* : énergie géothermique (ex. : énergie géothermique) ;
+* *marémotrice* : énergie marémotrice (ex. : énergie marémotrice) ;
+* *biomasse* : énergie biomasse (ex. : énergie biomasse) ;
+* *hydrogène* : énergie hydrogène (ex. : énergie hydrogène).
+
+Elle peut être aussi (cf. link:https://www.youtube.com/watch?v=HgfcZeGP7BA&t=783s[vidéo du Réveilleur sur Youtube]):
+
+* *primaire* : énergie non transformée (ex. : énergie solaire, énergie éolienne, énergie hydraulique, énergie géothermique, énergie marémotrice, énergie biomasse, énergie hydrogène) ;
+* *secondaire* : énergie transformée (ex. : énergie électrique, énergie thermique, énergie mécanique, énergie chimique, énergie nucléaire).
+* *finale* : énergie utilisée par l'homme (ex. : énergie électrique, énergie thermique, énergie mécanique, énergie chimique, énergie nucléaire) ;
+* *utile* : énergie utilisée par l'homme pour produire un travail (ex. : énergie électrique, énergie thermique, énergie mécanique, énergie chimique, énergie nucléaire).
+
+.Typologie de l'énergie
+image::typologie-energie-1.png[Typologie de l'énergie]
+
 === Biosciences
 
 ==== Santé
