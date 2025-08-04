@@ -107,9 +107,22 @@ https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[Organisati
 
 == Économie
 
-En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://www.youtube.com/watch?v=7kYXEBHePJc[la vidéo de la chaîne YouTube Heu?reka dédiée].
+En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://youtu.be/7kYXEBHePJc?si=IWp4v0JeD6z00bsL&t=2000[la vidéo de la chaîne YouTube Heu?reka dédiée].
 
+.Schéma de présentation des bases de l'économie et des finances par Heu?reka
 image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
+
+La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
+
+On y trouve :
+* link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[catalogue interactif des ressources] ;
+* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des dossiers pédagogiques sur de nombreux thèmes] ;
+* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412234%5D=5412234&periodicity=All&start-date=&end-date[un lexique des mots faisant l'acutalité de l'économie] ;
+* link:https://youtube.com/playlist?list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&si=JdOYwWskejgHserw[un lien vers la playlist Youtube].
+
+En vidéo, il u a aussi :
+* link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
+* link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
 
 == Sciences et technologies
 
