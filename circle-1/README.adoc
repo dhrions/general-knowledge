@@ -213,6 +213,16 @@ Les différents domaines de la santé sont les suivants :
 
 == Arts
 
+La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
+
+=== Architecture
+
+=== Sculpture
+
+=== Arts visuels
+
+=== Musique
+
 === Littérature
 
 L'essentiel, dans la culture française, est de connaître les grands mouvements littéraires (voire artistiques au sens large) français (voire européens pour certains) :
@@ -257,6 +267,22 @@ Sources :
 * https://commentairecompose.fr/mouvement-litteraire/[commentairecompose.fr] ;
 * https://www.bacdefrancais.net/mouvements-litteraires.php[www.bacdefrancais.net].
 
+=== Arts de scène
 
+==== Danse
+
+==== Théâtre
+
+=== Cinéma
+
+=== Arts médiatiques
+
+==== Radio
+
+==== Télévision
+
+=== Bande dessinée
+
+=== Jeux vidéo
 
 == Sport
