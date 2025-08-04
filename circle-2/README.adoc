@@ -16,6 +16,13 @@ Version 1.0.0, 14/01/2024
 
 == Philosophie
 
+=== Domaines
+
+==== Philosophie politique
+
+.Première de couverture du livre _L'État_ d'Atila Özer
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+
 === Concepts importants
 
 ==== Le paradoxe d'Achille et de la tortue (V^e^ siècle av. J.-C.)
@@ -108,6 +115,7 @@ https://www.youtube.com/watch?v=aed8Q40M8r8[Vidéo documentaire de la chaîne Yo
 ===  Économie
 
 La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
+Cette collection est présentée dans une link:https://www.youtube.com/watch?v=_EXp4_30O1U&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=2[courte vidéo de moins d'une minute] ou dans link:https://www.youtube.com/watch?v=UmbTf2b8qwE&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=1[courte vidéo d'environ 2 minutes].
 
 On y trouve :
 
@@ -120,6 +128,15 @@ En vidéo, il y a aussi :
 
 * link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
 * link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
+
+==== Concepts
+
+Il y a plusieurs concepts à maîtriser :
+
+* l'inflation ;
+* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
+* la création monétaire (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
+* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco]).
 
 === Politique
 === Linguistique

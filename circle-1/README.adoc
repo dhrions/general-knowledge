@@ -30,8 +30,8 @@ Les principaux courants généraux de philosophie sont les suivants :
 * l'*empirisme* : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme);
 * le rationalisme : doctrine qui pose les raisons discursives comme seule source possible de toute connaissance du monde (il s'oppose à l'empirisme) ;
 * l'*idéalisme* : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
-* le *positivisme* ;
-* le *stoïcisme* ;
+* le *positivisme* : ourant philosophique fondé au XIXe siècle par Auguste Comte, à la fois héritier et critique des Lumières du XVIIIe siècle et qui soumet de manière rigoureuse les connaissances acquises à l'épreuve des faits ;
+* le *stoïcisme* :  philosophie de l'éthique personnelle influencée par son système logique et ses vues sur le monde naturel. Il prône l'acceptation sereine du destin, dans sa définition stoïcienne, et la maîtrise de soi, en s'efforçant de vivre en accord avec la nature et en se détachant des émotions perturbatrices;
 * le *scepticisme* ;
 * le *matérialisme* ;
 * le *structuralisme* ;
@@ -117,6 +117,8 @@ https://www.jeux-geographiques.com/[Jeux géographiques]
 
 === Anthropologie
 
+L'anthropologie est une discipline scientifique, située à l'intersection de différentes sciences humaines et naturelles, qui étudie l'être humain et les groupes humains sous tous leurs aspects, à la fois physiques (anatomiques, biologiques, morphologiques, physiologiques, évolutifs, etc.) et culturels (social, religieux, linguistiques, psychologiques, géographiques, etc.).
+
 === Sociologie
 
 === Démographie
@@ -133,6 +135,7 @@ La collection des « ABC de l'économie » par la Banque de France présente aus
 link:../circle-2/README.adoc#économie[2^e^ cercle de l'économie]
 
 === Politique
+
 
 === Linguistique
 
@@ -151,9 +154,6 @@ On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographi
 
 .Schéma de la hiérarchie des normes d'après vie-publique.fr
 image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
-
-.Première de couverture du livre _L'État_ d'Atila Özer
-image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
 
 ==== Organisation juridictionnelle nationale française
 
