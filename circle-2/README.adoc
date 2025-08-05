@@ -153,37 +153,7 @@ Il y a plusieurs concepts à maîtriser :
 
 ==== Énergie
 
-L'énergie est une capacité à produire un travail.
-L'énergie est mesurée en Joules (J).
-
-===== Typologies
-
-L'énergie peut être :
-
-* *potentielle* : énergie de position (ex. : énergie potentielle gravitationnelle) ;
-* *cinétique* : énergie de mouvement (ex. : énergie cinétique) ;
-* *thermique* : énergie de chaleur (ex. : énergie thermique) ;
-* *électrique* : énergie électrique (ex. : énergie électrique) ;
-* *mécanique* : énergie mécanique (ex. : énergie mécanique) ;
-* *chimique* : énergie chimique (ex. : énergie chimique) ;
-* *nucléaire* : énergie nucléaire (ex. : énergie nucléaire) ;
-* *éolienne* : énergie éolienne (ex. : énergie éolienne) ;
-* *solaire* : énergie solaire (ex. : énergie solaire) ;
-* *hydraulique* : énergie hydraulique (ex. : énergie hydraulique) ;
-* *géothermique* : énergie géothermique (ex. : énergie géothermique) ;
-* *marémotrice* : énergie marémotrice (ex. : énergie marémotrice) ;
-* *biomasse* : énergie biomasse (ex. : énergie biomasse) ;
-* *hydrogène* : énergie hydrogène (ex. : énergie hydrogène).
-
-Elle peut être aussi (cf. link:https://www.youtube.com/watch?v=HgfcZeGP7BA&t=783s[vidéo du Réveilleur sur Youtube] et link:https://www.compteco2.com/article/energies-primaire-secondaire-finale-utile[site de CompteCO2]):
-
-* L’énergie *primaire* correspond à l’énergie initiale d’un produit non transformé ; un litre de pétrole brut, un kg d’uranium, le rayonnement solaire, l’énergie éolienne, hydraulique, etc.
-* L’énergie *secondaire* est la quantité d’énergie qu’il reste après la transformation de l’énergie primaire.
-* L’énergie *finale*, est l’énergie qui arrive sur le point de consommation et prête à consommer. Typiquement, pour le transport de l’électricité (entre la centrale et votre maison par exemple) le rendement est de 95%. 
-* L’énergie *utile*, est celle qui procure le service recherché. Par exemple quand on allume une ampoule à incandescence, on ne récupère que 12% de l’énergie finale ! Le reste est parti en chaleur.
-
-.Typologie de l'énergie
-image::typologie-energie-1.png[Typologie de l'énergie]
+On peut en savoir plus link:./physique/README.adoc[ici].
 
 === Biosciences
 

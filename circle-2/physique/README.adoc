@@ -1,0 +1,72 @@
+= Physique
+Dhrions
+Version 1.0.0, 04/08/2025
+// Document attributes
+:sectnums:                                                          
+:toc:                                                   
+:toclevels: 5  
+:toc-title: Ma super table des matières
+
+:description: Example AsciiDoc document                             
+:keywords: AsciiDoc                                                 
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js
+
+== Énergie
+
+L'énergie est une capacité à produire un travail.
+L'énergie est mesurée en Joules (J).
+
+=== Typologies
+
+==== Typologie par origine
+
+L'énergie peut être d'origine :
+
+* fossile ;
+* renouvelable :
+** éolienne ;
+** solaire ;
+** hydraulique ;
+** marémotrice.
+
+==== Typologie par nature
+
+L'énergie peut être :
+
+* *potentielle* : énergie de position (ex. : énergie potentielle gravitationnelle) ;
+* *cinétique* : énergie de mouvement (ex. : énergie cinétique) ;
+* *thermique* : énergie de chaleur (ex. : énergie thermique) ;
+* *électrique* : énergie électrique (ex. : énergie électrique) ;
+* *mécanique* : énergie mécanique (ex. : énergie mécanique) ;
+* *chimique* : énergie chimique (ex. : énergie chimique) ;
+* *nucléaire* : énergie nucléaire (ex. : énergie nucléaire) ;
+* *géothermique* : énergie géothermique (ex. : énergie géothermique) ;
+* *biomasse* : énergie biomasse (ex. : énergie biomasse) ;
+* *hydrogène* : énergie hydrogène (ex. : énergie hydrogène).
+
+==== Typologie par niveau de transformation
+
+Elle peut être aussi (cf. link:https://www.youtube.com/watch?v=HgfcZeGP7BA&t=783s[vidéo du Réveilleur sur Youtube] et link:https://www.compteco2.com/article/energies-primaire-secondaire-finale-utile[site de CompteCO2]):
+
+* L’énergie *primaire* correspond à l’énergie initiale d’un produit non transformé ; un litre de pétrole brut, un kg d’uranium, le rayonnement solaire, l’énergie éolienne, hydraulique, etc.
+* L’énergie *secondaire* est la quantité d’énergie qu’il reste après la transformation de l’énergie primaire.
+* L’énergie *finale*, est l’énergie qui arrive sur le point de consommation et prête à consommer. Typiquement, pour le transport de l’électricité (entre la centrale et votre maison par exemple) le rendement est de 95%. 
+* L’énergie *utile*, est celle qui procure le service recherché. Par exemple quand on allume une ampoule à incandescence, on ne récupère que 12% de l’énergie finale ! Le reste est parti en chaleur.
+
+.Typologie de l'énergie
+image::typologie-energie-1.png[Typologie de l'énergie]
+
+=== Principes
+
+=== Concepts
+
+=== Taux de retour énergétique
+
+Le taux de retour énergétique (TRE) est le rapport entre l'énergie totale récupérée et l'énergie totale investie pour la récupérer.
+
+==== Esclave énergétique
+
+L’*esclave énergétique* est une unité d'énergie comparant une consommation d'énergie annuelle avec un équivalent de production mécanique et calorifique qu'un humain adulte en bonne santé pourrait produire en un an. Cette notion permet de comparer la productivité des « outils » utilisés dans une société industrialisée, fonctionnant généralement grâce aux énergies fossiles, par rapport au nombre de travailleurs ou d'esclaves nécessaires en l'absence de ces outils. (Source :link:https://fr.wikipedia.org/wiki/Esclave_%C3%A9nerg%C3%A9tique[Article Wikipédia « Esclave énergétique »])
