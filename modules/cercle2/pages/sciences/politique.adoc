@@ -7,4 +7,4 @@ On peut consulter en détait la répartition des dépenses budgétaires de l'Ét
 .Répartition du budget de l'État
 image::budget-etat.png[Répartition du budget de l'État]
 
-link:https://www.budget.gouv.fr/documentation/supports-pedagogiques[Cette page] du site du ministère du Budget présente plusieurs supports pédagogiques interessants.
+link:https://www.budget.gouv.fr/documentation/supports-pedagogiques[Cette page] du site du ministère du Budget présente plusieurs supports pédagogiques intéressants, notamment le link:https://www.budget.gouv.fr/documentation/file-download/541[mémento des finances publiques].
