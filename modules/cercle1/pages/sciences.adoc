@@ -1,0 +1,130 @@
+== Sciences
+:toc:
+
+=== Méthode scientifique
+
+https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
+
+https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
+
+=== Histoire
+
+Il faut en tout premier connaître les 5 grandes périodes de l'Histoire et les dates associées :
+
+. https://fr.wikipedia.org/wiki/Pr%C3%A9histoire[la Préhistoire] (-2,8 millions d'années à -3000) ;
+. https://fr.wikipedia.org/wiki/Antiquit%C3%A9[l'Antiquité] (-3000 à 476) ;
+. https://fr.wikipedia.org/wiki/Moyen_%C3%82ge[le Moyen Âge] (476 à 1492) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_moderne[l'époque moderne] (1492 à 1789) ;
+. https://fr.wikipedia.org/wiki/%C3%89poque_contemporaine[l'époque contemporaine] (1789 à nos jours).
+
+.Frise des grandes époques de l'Histoire
+image::Histoire.png[Frise des grandes époques de l'Histoire]
+
+Il faut également connaître les événements séparant ces grandes périodes :
+
+. https://fr.wikipedia.org/wiki/Histoire_de_l%27%C3%A9criture[l'invention de l'écriture] (vers -3000) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9clin_de_l%27Empire_romain_d%27Occident[la chute de l'Empire romain d'Occident] (476) ;
+. https://fr.wikipedia.org/wiki/D%C3%A9couverte_et_exploration_de_l%27Am%C3%A9rique[la découverte de l'Amérique] (1492) ;
+. https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise[la Révolution française] (1789).
+
+https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
+
+=== Géographie
+
+https://www.jeux-geographiques.com/[Jeux géographiques]
+
+=== Anthropologie
+
+L'anthropologie est une discipline scientifique, située à l'intersection de différentes sciences humaines et naturelles, qui étudie l'être humain et les groupes humains sous tous leurs aspects, à la fois physiques (anatomiques, biologiques, morphologiques, physiologiques, évolutifs, etc.) et culturels (social, religieux, linguistiques, psychologiques, géographiques, etc.).
+
+=== Sociologie
+
+=== Démographie
+
+=== Économie
+
+En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://youtu.be/7kYXEBHePJc?si=IWp4v0JeD6z00bsL&t=2000[la vidéo de la chaîne YouTube Heu?reka dédiée].
+
+.Schéma de présentation des bases de l'économie et des finances par Heu?reka
+image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
+
+La collection des « ABC de l'économie » par la Banque de France présente aussi une vidéo et une fiche à ce sujet.
+
+link:../circle-2/README.adoc#économie[2^e^ cercle de l'économie]
+
+=== Politique
+
+
+=== Linguistique
+
+=== Droit
+
+En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
+
+==== Hiérarchie des normes
+
+Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes[Wikipédia].
+
+.Pyramide de Kelsen d'après Wikipédia
+image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
+
+On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
+
+.Schéma de la hiérarchie des normes d'après vie-publique.fr
+image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
+
+==== Organisation juridictionnelle nationale française
+
+Après la hiérarchie des normes, le plus important est de connaître l'organisation juridictionnelle en France.
+Pour ce faire, on peut consulter link:https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[l'article Wikipédia dédié à ce sujet].
+
+.Organisation juridictionnelle nationale française
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
+
+=== Pscyhologie
+
+=== Logique
+
+=== Mathématiques
+
+==== Statistiques
+
+"Les statistiques, c'est réduire la quantité de données."
+-- Ronald Aylmer Fisher, cf. https://youtu.be/BII9UNkQosI?si=rzUjQDAex78wobw0&t=59[Youtube]
+
+* https://www.youtube.com/watch?v=5bsgf9YAYdo[Les indicateurs de position]
+* https://www.youtube.com/watch?v=e5QMapt8Wfg&t=15s[Les indicateurs de dispersion]
+* https://www.youtube.com/watch?v=BII9UNkQosI&t=210s[Proportions et taux de variation]
+
+=== Informatique
+
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
+
+=== Chimie
+
+=== Physique
+
+=== Biosciences
+
+==== Santé
+
+===== Les différents domaines
+
+Les différents domaines de la santé sont les suivants :
+
+* la santé publique ;
+* l'épidémiologie ;
+* la médecine ;
+* la pharmacologie ;
+* la psychologie ;
+* la psychiatrie ;
+* la psychanalyse ;
+* l'anatomie ;
+* la physiologie.
+
+"L'épidémiologie, c'est compter les mots."
+-- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]
+
+=== Géosciences
+
+=== Sciences de l'Univers

@@ -1,0 +1,74 @@
+= Arts
+:toc:
+
+La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
+
+== Architecture
+
+== Sculpture
+
+== Arts visuels
+
+== Musique
+
+== Littérature
+
+L'essentiel, dans la culture française, est de connaître les grands mouvements littéraires (voire artistiques au sens large) français (voire européens pour certains) :
+
+. l'humanisme (XVI^e^ siècle) ;
+. la Pléiade (XVI^e^ siècle) ;
+. le baroque (XVII^e^ siècle) ;
+. le classicisme (XVII^e^ siècle) ;
+. les Lumières (XVIII^e^ siècle) ;
+. le romantisme (XIX^e^ siècle) ;
+. le Parnasse (XIX^e^ siècle) ;
+. le réalisme (XIX^e^ siècle) ;
+. le naturalisme (XIX^e^ siècle) ;
+. le symbolisme (XIX^e^ siècle) ;
+. le surréalisme (XX^e^ siècle) ;
+. l'absurde (XX^e^ siècle) ;
+. le Nouveau Roman (XX^e^ siècle).
+
+.Frise des mouvements littéraires français
+image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 800]
+
+Pour chacun de ces mouvements, il faut connaître :
+
+* la période historique ;
+* le contexte historique (et l'éventuel moment ou texte fondateur) ;
+* les auteurs principaux ;
+* les œuvres majeures ;
+* les genres associés (roman, théâtre, poésie, etc.) ;
+* les thèmes associés (amour, mort, etc.) ;
+* les caractéristiques stylistiques ;
+* les autres arts associés (peinture, musique, etc.).
+
+NOTE:: de nombreux mouvements littéraires sont associés à d'autres arts (peinture, musique, etc.).
+Par exemple, le romantisme existe aussi en peinture et en musique.
+
+NOTE:: De nombreux mouvements littéraires se sont créés en opposition à ceux auxquels qu'ils ont supplanté.
+Ainsi, le baroque excentrique et débridé s'oppose au classicisme épuré et mesuré, les Lumières rationnelles et émancipatrices s'opposent au romantisme passionné et exalté, le romantisme passionné et exalté s'oppose au réalisme terre-à-terre et objectif, le réalisme terre-à-terre et objectif s'oppose au symbolisme mystérieux et subjectif.
+
+Sources :
+
+* https://www.laculturegenerale.com/mouvement-litteraires-francais/[www.laculturegenerale.com] est pleinement en cible car il donne l'essentiel : le contexte historique, les caractéristiques, les auteurs et les œuvres majeures ;
+* https://commentairecompose.fr/mouvement-litteraire/[commentairecompose.fr] ;
+* https://www.bacdefrancais.net/mouvements-litteraires.php[www.bacdefrancais.net].
+
+== Arts de scène
+
+=== Danse
+
+=== Théâtre
+
+== Cinéma
+
+== Arts médiatiques
+
+=== Radio
+
+=== Télévision
+
+== Bande dessinée
+
+== Jeux vidéo
