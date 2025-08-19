@@ -1,0 +1,10 @@
+= Politique
+
+== Budget de l'État
+
+On peut consulter en détait la répartition des dépenses budgétaires de l'État sur link:https://www.budget.gouv.fr/budget-etat/mission[cette page] du site du ministère du Budget.
+
+.Répartition du budget de l'État
+image::budget-etat.png[Répartition du budget de l'État]
+
+link:https://www.budget.gouv.fr/documentation/supports-pedagogiques[Cette page] du site du ministère du Budget présente plusieurs supports pédagogiques interessants.

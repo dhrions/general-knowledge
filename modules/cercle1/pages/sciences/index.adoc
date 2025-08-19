@@ -1,5 +1,7 @@
 == Sciences
 :toc:
+:toc-title: Sommaire
+// :sectnums:
 
 === Méthode scientifique
 
@@ -7,27 +9,7 @@ https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la cha�
 
 https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
 
-=== Histoire
 
-Il faut en tout premier connaître les 5 grandes périodes de l'Histoire et les dates associées :
-
-. https://fr.wikipedia.org/wiki/Pr%C3%A9histoire[la Préhistoire] (-2,8 millions d'années à -3000) ;
-. https://fr.wikipedia.org/wiki/Antiquit%C3%A9[l'Antiquité] (-3000 à 476) ;
-. https://fr.wikipedia.org/wiki/Moyen_%C3%82ge[le Moyen Âge] (476 à 1492) ;
-. https://fr.wikipedia.org/wiki/%C3%89poque_moderne[l'époque moderne] (1492 à 1789) ;
-. https://fr.wikipedia.org/wiki/%C3%89poque_contemporaine[l'époque contemporaine] (1789 à nos jours).
-
-.Frise des grandes époques de l'Histoire
-image::Histoire.png[Frise des grandes époques de l'Histoire]
-
-Il faut également connaître les événements séparant ces grandes périodes :
-
-. https://fr.wikipedia.org/wiki/Histoire_de_l%27%C3%A9criture[l'invention de l'écriture] (vers -3000) ;
-. https://fr.wikipedia.org/wiki/D%C3%A9clin_de_l%27Empire_romain_d%27Occident[la chute de l'Empire romain d'Occident] (476) ;
-. https://fr.wikipedia.org/wiki/D%C3%A9couverte_et_exploration_de_l%27Am%C3%A9rique[la découverte de l'Amérique] (1492) ;
-. https://fr.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise[la Révolution française] (1789).
-
-https://www.jeux-historiques.com/jeux-historiques-Quiz-Les-grandes-dates-de-l-Histoire-de-France-_pageid474.html[Quiz - Les grandes dates de l'Histoire de France]
 
 === Géographie
 

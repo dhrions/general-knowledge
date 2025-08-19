@@ -1,1 +1,44 @@
 = Culture générale
+Dhrions
+Version 1.0.2, 25/02/2024
+// Document attributes
+:sectnums:                                                          
+:toc:                                                   
+:toclevels: 5  
+:toc-title: Sommaire
+
+:description: Example AsciiDoc document                             
+:keywords: AsciiDoc                                                 
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js
+
+// Mes variables
+:url-wiki: https://fr.wikipedia.org/wiki
+:url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
+
+L'objectif de ce document est de proposer une hiérarchie des connaissances à assimiler et les ressources les plus utiles pour les acquérir.
+Ce document n'a pas pour objectif de contenir des connaissances.
+
+Il est important du prendre de la hauteur sur le présent document : celui-ci est forcément subjectif.
+En effet, il repose notamment sur une vision française de la culture générale : plutôt centrée sur la France et sur les matières classiques (qui fait écho à une conception considérée parfois comme « bourgeoise » de la culture générale).
+
+Plutôt que d'étudier un sujet en profondeur, la culture générale consiste à avoir une vision globale de nombreux sujets.
+Pour avoir une culture générale équilibré, il vaut mieux procéder dans cet ordre :
+
+* connaître les fondamentaux de chaque domaine ;
+* connaître les fondamentaux de chaque sous-domaine ;
+* connaître les fondamentaux de chaque sous-sous-domaine ;
+* etc.
+
+On peut s'imaginer cela à la manière de cercles concentriques.
+
+image::cercles-concentriques-culture-generale.jpg[Cercles concentriques de la culture générale, 300]
+
+Pour avoir une culture générale équilibrée, il faut commencer par le cercle rouge avant de passer au cercle orange, puis au cercle jaune, etc.
+
+Les différents cercles :
+
+* xref:cercle1:index.adoc[premier cercle] ;
+* xref:cercle2:index.adoc[deuxième cercle].
