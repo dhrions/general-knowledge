@@ -1,0 +1,6 @@
+name: culture-generale
+title: Culture générale
+version: true
+start_page: ROOT:index.adoc
+nav:
+  - modules/nav.adoc
