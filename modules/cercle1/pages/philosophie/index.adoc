@@ -1,5 +1,6 @@
 = Philosophie
 :toc:
+:toc-title: Sommaire
 
 == Courants philosophiques
 

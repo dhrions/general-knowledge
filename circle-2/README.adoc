@@ -5,7 +5,7 @@ Version 1.0.0, 14/01/2024
 :sectnums:                                                          
 :toc:                                                   
 :toclevels: 5  
-:toc-title: Ma super table des matières
+:toc-title: Sommaire
 
 :description: Example AsciiDoc document                             
 :keywords: AsciiDoc                                                 
