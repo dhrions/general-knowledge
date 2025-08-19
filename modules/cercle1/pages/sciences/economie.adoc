@@ -1,5 +1,19 @@
 = Économie
 
+== Les différents agents économiques
+
+link:https://www.vie-publique.fr/fiches/270200-les-principaux-acteurs-de-leconomie[vie-publique.fr - Quels sont les principaux acteurs économiques ?]
+
+== Les concepts à connaître
+
+Voici les grands concepts de l'écoonmie à connaître
+
+* la consommation (cf. https://www.vie-publique.fr/fiches/287589-quest-ce-que-la-consommation[vie-publique.fr - Qu'est-ce que la consommation ?]).
+* le marché (cf. link:https://www.vie-publique.fr/fiches/287704-quest-ce-quun-marche[vie-publique.fr -  Qu'est-ce qu'un marché ?]) ;
+* l'inflation (cf. link:https://www.vie-publique.fr/fiches/270044-quest-ce-que-linflation-ipc-pouvoir-dachat[vie-publique.fr -  Qu'est-ce que l'inflation ?]) ;
+
+== Synthèse
+
 En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://youtu.be/7kYXEBHePJc?si=IWp4v0JeD6z00bsL&t=2000[la vidéo de la chaîne YouTube Heu?reka dédiée].
 
 .Schéma de présentation des bases de l'économie et des finances par Heu?reka
@@ -7,4 +21,6 @@ image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et de
 
 La collection des « ABC de l'économie » par la Banque de France présente aussi une vidéo et une fiche à ce sujet.
 
-link:../circle-2/README.adoc#économie[2^e^ cercle de l'économie]
+== 2^e^ cercle de l'économie
+
+xref:cercle2:sciences/economie.adoc[2^e^ cercle de l'économie]

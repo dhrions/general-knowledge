@@ -1,0 +1,6 @@
+= Politique
+
+L'introduction du livre d'Atila Özer présente une section intitulée « La politique et le politique » qui présente clairement une défition _de la_ politique et _du_ politique.
+
+.Première de couverture du livre _L'État_ d'Atila Özer
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]

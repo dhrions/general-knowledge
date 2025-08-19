@@ -4,11 +4,11 @@
 
 Il y a plusieurs concepts à maîtriser :
 
-* l'inflation ;
-* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
-* la création monétaire (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
+* l'*inflation* ;
+* la *monnaie* (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
+* la *création monétaire* (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
 * la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
-* la politique monétaire (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
+* la *politique monétaire* (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
 
 == Ressources
 
