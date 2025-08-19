@@ -1,1 +1,7 @@
 * xref:cercle1:index.adoc[Cercle 1]
+** xref:cercle1:philosophie.adoc[Philosophie]
+** xref:cercle1:sciences.adoc[Sciences]
+** xref:cercle1:arts.adoc[Arts]
+** xref:cercle1:sport.adoc[Sport]
+** xref:cercle1:gastronomie.adoc[Gastronomie]
+* xref:cercle2:index.adoc[Cercle 2]
