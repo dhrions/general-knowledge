@@ -8,6 +8,8 @@
 
 ** link:https://www.jeux-geographiques.com/jeux-en-ligne-Regions-de-France-2016-_pageid373.html[Jeux géographiques].
 
+image::jeux-geo-regions-fr.png[]
+
 == Les principales villes d'Europe
 
 ** link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-d-Europe-Junior-_pageid45.html[Jeux géographiques]
@@ -36,7 +38,9 @@ Voici des concepts à connaître :
 
 == Ressources
 
-Le site https://www.jeux-geographiques.com/[jeux géographiques] permet d'apprendre à situer :
+Le site https://www.jeux-geographiques.com/[jeux géographiques] permet d'apprendre de nombreuses choses.
+
+Pour le premier cercle, seuls les quiz « Junior » suffisent, il permettent d'apprendre à situer :
 
 * link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-de-France-Junior-_pageid40.html[les principales villes de France] ;
 * link:https://www.jeux-geographiques.com/jeux-en-ligne-Regions-de-France-2016-_pageid373.html[les régions française] ;

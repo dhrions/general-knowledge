@@ -1,0 +1,10 @@
+= Économie
+
+En moins de 36 mn, il est possible d'apprendre les bases de l'économie et de la finance en regardant https://youtu.be/7kYXEBHePJc?si=IWp4v0JeD6z00bsL&t=2000[la vidéo de la chaîne YouTube Heu?reka dédiée].
+
+.Schéma de présentation des bases de l'économie et des finances par Heu?reka
+image::heureka-bases-economie-finances.png[Heu?reka - Bases de l'économie et des finances]
+
+La collection des « ABC de l'économie » par la Banque de France présente aussi une vidéo et une fiche à ce sujet.
+
+link:../circle-2/README.adoc#économie[2^e^ cercle de l'économie]

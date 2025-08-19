@@ -14,7 +14,10 @@ Version 1.0.0, 14/01/2024
 :stylesdir: ./styles
 :scriptsdir: ./js
 
-* xref:cercle1:philosophie/index.adoc[Philosophie]
-* xref:cercle1:sciences/index.adoc[Sciences]
-* xref:cercle1:arts-et-culture/index.adoc[Arts]
-* xref:cercle1:sports-et-loisirs/index.adoc[Sport]
+. xref:cercle1:philosophie/index.adoc[Philosophie]
+. xref:cercle1:sciences/index.adoc[Sciences]
+. xref:cercle1:arts-et-culture/index.adoc[Arts et culture]
+. xref:cercle1:sports-et-loisirs/index.adoc[Sports et loisirs]
+. xref:cercle1:politique/index.adoc[Politique]
+. xref:cercle1:droit/index.adoc[Droit]
+. xref:cercle1:biais-cognitifs/index.adoc[Biais cognitifs]

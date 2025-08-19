@@ -1,9 +1,28 @@
 =  Économie
 
-La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
-Cette collection est présentée dans une link:https://www.youtube.com/watch?v=_EXp4_30O1U&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=2[courte vidéo de moins d'une minute] ou dans link:https://www.youtube.com/watch?v=UmbTf2b8qwE&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=1[courte vidéo d'environ 2 minutes].
+== Concepts
 
-On y trouve :
+Il y a plusieurs concepts à maîtriser :
+
+* l'inflation ;
+* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
+* la création monétaire (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
+* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
+* la politique monétaire (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
+
+== Ressources
+
+La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
+
+Cette collection est présentée dans une link:https://www.youtube.com/watch?v=_EXp4_30O1U&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=2[courte vidéo de moins d'une minute] :
+
+video::_EXp4_30O1U[youtube, width=640, height=480, title=""]
+
+Ou dans link:https://www.youtube.com/watch?v=UmbTf2b8qwE&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=1[courte vidéo d'environ 2 minutes] :
+
+video::UmbTf2b8qwE[youtube, width=640, height=480, title=""]
+
+La collection des « ABC de l'économie » regroupe :
 
 * link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[catalogue interactif des ressources] ;
 * link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des dossiers pédagogiques sur de nombreux thèmes] ;
@@ -14,13 +33,3 @@ En vidéo, il y a aussi :
 
 * link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
 * link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
-
-== Concepts
-
-Il y a plusieurs concepts à maîtriser :
-
-* l'inflation ;
-* la monnaie (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
-* la création monétaire (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
-* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
-* la politique monétaire (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)

@@ -1,0 +1,8 @@
+= Statistiques
+
+"Les statistiques, c'est réduire la quantité de données."
+-- Ronald Aylmer Fisher, cf. https://youtu.be/BII9UNkQosI?si=rzUjQDAex78wobw0&t=59[Youtube]
+
+* https://www.youtube.com/watch?v=5bsgf9YAYdo[Les indicateurs de position]
+* https://www.youtube.com/watch?v=e5QMapt8Wfg&t=15s[Les indicateurs de dispersion]
+* https://www.youtube.com/watch?v=BII9UNkQosI&t=210s[Proportions et taux de variation]
