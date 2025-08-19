@@ -19,7 +19,7 @@ L'essentiel, dans la culture française, est de connaître les grands mouvements
 . le Nouveau Roman (XX^e^ siècle).
 
 .Frise des mouvements littéraires français
-image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français, 800]
+image::frise-mouvements-litteraires-francais.png[Frise des mouvements littéraires français]
 
 Pour chacun de ces mouvements, il faut connaître :
 
