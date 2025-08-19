@@ -36,6 +36,13 @@ On peut s'imaginer cela à la manière de cercles concentriques.
 
 image::cercles-concentriques-culture-generale.jpg[Cercles concentriques de la culture générale, 300]
 
+De manière totalement subjective, les grands sujets sont les suivants :
+
+* philosophie ;
+* sciences ;
+* arts et culture ;
+* sports et loisirs ;
+
 Pour avoir une culture générale équilibrée, il faut commencer par le cercle rouge avant de passer au cercle orange, puis au cercle jaune, etc.
 
 Les différents cercles :

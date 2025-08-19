@@ -1,0 +1,47 @@
+= Géographie
+
+== Les principales villes de France
+
+** link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-de-France-Junior-_pageid40.html[Jeux géographiques]
+
+== Les régions françaises
+
+** link:https://www.jeux-geographiques.com/jeux-en-ligne-Regions-de-France-2016-_pageid373.html[Jeux géographiques].
+
+== Les principales villes d'Europe
+
+** link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-d-Europe-Junior-_pageid45.html[Jeux géographiques]
+
+== Les pays d'Europe
+
+** link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Pays-d-Europe-_pageid160.html[Jeux géographiques]
+
+== La géographie physique du monde
+
+** link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Geo-Physique-du-Monde-Junior-_pageid117.html[Jeux géographiques].
+
+== Concepts à connaître
+
+Voici des concepts à connaître :
+
+* continent ;
+* isthme ;
+* détroit ;
+* océan ;
+* mer ;
+* lac ;
+* golfe ;
+* baie ;
+* etc.
+
+== Ressources
+
+Le site https://www.jeux-geographiques.com/[jeux géographiques] permet d'apprendre à situer :
+
+* link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-de-France-Junior-_pageid40.html[les principales villes de France] ;
+* link:https://www.jeux-geographiques.com/jeux-en-ligne-Regions-de-France-2016-_pageid373.html[les régions française] ;
+* link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Villes-d-Europe-Junior-_pageid45.html[les principales villes d'Europe] ;
+* link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Pays-d-Europe-_pageid160.html[les pays d'Europe] ;
+* link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Geo-Physique-du-Monde-Junior-_pageid117.html[la géographie physique du monde].
+
+image::jeux-geo.png[Capture d'écran du site « Jeux géographiques »]

@@ -14,7 +14,7 @@ Version 1.0.0, 14/01/2024
 :stylesdir: ./styles
 :scriptsdir: ./js
 
-* xref:arts/index.adoc[Arts]
+* xref:arts-et-culture/index.adoc[Arts]
 * xref:sciences/index.adoc[Sciences]
 ** xref:sciences/economie.adoc[Économie]
 ** xref:sciences/physique.adoc[Physique]

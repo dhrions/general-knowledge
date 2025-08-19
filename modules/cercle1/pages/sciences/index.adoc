@@ -5,15 +5,12 @@
 
 === Méthode scientifique
 
-https://www.youtube.com/watch?v=oFzC-VogTvM[Expérience participative de la chaîne Youtube « Scilabus »]
+Les deux vidéos ci-dessous permettent de comprendre la méthode scientifique.
 
-https://www.youtube.com/watch?v=C5R-XgS172k[Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
+video::oFzC-VogTvM[youtube, width=640, height=480, title=Expérience participative de la chaîne Youtube « Scilabus »]
 
+video::C5R-XgS172k[youtube, width=640, height=480, title=Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
 
-
-=== Géographie
-
-https://www.jeux-geographiques.com/[Jeux géographiques]
 
 === Anthropologie
 

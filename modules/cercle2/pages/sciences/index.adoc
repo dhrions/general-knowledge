@@ -3,11 +3,15 @@
 
 ==  Méthode scientifique
 
-==  Histoire
+La vidéo ci-dessous de la chaîne « ScienceEtonnante » permet de comprendre la recherche scientifique, en quoi consiste un papier scientifique, la revue par les pairs, les facteurs d'impact...
 
-==  Géographie
+video::NkdczX1Sq-U[youtube, width=640, height=480, title=""]
 
-https://fr.wikipedia.org/wiki/Balkanisation[Balkanisation (Wikipédia)] : processus de fragmentation et de division d’une région ou d’un État en des États et régions plus petits et souvent hostiles les uns envers les autres.
+La vidéo ci-dessous permet de comprendre la filiation des différents papiers scientifiques.
+
+video::1xe3zy2mU2M[youtube, width=640, height=480, title=""]
+
+
 
 == Anthropologie
 
@@ -30,60 +34,9 @@ https://www.youtube.com/watch?v=aed8Q40M8r8[Vidéo documentaire de la chaîne Yo
 
 === Énergie
 
-On peut en savoir plus link:./physique/README.adoc[ici].
+On peut en savoir plus xref:sciences/physique.adoc[ici].
 
 == Biosciences
-
-=== Santé
-
-==== Les indicateurs de santé
-
-===== DALY
-
-L'*espérance de vie corrigée de l'incapacité* (EVCI) est un mode d'évaluation du coût des maladies mesurant l'espérance de vie en bonne santé, c'est-à-dire en soustrayant à l'espérance de vie le nombre d'années « perdues » à cause de la maladie, du handicap ou d'une mort précoce (cf. https://fr.wikipedia.org/wiki/Esp%C3%A9rance_de_vie_corrig%C3%A9e_de_l%27incapacit%C3%A9[Wikipédia]).
-
-En anglais, on parle de _Disability-Adjusted Life Year_ (DALY).
-
-Les DALY  mesurent ainsi le nombre de jours perdus en bonne santé.
-Une perte d'un DALY peut ainsi correspondre à :
-
-* Un décès un an plus tôt que l'âge de référence (exemple : 92 ans).
-Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
-* 2 années de vie avec une incapacité de 50 % correspondent à 1 DALY.
-40 années de vie avec une incapacité de 50 % correspondent à 20 DALY.
-40 années de vie avec une incapacité de 25 % correspondent à 30 DALY.
-
-*Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.*
-
-===== DALY dans le monde
-
-Les principales causes de perte de DALY en 2019 dans le monde peuvent être visualisées grâce au _treemap_ suivant (cf. https://vizhub.healthdata.org/gbd-compare/) :
-
-image::cause-loss-dalys-world-2019.png[Visualisation des données de santé dans le monde]
-
-On peut voir que les principales causes de perte de DALY en 2019 sont les suivantes :
-
-* les décès néonatals (7,33 %) ;
-* les maladies cardiovasculaires (7,19 %) ;
-* les accidents vasculaires cérébraux (5,65 %).
-
-Et pour information, voici d'autres causes de perte de DALY choisies arbitrairement :
-
-* les maladies diarrhéiques (3,19 %) ;
-* les accidents de la route (2,87 %) ;
-* le SIDA (1,88 %) ;
-* les suicides (1,35 %) ;
-* les conflits et le terrorisme (0,25 %, soit 29,32 moins important que les décès néonataux).
-
-===== DALY en France
-
-En France, les principales causes de perte de DALY en 2019 sont les suivantes (cf. https://vizhub.healthdata.org/gbd-compare/) :
-
-* les cancers (21,28 %)
-* les maladies cardiovasculaires (12,82 %) ;
-* les douleurs lombaires (5,11 %) ;
-* parmi les cancers, le cancer du poumon (4,9 %) ;
-* les chutes (4,34 %).
 
 == Géosciences
 == Sciences de l’Univers
