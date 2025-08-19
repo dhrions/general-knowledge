@@ -9,7 +9,7 @@ Pour ce faire, on peut consulter https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_d
 .Pyramide de Kelsen d'après Wikipédia
 image::https://upload.wikimedia.org/wikipedia/commons/f/fa/Hi%C3%A9rarchie_des_normes.png[La pyramide de Kelsen d'après Wikipédia, 300]
 
-On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[vie-publique.fr].
+On peut aussi consulter https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes[la page de vie-publique.fr consacrée à la hiérarchie des normes].
 
 .Schéma de la hiérarchie des normes d'après vie-publique.fr
 image::https://medias.vie-publique.fr/data_storage_s3/styles/large_full/public/infographie/hierarchie-normes.png?itok=aO_--8z6[La hiérarchie des normes d'après vie-publique.fr, 300]
@@ -20,4 +20,4 @@ Après la hiérarchie des normes, le plus important est de connaître l'organisa
 Pour ce faire, on peut consulter link:https://fr.wikipedia.org/wiki/Organisation_juridictionnelle_en_France[l'article Wikipédia dédié à ce sujet].
 
 .Organisation juridictionnelle nationale française
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia), 300]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_juridictionnelle_nationale_fr.svg/1920px-Organisation_juridictionnelle_nationale_fr.svg.png[Organisation juridictionnelle en France (Wikipédia)]

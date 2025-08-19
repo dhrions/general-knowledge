@@ -1,0 +1,15 @@
+= Informatique
+
+== Concepts à connaître
+
+Voici les principaux concepts à connaître :
+
+* _hardware_ ;
+* _firmware_ ;
+* _software_ ;
+* ordinateur ;
+* bit ;
+* octet ;
+* processeur ;
+* périphérique ;
+* intelligence artificielle.
