@@ -1,0 +1,6 @@
+= Sociologie
+
+La sociologie est une discipline des sciences sociales qui a pour objectif de rechercher des explications et des compréhensions typiquement sociales, et non pas mentales ou biophysiques, à des phénomènes observables.
+
+.Un sociogramme de Moreno, qui représente les affinités entre individus
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moreno_Sociogram_1st_Grade.svg/568px-Moreno_Sociogram_1st_Grade.svg.png[Un sociogramme de Moreno, qui représente les affinités entre individus.]
