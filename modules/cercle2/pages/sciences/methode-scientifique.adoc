@@ -1,0 +1,9 @@
+=  Méthode scientifique
+
+La vidéo ci-dessous de la chaîne « ScienceEtonnante » permet de comprendre la recherche scientifique, en quoi consiste un papier scientifique, la revue par les pairs, les facteurs d'impact, les facteurs de confusion...
+
+video::NkdczX1Sq-U[youtube, width=640, height=480, title=""]
+
+La vidéo ci-dessous permet de comprendre la filiation des différents papiers scientifiques.
+
+video::1xe3zy2mU2M[youtube, width=640, height=480, title=""]

@@ -1,0 +1,7 @@
+= Méthode scientifique
+
+Les deux vidéos ci-dessous permettent de comprendre la méthode scientifique.
+
+video::oFzC-VogTvM[youtube, width=640, height=480, title=Expérience participative de la chaîne Youtube « Scilabus »]
+
+video::C5R-XgS172k[youtube, width=640, height=480, title=Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]

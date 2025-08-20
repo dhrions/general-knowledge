@@ -1,42 +1,6 @@
 = Sciences
 :toc:
 
-==  Méthode scientifique
-
-La vidéo ci-dessous de la chaîne « ScienceEtonnante » permet de comprendre la recherche scientifique, en quoi consiste un papier scientifique, la revue par les pairs, les facteurs d'impact...
-
-video::NkdczX1Sq-U[youtube, width=640, height=480, title=""]
-
-La vidéo ci-dessous permet de comprendre la filiation des différents papiers scientifiques.
-
-video::1xe3zy2mU2M[youtube, width=640, height=480, title=""]
-
-
-
-== Anthropologie
-
-==  Sociologie
-
-https://www.youtube.com/watch?v=aed8Q40M8r8[Vidéo documentaire de la chaîne YouTube « Heu?reka » sur les inégalités de salaires entre les hommes et les femmes].
-
-==  Démographie
-
-== Linguistique
-== Droit
-
-== Pscyhologie
-== Logique
-== Mathématiques
-== Statistiques
-== Informatique
-== Chimie
-== Physique
-
-=== Énergie
+== Énergie
 
 On peut en savoir plus xref:sciences/physique.adoc[ici].
-
-== Biosciences
-
-== Géosciences
-== Sciences de l’Univers

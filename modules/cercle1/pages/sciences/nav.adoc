@@ -1,5 +1,6 @@
 // * xref:sciences/Méthode scientifique
 
+* xref:sciences/methode-scientifique.adoc[Méthode scientifique]
 * xref:sciences/histoire.adoc[Histoire]
 * xref:sciences/geographie.adoc[Géographie]
 * xref:sciences/anthropologie.adoc[Anthropologie]

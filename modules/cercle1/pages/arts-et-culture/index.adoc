@@ -20,3 +20,7 @@ La classification est fondée sur celle décrite dans link:https://fr.wikipedia.
 En dehors des arts, on compte aussi :
 
 * xref:./gastronomie.adoc[Gastronomie]
+
+== 2^e^ cercle des arts et de la culture
+
+xref:cercle2:arts-et-culture/index.adoc[2^e^ cercle des arts et de la culture]
