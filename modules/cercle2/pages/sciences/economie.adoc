@@ -16,6 +16,9 @@ link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/i
 .Inflation ou déflation : c'est quoi ? - ABC de l'économie
 video::BAf2LOFhEeQ[youtube,width=680,height=420]
 
+.L'inflation pour les nuls (Part - 1) - Heu?reka
+video::KsfjIFE4ce4[youtube,width=680,height=420]
+
 === Monnaie
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-de-quoi-parle-t-on[Fiche de l'ABC de l'économie - Monnaie : de quoi parle-t-on ?]
@@ -66,6 +69,9 @@ link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/q
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/leuro[Fiche de  l'ABC de l'économie - L’euro]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-taux-de-change[Fiche de  l'ABC de l'économie - Le taux de change]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-stabilite-financiere[Fiche de  l'ABC de l'économie - La stabilité financière]
+
+.Et si on utilisait tous la même monnaie ? - Heu?reka
+video::GplUE1NGqgA[youtube,width=680,height=420]
 
 == Ressources
 

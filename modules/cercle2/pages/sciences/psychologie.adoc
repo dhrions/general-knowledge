@@ -2,9 +2,8 @@
 
 Expérience de Rosenhan
 
-link::https://www.youtube.com/watch?v=jcHaN33Nm2E&[Vidéo « L'homme qui a mis la psychiatrie en PLS  »]
-
-video::jcHaN33Nm2E&[youtube, width=680, height=420]
+.Vidéo « L'homme qui a mis la psychiatrie en PLS  »
+video::jcHaN33Nm2E[youtube, width=680, height=420]
 
 Expérience Hawthorne
 

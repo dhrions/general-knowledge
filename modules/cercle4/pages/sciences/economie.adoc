@@ -6,7 +6,13 @@
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-transmission-de-la-politique-monetaire[La transmission de la politique monétaire]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/forward-guidance-guidage-prospectif[Forward guidance (guidage prospectif)]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quantitative-easing[Le quantitative easing]
+
+=== _Quantitative easing_
+
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quantitative-easing[Le quantitative easing]
+
+.Quantitative Easing - Heu?reka
+video::KSQpp3CNeZQ[youtube, width=680, height=420]
 
 == Histoire
 
