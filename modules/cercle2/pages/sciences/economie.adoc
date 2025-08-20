@@ -46,3 +46,7 @@ En vidéo, il y a aussi :
 
 * link:https://www.youtube.com/playlist?list=PLFfqO2eImktsTAyNvLqvh4aKwua87aqR1[la playlist de vidéos pédagogiques de la Cité de l'Économie] ;
 * link:https://www.youtube.com/@dessinemoileco-sydo[la chaîne Youtube « Dessine-moi l'éco »].
+
+== 3^e^ cercle de l'économie
+
+xref:cercle3:sciences/economie.adoc[3^e^ cercle de l'économie]

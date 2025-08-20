@@ -13,11 +13,6 @@
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-crise-de-1929[La crise de 1929]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/comprendre-la-crise-economique-liee-au-covid-19[Comprendre la crise économique liée au COVID-19]
 
-== Blockhain & Cie
-
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-blockchain[La blockchain]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/crypto-actifs-et-stable-coins[Crypto-actifs et Stable coins]* link:https://www.banque-frace.fr/fr/
-
 == Responsabilité et développement durable
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-taxonomie-verte-europeenne[La taxonomie verte européenne]
