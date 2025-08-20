@@ -18,6 +18,8 @@ Version 2.0.0, 20/08/2025
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
+== TL;DR
+
 Pour générer la documentation, il faut exécuter la commande suivante depuis le dossier `/docs` :
 
 [source, bash]
@@ -27,3 +29,7 @@ Pour générer un digest du dépôt, on peut taper, depuis la racine du dépôt 
 
 [source, bash]
 gitingest -e digest.txt -e *build
+
+== Script
+
+Un dossier link:./script[] contient un script pour vérifier si les liens de mes fichiers .adoc sont morts ou non.
