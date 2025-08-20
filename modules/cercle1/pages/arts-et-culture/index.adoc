@@ -2,28 +2,18 @@
 
 La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
 
-== Architecture
-
-== Sculpture
-
-== Arts visuels
-
-== Musique
-
-== Arts de scène
-
-=== Danse
-
-=== Théâtre
-
-== Cinéma
-
-== Arts médiatiques
-
-=== Radio
-
-=== Télévision
-
-== Bande dessinée
-
-== Jeux vidéo
+. xref:./architecture.adoc[Architecture]
+. xref:./sculpture.adoc[Sculpture]
+. xref:./arts-visuels.adoc[Arts visuels]
+. xref:./musique.adoc[Musique]
+. xref:./litterature.adoc[Littérature]
+. xref:./[Arts de scène]
+.. xref:./danse.adoc[Danse]
+// .. xref:./[Théâtre]
+. xref:./[Cinéma]
+. xref:./arts-mediatiques.adoc[Arts médiatiques]
+// .. xref:./[Radio]
+// .. xref:./[Télévision]
+. xref:./bande-dessinee[Bande dessinée]
+. xref:./jeux-videos[Jeux vidéo]
+. xref:./gastronomie.adoc[Gastronomie]
