@@ -16,4 +16,7 @@ La classification est fondée sur celle décrite dans link:https://fr.wikipedia.
 // .. xref:./[Télévision]
 . xref:./bande-dessinee[Bande dessinée]
 . xref:./jeux-videos[Jeux vidéo]
-. xref:./gastronomie.adoc[Gastronomie]
+
+En dehors des arts, on compte aussi :
+
+* xref:./gastronomie.adoc[Gastronomie]

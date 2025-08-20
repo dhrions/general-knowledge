@@ -16,4 +16,4 @@ Voici les principaux concepts à connaître :
 
 == Internet
 
-https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours intitulé « Comprendre le web » du site Open Classrooms] permet de comprendre le web qui est une composante majeure d'Internet.
