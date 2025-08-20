@@ -1,7 +1,5 @@
 = 4^e^ cercle de l'économie
 
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-dinteret-negatifs[Les taux d’intérêt négatifs]
-
 == Politique monétaire
 
 .La transmission de la politique monétaire - L'ABC de l'économie
@@ -20,6 +18,12 @@ link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/q
 
 .Quantitative Easing - Heu?reka
 video::KSQpp3CNeZQ[youtube, width=680, height=420]
+
+== Taux d'intérêt négatifs
+
+video::ccFjA7IM-YA[youtube, width=680, height=420]
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-dinteret-negatifs[Les taux d’intérêt négatifs]
 
 == Histoire
 
@@ -45,7 +49,7 @@ video::KSQpp3CNeZQ[youtube, width=680, height=420]
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-chambres-de-compensation[Les chambres de compensation]
 
-.Comment est créée la monnaie ? - L'ABC de l'économie
+.Une chambre de compensation : qu'est-ce que c'est ? - L'ABC de l'économie
 video::5ZEYLtan7Pc[youtube, width=680, height=420]
 
 == Titrisation
