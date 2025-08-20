@@ -1,7 +1,9 @@
 * xref:cercle1:index.adoc[Cercle 1]
 
 ** xref:cercle1:philosophie/index.adoc[Philosophie]
+
 ** xref:cercle1:sciences/index.adoc[Sciences]
+
 *** xref:cercle1:sciences/histoire.adoc[Histoire]
 *** xref:cercle1:sciences/geographie.adoc[Géographie]
 *** xref:cercle1:sciences/anthropologie.adoc[Anthropologie]
@@ -20,9 +22,15 @@
 **** xref:cercle1:sciences/medecine.adoc[Médecine]
 *** xref:cercle1:sciences/geosciences.adoc[Géosciences]
 *** xref:cercle1:sciences/sciences-univers.adoc[Sciences de l'univers]
+
 ** xref:cercle1:arts-et-culture/index.adoc[Arts et culture]
 *** xref:cercle1:arts-et-culture/litterature.adoc[Littérature]
 *** xref:cercle1:arts-et-culture/gastronomie.adoc[Gastronomie]
+
 ** xref:cercle1:politique/index.adoc[Politique]
+
 ** xref:cercle1:droit/index.adoc[Droit]
+
 ** xref:cercle1:sports-et-loisirs/index.adoc[Sports et loisirs]
+
+** xref:cercle1:biais-cognitifs/index.adoc[Biais cognitifs]
