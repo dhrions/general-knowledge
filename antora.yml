@@ -4,3 +4,7 @@ version: true
 start_page: ROOT:index.adoc
 nav:
   - modules/nav.adoc
+  - modules/cercle1/nav.adoc
+  - modules/cercle2/nav.adoc
+  - modules/cercle3/nav.adoc
+  - modules/cercle4/nav.adoc

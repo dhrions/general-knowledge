@@ -1,4 +1,4 @@
-= Premier cercle de la culture générale
+= 1^er^ cercle de la culture générale
 Dhrions
 Version 2.0.0, 20/08/2025
 // Document attributes

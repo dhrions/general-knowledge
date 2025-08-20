@@ -1,0 +1,12 @@
+* xref:cercle2:index.adoc[Cercle 2]
+** xref:cercle2:philosophie/index.adoc[Philosophie]
+** xref:cercle2:sciences/index.adoc[Sciences]
+*** xref:cercle2:sciences/economie.adoc[Économie]
+*** xref:cercle2:sciences/physique.adoc[Physique]
+** xref:cercle2:arts-et-culture/index.adoc[Arts et culture]
+*** xref:cercle2:arts-et-culture/gastronomie.adoc[Gastronomie]
+** xref:cercle2:politique/index.adoc[Politique]
+** xref:cercle2:droit/index.adoc[Droit]
+** xref:cercle2:sports-et-loisirs/index.adoc[Sports et loisirs]
+
+Wazaaaa !
