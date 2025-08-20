@@ -1,4 +1,4 @@
-= Sciences
+= 1^er^ cercle des sciences
 // :toc:
 // :toc-title: Sommaire
 // :sectnums:

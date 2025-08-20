@@ -1,4 +1,4 @@
-= Deuxième cercle de la culture générale
+= 2^e^ cercle de la culture générale
 Dhrions
 Version 1.0.0, 14/01/2024
 // Document attributes
