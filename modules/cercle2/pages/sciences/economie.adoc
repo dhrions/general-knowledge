@@ -4,11 +4,24 @@
 
 Il y a plusieurs concepts à maîtriser :
 
-* l'*inflation* ;
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation[*Inflation* et *déflation*]
 * la *monnaie* (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
 * la *création monétaire* (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
 * la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
 * la *politique monétaire* (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
+
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-billets-en-euros[Les billets en euros]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/que-fait-la-banque-de-france[Que fait la Banque de France ?]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire[Qu’est-ce que la politique monétaire ?]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative[Bulle spéculative]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie[Comment est créée la monnaie ?]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-quune-banque-centrale[Qu’est-ce qu’une banque centrale ?]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/leuro[L’euro]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-numerique-de-banque-centrale-MNBC[Monnaie numérique de banque centrale]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-de-quoi-parle-t-on[Monnaie : de quoi parle-t-on ?]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-taux-de-change[Le taux de change]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/masse-monetaire-agregats-monetaires-et-base-monetaire[Masse monétaire, agrégats monétaires et base monétaire]
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-stabilite-financiere[La stabilité financière]
 
 == Ressources
 
