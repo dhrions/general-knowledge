@@ -1,6 +1,6 @@
 = Culture générale
 Dhrions
-Version 1.0.2, 25/02/2024
+Version 2.0.0, 20/08/2025
 // Document attributes
 :sectnums:                                                          
 :toc:                                                   
@@ -18,60 +18,3 @@ Version 1.0.2, 25/02/2024
 :url-wiki: https://fr.wikipedia.org/wiki
 :url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
 
-L'objectif de ce document est de proposer une hiérarchie des connaissances à assimiler et les ressources les plus utiles pour les acquérir.
-Ce document n'a pas pour objectif de contenir des connaissances.
-
-Il est important du prendre de la hauteur sur le présent document : celui-ci est forcément subjectif.
-En effet, il repose notamment sur une vision française de la culture générale : plutôt centrée sur la France et sur les matières classiques (qui fait écho à une conception considérée parfois comme « bourgeoise » de la culture générale).
-
-== Introduction
-
-Plutôt que d'étudier un sujet en profondeur, la culture générale consiste à avoir une vision globale de nombreux sujets.
-Pour avoir une culture générale équilibré, il vaut mieux procéder dans cet ordre :
-
-* connaître les fondamentaux de chaque domaine ;
-* connaître les fondamentaux de chaque sous-domaine ;
-* connaître les fondamentaux de chaque sous-sous-domaine ;
-* etc.
-
-On peut s'imaginer cela à la manière de cercles concentriques.
-
-image::cercles-concentriques-culture-generale.jpg[Cercles concentriques de la culture générale, 300]
-
-Pour avoir une culture générale équilibrée, il faut commencer par le cercle rouge avant de passer au cercle orange, puis au cercle jaune, etc.
-
-Les différents cercles :
-
-* link:./circle-1/README.adoc[premier cercle] ;
-* link:./circle-2/README.adoc[deuxième cercle].
-
-== Apprendre à apprendre
-
-Le mieux est de visionner https://www.youtube.com/watch?v=RVB3PBPxMWg[la vidéo de Science Étonnante] sur le sujet.
-
-Il fait notamment référence aux 4 étapes pour apprendre :
-
-image::scienceetonnante-4-etapes.png[Les 4 étapes pour apprendre, 300]
-
-Il présente donc un modèle sur la mémoire :
-
-image::scienceetonnante-memoire.png[La mémorisation, 300]
-
-Comme indiqué https://youtu.be/RVB3PBPxMWg?si=mrILRZGqKE55lwAT&t=524[ici], les méthodes d'apprentissage visent donc à :
-
-* encoder efficacement ;
-* favoriser la consolidation dans la mémoire à long terme ;
-* mémoriser des connaissances conceptuelles sous la forme de schémas mentaux ;
-* améliorer la récupération grâce à des amorces qui rendent nos connaissances disponibles et mobilisables.
-
-Les méthodes d'apprentissage sont donc :
-
-* la répétition espacée ;
-* l'autotest ;
-* l'entrelacement (_interleaving_) ;
-* l'élaboration ;
-* l'enseignement.
-
-=== Mnémoniques
-
-http://villemin.gerard.free.fr/Wwwgvmm/MnemoTe/Phrase.htm#index[Ce site] rassemble de nombreux mnémoniques.
