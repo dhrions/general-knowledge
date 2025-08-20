@@ -49,3 +49,7 @@ Pour le premier cercle, seuls les quiz « Junior » suffisent, il permettent d'a
 * link:https://www.jeux-geographiques.com/jeux-en-ligne-Jeu-Geo-Physique-du-Monde-Junior-_pageid117.html[la géographie physique du monde].
 
 image::jeux-geo.png[Capture d'écran du site « Jeux géographiques »]
+
+== 2^e^ cercle de la géographie
+
+xref:cercle2:sciences/geographie.adoc[2^e^ cercle de la géographie]

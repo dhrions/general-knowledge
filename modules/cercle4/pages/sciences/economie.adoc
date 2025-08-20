@@ -4,10 +4,17 @@
 
 == Politique monétaire
 
+.La transmission de la politique monétaire - L'ABC de l'économie
+video::_CKg4Io-e80[youtube, width=680, height=420]
+
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-transmission-de-la-politique-monetaire[La transmission de la politique monétaire]
+
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/forward-guidance-guidage-prospectif[Forward guidance (guidage prospectif)]
 
 === _Quantitative easing_
+
+.Qu’est-ce que le Quantitative Easing ? - L'ABC de l'économie
+video::btO-PdInMVs[youtube, width=680, height=420]
 
 link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quantitative-easing[Le quantitative easing]
 
@@ -23,7 +30,7 @@ video::KSQpp3CNeZQ[youtube, width=680, height=420]
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-taxonomie-verte-europeenne[La taxonomie verte européenne]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/finance-solidaire[Finance solidaire]
-publications-et-statistiques/publications/finance-durable[La finance durable]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/finance-durable[La finance durable]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/finance-responsable[Finance responsable]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-finance-verte[La finance verte]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/obligation-verte[Obligation verte]
@@ -34,13 +41,26 @@ publications-et-statistiques/publications/finance-durable[La finance durable]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/lendettement-financier-des-entreprises[L’endettement financier des entreprises]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/lendettement-des-menages[L’endettement des ménages]
 
+== Les chambres de compensation
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-chambres-de-compensation[Les chambres de compensation]
+
+.Comment est créée la monnaie ? - L'ABC de l'économie
+video::5ZEYLtan7Pc[youtube, width=680, height=420]
+
+== Titrisation
+
+.Qu'est-ce que la titrisation ? - L'ABC de l'économie
+video::8bKkRpnvvs8[youtube, width=680, height=420]
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/titrisation[Titrisation]
+
 == À classer
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/fintechs[Fintechs]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-zone-franc[Les coopérations monétaires Afrique-France]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/laccord-de-bale-iii[L’accord de Bâle III]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-seigneuriage[Le seigneuriage]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-chambres-de-compensation[Les chambres de compensation]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/shadow-banking-ou-intermediation-financiere-non-bancaire[Shadow banking ou intermédiation financière non bancaire]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-systemes-de-paiement-de-gros-montant[Les systèmes de paiement de gros montant]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/microcredit[Microcrédit]
@@ -49,6 +69,5 @@ publications-et-statistiques/publications/finance-durable[La finance durable]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-nouveaux-indicateurs-de-richesse[Les nouveaux indicateurs de richesse]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-supervision-des-assurances[La supervision des assurances]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-banque-de-france-et-leurope[La Banque de France et l’Europe]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/titrisation[Titrisation]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/lunion-bancaire-supervision-des-banques-et-resolution-des-crises-bancaires-dans-lue[L’Union bancaire : supervision des banques et résolution des crises bancaires dans l’UE]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-lutte-contre-le-blanchiment-des-capitaux-et-le-financement-du-terrorisme[La lutte contre le blanchiment des capitaux et le financement du terrorisme]

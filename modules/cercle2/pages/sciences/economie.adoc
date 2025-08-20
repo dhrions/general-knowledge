@@ -62,6 +62,8 @@ video::11e-6CbYOl8[youtube,width=680,height=420]
 
 link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire[Fiche de  l'ABC de l'économie - Qu'est-ce que la politique monétaire ?]
 
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs[Les taux directeurs]
+
 === Change et union monétaire
 
 .Et si on utilisait tous la même monnaie ? - Heu?reka
@@ -69,6 +71,9 @@ video::GplUE1NGqgA[youtube,width=680,height=420]
 
 .La valeur d'une monnaie peut-elle impacter l'économie d'un pays ? - Dessine-moi l'éco
 video::k8InNv3RfCA[youtube,width=680,height=420]
+
+.Le taux de change - L'ABC de l'écoonmie
+video::_vUsXFee_Ls[youtube,width=680,height=420]
 
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-taux-de-change[Fiche de  l'ABC de l'économie - Le taux de change]
 

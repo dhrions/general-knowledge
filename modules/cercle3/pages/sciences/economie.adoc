@@ -1,9 +1,23 @@
 = 3^e^ cercle de l'économie
 
+== Financement des entreprises
+
+.Le financement des entreprises - L'ABC de l'économie
+video::vl02qjffotg[youtube, height=680, height=420]
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-financement-des-entreprises[Le financement des entreprises]
+
+== Blockhain & Cie
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-blockchain[La blockchain]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/crypto-actifs-et-stable-coins[Crypto-actifs et Stable coins]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-bitcoin[Le bitcoin]
+
+== À classer
+
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/hedge-funds[Hedge funds]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-systeme-monetaire-international[Le système monétaire international]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-inegalites-de-revenus[Les inégalités de revenus]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs[Les taux directeurs]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-politique-monetaire-conventionnelle-de-la-zone-euro[La politique monétaire conventionnelle]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-dette-publique[La dette publique]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-moyens-de-paiements[Les moyens de paiement]
@@ -19,13 +33,6 @@
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-bitcoin[Le bitcoin]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/interdependances-entre-la-politique-monetaire-et-la-politique-budgetaire[Interdépendances entre la politique monétaire et la politique budgétaire]
 * link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-balance-des-paiements-et-la-position-exterieure[La balance des paiements et la position extérieure]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-financement-des-entreprises[Le financement des entreprises]
-
-== Blockhain & Cie
-
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-blockchain[La blockchain]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/crypto-actifs-et-stable-coins[Crypto-actifs et Stable coins]
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-bitcoin[Le bitcoin]
 
 == 4^e^ cercle de l'économie
 

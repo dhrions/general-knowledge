@@ -23,6 +23,6 @@
 * xref:sciences/geosciences.adoc[Géosciences]
 * xref:sciences/sciences-univers.adoc[Sciences de l'univers]
 
-== Second cercle des sciences
+== 2^e^ cercle des sciences
 
 xref:cercle2:sciences/index.adoc[2^e^ cercle des sciences.]
