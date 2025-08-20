@@ -1,0 +1,18 @@
+= Santé
+
+== Les différents domaines
+
+Les différents domaines de la santé sont les suivants :
+
+* la santé publique ;
+* l'épidémiologie ;
+* la médecine ;
+* la pharmacologie ;
+* la psychologie ;
+* la psychiatrie ;
+* la psychanalyse ;
+* l'anatomie ;
+* la physiologie.
+
+"L'épidémiologie, c'est compter les mots."
+-- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]

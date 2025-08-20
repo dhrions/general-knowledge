@@ -1,5 +1,4 @@
 = Arts
-:toc:
 
 La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
 

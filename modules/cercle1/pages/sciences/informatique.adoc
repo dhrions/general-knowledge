@@ -13,3 +13,7 @@ Voici les principaux concepts à connaître :
 * processeur ;
 * périphérique ;
 * intelligence artificielle.
+
+== Internet
+
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.

@@ -1,9 +1,9 @@
-== Sciences
-:toc:
-:toc-title: Sommaire
+= Sciences
+// :toc:
+// :toc-title: Sommaire
 // :sectnums:
 
-=== Méthode scientifique
+== Méthode scientifique
 
 Les deux vidéos ci-dessous permettent de comprendre la méthode scientifique.
 
@@ -12,54 +12,4 @@ video::oFzC-VogTvM[youtube, width=640, height=480, title=Expérience participati
 video::C5R-XgS172k[youtube, width=640, height=480, title=Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
 
 
-=== Anthropologie
 
-L'anthropologie est une discipline scientifique, située à l'intersection de différentes sciences humaines et naturelles, qui étudie l'être humain et les groupes humains sous tous leurs aspects, à la fois physiques (anatomiques, biologiques, morphologiques, physiologiques, évolutifs, etc.) et culturels (social, religieux, linguistiques, psychologiques, géographiques, etc.).
-
-=== Sociologie
-
-=== Démographie
-
-=== Politique
-
-
-=== Linguistique
-
-=== Pscyhologie
-
-=== Logique
-
-=== Mathématiques
-
-=== Informatique
-
-https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours du site Open Classrooms intitulé « Comprendre le web »] permet de comprendre le web qui est une composante majeure d'Internet.
-
-=== Chimie
-
-=== Physique
-
-=== Biosciences
-
-==== Santé
-
-===== Les différents domaines
-
-Les différents domaines de la santé sont les suivants :
-
-* la santé publique ;
-* l'épidémiologie ;
-* la médecine ;
-* la pharmacologie ;
-* la psychologie ;
-* la psychiatrie ;
-* la psychanalyse ;
-* l'anatomie ;
-* la physiologie.
-
-"L'épidémiologie, c'est compter les mots."
--- Risque Alpha, cf. https://www.youtube.com/@RisqueAlpha[Chaîne « Risque Alpha » sur Youtube]
-
-=== Géosciences
-
-=== Sciences de l'Univers

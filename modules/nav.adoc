@@ -6,6 +6,7 @@
 *** xref:cercle1:sciences/histoire.adoc[Histoire]
 *** xref:cercle1:sciences/geographie.adoc[Géographie]
 *** xref:cercle1:sciences/economie.adoc[Économie]
+*** xref:cercle1:sciences/statistiques.adoc[Statistiques]
 ** xref:cercle1:arts-et-culture/index.adoc[Arts et culture]
 *** xref:cercle1:arts-et-culture/litterature.adoc[Littérature]
 *** xref:cercle1:arts-et-culture/gastronomie.adoc[Gastronomie]
