@@ -28,6 +28,8 @@ Pour ce faire, on peut exécuter la commande suivante depuis le dossier `/docs` 
 [source, bash]
 antora antora-playbook.yml
 
+Si Antora n'est pas installé, on peut consulter link:https://docs.antora.org/antora/latest/install-and-run-quickstart/#install-antora[cette section] de la page dédiée à l'installation du site officielle d'Antora.
+
 Pour générer un digest du dépôt, on peut taper, depuis la racine du dépôt :
 
 [source, bash]
