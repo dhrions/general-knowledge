@@ -1,46 +1,90 @@
-=  Économie
+=  2^e^ cercle de l'économie
 
 == Concepts
 
 Il y a plusieurs concepts à maîtriser :
 
-* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation[*Inflation* et *déflation*]
-* la *monnaie* (cf. link:https://www.youtube.com/watch?v=NKYBz-E_g9U[vidéo d'Heu?reka] et link:https://www.youtube.com/watch?v=6bDQG9LWwk4&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=4&pp=iAQB[vidéo de l'ABC de l'économie]) : différence entre monnaie fiduciaire et scripturale, commerciale et centrale ;
-* la *création monétaire* (cf. link:https://www.youtube.com/watch?v=mwoAtaQQm2o&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=3[vidéo de l'ABC de l'économie] et link:https://www.youtube.com/watch?v=lZ6CmwquKKQ[vidéo d'Heu?reka]) ;
-* la banque centrale (cf. link:https://www.youtube.com/watch?v=cejxjT_4GA4[vidéo de Dessine-moi l'éco] et link:https://www.youtube.com/watch?v=XH9n7-Vsahk&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=7[vidéo de l'ABC de l'économie]) ;
-* la *politique monétaire* (cf. link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire)
+* l'*inflation* et la *déflation* ;
+* la *monnaie* ;
+* la *banque centrale* ;
+* la *politique monétaire*.
 
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-billets-en-euros[Les billets en euros]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/que-fait-la-banque-de-france[Que fait la Banque de France ?]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire[Qu’est-ce que la politique monétaire ?]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative[Bulle spéculative]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie[Comment est créée la monnaie ?]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-quune-banque-centrale[Qu’est-ce qu’une banque centrale ?]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/leuro[L’euro]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-numerique-de-banque-centrale-MNBC[Monnaie numérique de banque centrale]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-de-quoi-parle-t-on[Monnaie : de quoi parle-t-on ?]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-taux-de-change[Le taux de change]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/masse-monetaire-agregats-monetaires-et-base-monetaire[Masse monétaire, agrégats monétaires et base monétaire]
-link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-stabilite-financiere[La stabilité financière]
+=== Inflation et déflation
+
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation[Fiche de l'ABC de l'économie - Inflation et déflation]
+
+.Inflation ou déflation : c'est quoi ? - ABC de l'économie
+video::BAf2LOFhEeQ[youtube,width=680,height=420]
+
+=== Monnaie
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-de-quoi-parle-t-on[Fiche de l'ABC de l'économie - Monnaie : de quoi parle-t-on ?]
+
+.Quelles sont les différentes formes de monnaie ? - ABC de l'économie
+video::6bDQG9LWwk4[youtube,width=680,height=420]
+
+.Le double visage de l'argent - Heu?reka
+video::NKYBz-E_g9U[youtube,width=680,height=420]
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/monnaie-numerique-de-banque-centrale-MNBC[Fiche de l'ABC de l'économie - Monnaie numérique de banque centrale]
+
+* link::https://www.banque-france.fr/fr/publications-et-statistiques/publications/masse-monetaire-agregats-monetaires-et-base-monetaire[Masse monétaire, agrégats monétaires et base monétaire]
+
+=== Création monétaire
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie[Fiche de l'ABC de l'économie - Comment est créée la monnaie ?]
+
+.Comment est créée la monnaie ? - ABC de l'économie
+video::mwoAtaQQm2o[youtube,width=680,height=420]
+
+.Qui crée l'argent? Et comment? - Heu?reka
+video::lZ6CmwquKKQ[youtube,width=680,height=420]
+
+=== Banque centrale
+
+.Qu'est-ce qu'une banque centrale ? - ABC de l'économie
+video::XH9n7-Vsahk[youtube,width=680,height=420]
+
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-quune-banque-centrale[Fiche de  l'ABC de l'économie - Qu’est-ce qu’une banque centrale ?]
+
+.Le rôle de la Banque Centrale Européenne face à la crise de la dette - Dessine-moi l'éco
+video::cejxjT_4GA4[youtube,width=680,height=420]
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/que-fait-la-banque-de-france[Fiche de  l'ABC de l'économie - Que fait la Banque de France ?]
+
+=== Politique monétaire
+
+.Qu'est-ce que la politique monétaire ? - ABC de l'économie
+video::11e-6CbYOl8[youtube,width=680,height=420]
+
+link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/quest-ce-que-la-politique-monetaire[Fiche de  l'ABC de l'économie - Qu'est-ce que la politique monétaire ?]
+
+=== Divers
+
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-billets-en-euros[Fiche de  l'ABC de l'économie - Les billets en euros]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative[Fiche de  l'ABC de l'économie - Bulle spéculative]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/leuro[Fiche de  l'ABC de l'économie - L’euro]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/le-taux-de-change[Fiche de  l'ABC de l'économie - Le taux de change]
+* link:https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-stabilite-financiere[Fiche de  l'ABC de l'économie - La stabilité financière]
 
 == Ressources
 
-La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les bases de l'économie.
+La collection des « ABC de l'économie » par la Banque de France est un bon point de départ pour se familiariser avec les notions fondamentales (et même intermédiaires) de l'économie.
 
-Cette collection est présentée dans une link:https://www.youtube.com/watch?v=_EXp4_30O1U&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=2[courte vidéo de moins d'une minute] :
+Cette collection est présentée dans une courte vidéo de moins d'une minute :
 
 video::_EXp4_30O1U[youtube, width=640, height=480, title=""]
 
-Ou dans link:https://www.youtube.com/watch?v=UmbTf2b8qwE&list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&index=1[courte vidéo d'environ 2 minutes] :
+Ou dans cette vidéo un peu moins courte d'environ 2 minutes :
 
 video::UmbTf2b8qwE[youtube, width=640, height=480, title=""]
 
-La collection des « ABC de l'économie » regroupe :
+La *collection de l'« ABC de l'économie »* regroupe :
 
-* link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[catalogue interactif des ressources] ;
-* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des dossiers pédagogiques sur de nombreux thèmes] ;
-* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412234%5D=5412234&periodicity=All&start-date=&end-date[un lexique des mots faisant l'acutalité de l'économie] ;
-* link:https://youtube.com/playlist?list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&si=JdOYwWskejgHserw[un lien vers la playlist Youtube].
+* link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[un *catalogue interactif* des ressources] ;
+* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des *dossiers pédagogiques* sur de nombreux thèmes] ;
+* link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412234%5D=5412234&periodicity=All&start-date=&end-date[un *lexique* des mots faisant l'actualité de l'économie] ;
+* link:https://youtube.com/playlist?list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&si=JdOYwWskejgHserw[un lien vers la *playlist Youtube*].
 
 En vidéo, il y a aussi :
 

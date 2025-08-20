@@ -1,0 +1,18 @@
+= 2^e^ cercle de la psychologie
+
+Expérience de Rosenhan
+
+link::https://www.youtube.com/watch?v=jcHaN33Nm2E&[Vidéo « L'homme qui a mis la psychiatrie en PLS  »]
+
+video::jcHaN33Nm2E&[youtube, width=680, height=420]
+
+Expérience Hawthorne
+
+Effet Pygmalion
+
+== Psychologie sociale
+
+video::kiklt9OiH-Y[youtube, width=680, height=420]
+
+.Vidéo de ScienceEtonnante sur l'expérience de Milgram
+video::7Vy1Cg5O5Pc[youtube, width=680, height=420]
