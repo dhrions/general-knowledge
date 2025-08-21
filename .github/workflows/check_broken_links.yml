@@ -43,4 +43,5 @@ jobs:
       - name: Run cli.py
         run: |
           source venv/bin/activate
+          pwd
           python cli.py
