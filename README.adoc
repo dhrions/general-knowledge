@@ -33,7 +33,7 @@ Si Antora n'est pas installé, on peut consulter link:https://docs.antora.org/an
 Pour générer un digest du dépôt, on peut taper, depuis la racine du dépôt :
 
 [source, bash]
-gitingest -e digest.txt -e *build
+gitingest -e digest.txt -e *build -e *env
 
 == Script
 
