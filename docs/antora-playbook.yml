@@ -1,0 +1,20 @@
+site:
+  title: Mon site
+  # url: https://example.org
+  # start_page: component:module:file-coordinate-of-page.adoc
+content:
+  # branches: [v2.0, v2.5, v3.0]
+  branches: main
+  # tags: [release/*, '!release/*-patch']
+  # edit_url: '{web_url}/blob/{refname}/{path}'
+  sources:
+  # - url: https://git-service.com/org/repo-z.git
+    - url: .. # needs to be the root of a git repository
+      start_path: antora
+  # - url: https://git-service.com/org/repo-y.git # needs to be the root of a git repository
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+output:
+  dir: ./build

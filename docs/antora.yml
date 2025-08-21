@@ -1,0 +1,9 @@
+name: ma-documentation
+title: Ma documentation
+version: true
+start_page: ROOT:index.adoc
+nav:
+  - modules/nav.adoc
+asciidoc:
+  attributes:
+    wikipedia: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1[Wikipedia][Wikipedia]" # rickroll ;)

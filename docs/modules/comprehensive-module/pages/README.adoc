@@ -1,0 +1,3 @@
+Antora classifies the source files stored in a pages directory as pages. Pages are structured as individual documents with a title, marked up using the AsciiDoc syntax, and saved with the .adoc file extension. Using a page’s resource ID, you can cross reference a page from other pages, resources, or navigation files in your site or include a page into other pages or resources in your site.
+
+More link:https://docs.antora.org/antora/latest/pages-directory/[here].

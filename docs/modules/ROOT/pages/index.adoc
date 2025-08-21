@@ -1,0 +1,15 @@
+= Documentation
+
+== TL;DR
+
+Le contenu principal du dépôt se situe dans le dossier link:../../../../main[main].
+
+Il faut ouvrir link:../../../../main/build/culture-generale/antora/index.html[ce fichier index.html].
+
+Si ce fichier n'existe pas, il faut générer la documentation.
+Pour ce faire, on se rend dans le dossier `/main` et on peut taper :
+
+[source, bash]
+antora antora-playbook.yml
+
+link:../../../../main/build/culture-generale/antora/index.html[Le fichier index.html] devrait alors être créé.

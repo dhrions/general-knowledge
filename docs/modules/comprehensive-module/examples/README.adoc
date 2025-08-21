@@ -1,0 +1,3 @@
+Antora classifies the source files stored in an examples directory as examples. Example files usually contain content such as source code samples, terminal output, data sets, etc.
+
+More link:https://docs.antora.org/antora/latest/examples-directory/[here]

@@ -1,0 +1,3 @@
+An attachment is typically a file a site visitor views or downloads using their browser, such as a PDF or the ZIP archive of a sample project.
+
+More link:https://docs.antora.org/antora/latest/attachments-directory/[here].
