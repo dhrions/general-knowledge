@@ -35,6 +35,8 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: docs/build/culture-generale/antora
+    - name: Disable Jekyll
+      run: touch docs/build/culture-generale/antora/.nojekyll
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
