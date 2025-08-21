@@ -20,10 +20,10 @@ Version 2.0.0, 20/08/2025
 
 == TL;DR
 
-Ma documentation de culture générale est accessible en ouvrant link:docs/build/antora/index.html[] avec un navigateur web.
+Ma documentation de culture générale est accessible en ouvrant link:main/build/antora/index.html[] avec un navigateur web.
 
 Si le dossier `/build` n'existe pas, il faut générer la documentation.
-Pour ce faire, on peut exécuter la commande suivante depuis le dossier `/docs` :
+Pour ce faire, on peut exécuter la commande suivante depuis le dossier `/main` :
 
 [source, bash]
 antora antora-playbook.yml
@@ -34,6 +34,10 @@ Pour générer un digest du dépôt, on peut taper, depuis la racine du dépôt 
 
 [source, bash]
 gitingest -e digest.txt -e *build -e *env
+
+== Documentation
+
+De la documentation sur le présent dépôt est présent en ouvrant link:docs/build/antora/index.html[] avec un navigateur web.
 
 == Script
 
