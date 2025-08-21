@@ -1,3 +1,4 @@
 build
 env
 digest.txt
+__pycache__
