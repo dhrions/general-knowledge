@@ -99,7 +99,7 @@ video::UmbTf2b8qwE[youtube, width=640, height=480, title=""]
 
 La *collection de l'« ABC de l'économie »* regroupe :
 
-* link:https://www.banque-france.fr/system/files/2024-10/catalogue-abc-ressources-eco-interactif.pdf[un *catalogue interactif* des ressources] ;
+* link:https://www.banque-france.fr/system/files/2025-08/Catalogue_ABC_Ressources_Eco_WEB_2025-2026_0.pdf[un *catalogue interactif* des ressources] ;
 * link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412233%5D=5412233&periodicity=All&start-date=&end-date=[des *dossiers pédagogiques* sur de nombreux thèmes] ;
 * link:https://www.banque-france.fr/fr/fiches-pedagogiques?format%5B5412232%5D=5412232&sub_format%5B5412234%5D=5412234&periodicity=All&start-date=&end-date[un *lexique* des mots faisant l'actualité de l'économie] ;
 * link:https://youtube.com/playlist?list=PL0usNGW1865yE7D83hLoh35xzky0gakwx&si=JdOYwWskejgHserw[un lien vers la *playlist Youtube*].
