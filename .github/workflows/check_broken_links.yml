@@ -40,11 +40,7 @@ jobs:
           fi
           cp -r utils/scripts/check_broken_links .
 
-      - name: List files (debug)
-        run: |
-          ls -R
-
       - name: Run cli.py
         run: |
           source venv/bin/activate
-          python cli.py
+          python ./check_broken_links/cli.py
