@@ -24,23 +24,23 @@ jobs:
           python -m venv venv
           source venv/bin/activate
 
-      - name: Download check_broken_links module
+      - name: Download adoc_link_check module
         run: |
           git clone --depth 1 --filter=blob:none --sparse https://github.com/dhrions/utils
           cd utils
           git sparse-checkout init --cone
-          git sparse-checkout set scripts/check_broken_links
+          git sparse-checkout set scripts/adoc_link_check
           cd ..
 
-      - name: Install dependencies from check_broken_links
+      - name: Install dependencies from adoc_link_check
         run: |
           source venv/bin/activate
-          if [ -f utils/scripts/check_broken_links/requirements.txt ]; then
-            pip install -r utils/scripts/check_broken_links/requirements.txt
+          if [ -f utils/scripts/adoc_link_check/requirements.txt ]; then
+            pip install -r utils/scripts/adoc_link_check/requirements.txt
           fi
-          cp -r utils/scripts/check_broken_links .
+          cp -r utils/scripts/adoc_link_check .
 
       - name: Run cli.py
         run: |
           source venv/bin/activate
-          python ./check_broken_links/cli.py
+          python ./adoc_link_check/cli.py
