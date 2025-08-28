@@ -38,7 +38,3 @@ gitingest -e digest.txt -e *build -e *env -e *cercle*
 == Documentation
 
 De la documentation sur le présent dépôt est présent en ouvrant link:docs/build/antora/index.html[] avec un navigateur web.
-
-== Script
-
-Un dossier link:./script[] contient un script pour vérifier si les liens de mes fichiers .adoc sont morts ou non.
