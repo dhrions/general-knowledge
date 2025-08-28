@@ -64,7 +64,7 @@ En effet, une seule personne est nécessaire pour confectionner une veste de lai
 
 ==== Le démon de Laplace (1814)
 
-Le https://fr.wikipedia.org/wiki/Machine_de_Laplace[démon de Laplace], aussi parfois appelée « génie de Laplace », fait référence à une expérience de pensée proposée par Laplace, dans son ouvrage Essai philosophique sur les probabilités (1814) pour illustrer son interprétation du déterminisme dur.
+Le link:https://fr.wikipedia.org/wiki/D%C3%A9mon_de_Laplace[démon de Laplace], aussi parfois appelée « génie de Laplace », fait référence à une expérience de pensée proposée par Laplace, dans son ouvrage Essai philosophique sur les probabilités (1814) pour illustrer son interprétation du déterminisme dur.
 
 Laplace indique :
 
