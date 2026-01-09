@@ -69,4 +69,6 @@ Le taux de retour énergétique (TRE) est le rapport entre l'énergie totale ré
 
 ==== Esclave énergétique
 
-L’*esclave énergétique* est une unité d'énergie comparant une consommation d'énergie annuelle avec un équivalent de production mécanique et calorifique qu'un humain adulte en bonne santé pourrait produire en un an. Cette notion permet de comparer la productivité des « outils » utilisés dans une société industrialisée, fonctionnant généralement grâce aux énergies fossiles, par rapport au nombre de travailleurs ou d'esclaves nécessaires en l'absence de ces outils. (Source :link:https://fr.wikipedia.org/wiki/Esclave_%C3%A9nerg%C3%A9tique[Article Wikipédia « Esclave énergétique »])
+L’*esclave énergétique* est une unité d'énergie comparant une consommation d'énergie annuelle avec un équivalent de production mécanique et calorifique qu'un humain adulte en bonne santé pourrait produire en un an.
+Cette notion permet de comparer la productivité des « outils » utilisés dans une société industrialisée, fonctionnant généralement grâce aux énergies fossiles, par rapport au nombre de travailleurs ou d'esclaves nécessaires en l'absence de ces outils.
+(Source :link:https://fr.wikipedia.org/wiki/Esclave_%C3%A9nerg%C3%A9tique[Article Wikipédia « Esclave énergétique »])
