@@ -1,7 +1,7 @@
 site:
   title: Culture générale
-  url: https://dhrions.github.io/general-knowledge
-  # url: https://example.org
+  url: https://dhrions.github.io
+  path: /general-knowledge
   # start_page: component:module:file-coordinate-of-page.adoc
 content:
   # branches: [v2.0, v2.5, v3.0]
