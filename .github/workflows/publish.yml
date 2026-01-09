@@ -38,9 +38,13 @@ jobs:
         run: npm install antora
 
       - name: Generate Antora site
+        env:
+          GITHUB_PAGES: ''
         run: |
           cd content
           npx antora antora-playbook.yml
+
+
 
       # OBLIGATOIRE pour GitHub Pages (doc officielle)
       - name: Disable Jekyll
