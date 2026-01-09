@@ -1,42 +1,56 @@
 name: Publish to GitHub Pages
+
 on:
   push:
-    branches: [antora]
-  # Allows you to run this workflow manually from the Actions tab
+    branches: [ antora ]
   workflow_dispatch:
+
 concurrency:
   group: github-pages
   cancel-in-progress: false
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Configure Pages
-      uses: actions/configure-pages@v5
-    - name: Install Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-    - name: Install Antora
-      run: npm i antora
-    - name: Generate Site
-      run: cd content && npx antora antora-playbook.yml
-    - name: Upload Artifacts
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: content/build/culture-generale/antora
-    - name: Disable Jekyll
-      run: touch content/build/culture-generale/antora/.nojekyll
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Antora
+        run: npm install antora
+
+      - name: Generate Antora site
+        run: |
+          cd main
+          npx antora antora-playbook.yml
+
+      # 🔑 POINT CRITIQUE : on publie TOUT le build Antora
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: main/build
+
+      - name: Disable Jekyll
+        run: touch main/build/.nojekyll
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
