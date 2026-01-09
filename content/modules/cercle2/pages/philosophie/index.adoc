@@ -22,7 +22,9 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zeno_Achilles_P
 L'https://fr.wikipedia.org/wiki/All%C3%A9gorie_de_la_caverne[allégorie de la caverne] est une allégorie exposée par Platon dans La République.
 Elle expose en termes imagés les conditions d'accession de l'humain à la connaissance du Bien, au sens métaphysique du terme, ainsi que la transmission de cette connaissance.
 
-L'allégorie met en scène des humains enchaînés et immobilisés dans une caverne. Ils tournent le dos à l'entrée et voient non pas les objets, mais les ombres des objets qui passent devant cette entrée et sont projetées contre le mur. Ils croient voir la réalité, alors qu'ils n'en voient qu'une projection.
+L'allégorie met en scène des humains enchaînés et immobilisés dans une caverne.
+Ils tournent le dos à l'entrée et voient non pas les objets, mais les ombres des objets qui passent devant cette entrée et sont projetées contre le mur.
+Ils croient voir la réalité, alors qu'ils n'en voient qu'une projection.
 
 .Tableau « La grotte de Platon » attribué à Michiel Coxcie au milieu du XVI^e^ siècle
 image::https://upload.wikimedia.org/wikipedia/commons/6/66/De_grot_van_Plato.jpg[La grotte de Platon attribué à Michiel Coxcie au milieu du XVI^e^ siècle.]
@@ -32,7 +34,9 @@ image::https://upload.wikimedia.org/wikipedia/commons/6/66/De_grot_van_Plato.jpg
 L’ https://fr.wikipedia.org/wiki/Anneau_de_Gyg%C3%A8s[anneau de Gygès] est un anneau magique mythologique qui, selon une allégorie philosophique proposée par Platon dans le deuxième livre de La République, permettrait à son détenteur de devenir invisible.
 Mythe classique de la philosophie occidentale, l'allégorie de l'anneau de Gygès permet de soulever des questions éthiques.
 
-L'allégorie de l'anneau de Gygès permet au frère de Platon de soulever la question suivante : est-ce qu'être un homme juste, ce n’est pas en réalité être assez naïf pour respecter les lois et la morale même si cela peut être désavantageux ? In fine, n'agissons-nous de manière juste que parce que nous avons peur de la répression pénale ? Si oui, alors, chacun agirait comme Gygès une fois l'anneau obtenu.
+L'allégorie de l'anneau de Gygès permet au frère de Platon de soulever la question suivante : est-ce qu'être un homme juste, ce n’est pas en réalité être assez naïf pour respecter les lois et la morale même si cela peut être désavantageux ?
+In fine, n'agissons-nous de manière juste que parce que nous avons peur de la répression pénale ?
+Si oui, alors, chacun agirait comme Gygès une fois l'anneau obtenu.
 
 Plus largement, l'allégorie permet de débattre sur les motivations de la moralité chez l'homme : résulte-t-elle seulement d'une convention sociale et arbitraire, ou bien d'une pure idée morale qui dispose toujours déjà les hommes à la justice ?
 
