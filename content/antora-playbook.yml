@@ -10,7 +10,7 @@ content:
   sources:
   # - url: https://git-service.com/org/repo-z.git
     - url: ..
-      start_path: main
+      start_path: content
   # - url: https://git-service.com/org/repo-y.git
 ui:
   bundle:
