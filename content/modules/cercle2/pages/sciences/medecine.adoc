@@ -8,7 +8,7 @@ L'*espérance de vie corrigée de l'incapacité* (EVCI) est un mode d'évaluatio
 
 En anglais, on parle de _Disability-Adjusted Life Year_ (DALY).
 
-Les DALY  mesurent ainsi le nombre de jours perdus en bonne santé.
+Les DALY mesurent ainsi le nombre de jours perdus en bonne santé.
 Une perte d'un DALY peut ainsi correspondre à :
 
 * Un décès un an plus tôt que l'âge de référence (exemple : 92 ans).
@@ -17,7 +17,8 @@ Quelqu'un mourant à 91 ans perd 1 DALY, quelqu'un mourant à 30 ans en perd 62.
 40 années de vie avec une incapacité de 50 % correspondent à 20 DALY.
 40 années de vie avec une incapacité de 25 % correspondent à 30 DALY.
 
-*Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.*
+*Comparativement à la mortalité, les DALY présentent l'avantage de prendre en compte les incapacités et les maladies chroniques.
+*
 
 === DALY dans le monde
 
@@ -43,7 +44,7 @@ Et pour information, voici d'autres causes de perte de DALY choisies arbitrairem
 
 En France, les principales causes de perte de DALY en 2019 sont les suivantes (cf. https://vizhub.healthdata.org/gbd-compare/) :
 
-* les cancers (21,28 %)
+* les cancers (21,28 %) ;
 * les maladies cardiovasculaires (12,82 %) ;
 * les douleurs lombaires (5,11 %) ;
 * parmi les cancers, le cancer du poumon (4,9 %) ;

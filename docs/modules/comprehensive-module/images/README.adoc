@@ -1,3 +1,5 @@
-Images are resources, such as photographs, diagrams, and screenshots. The source files for images are stored in an images family directory. Antora supports the PNG, JPG, SVG, and GIF (static and animated) image file formats.
+Images are resources, such as photographs, diagrams, and screenshots.
+The source files for images are stored in an images family directory.
+Antora supports the PNG, JPG, SVG, and GIF (static and animated) image file formats.
 
 More link:https://docs.antora.org/antora/latest/images-directory/[here].

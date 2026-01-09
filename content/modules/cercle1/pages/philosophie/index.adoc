@@ -13,11 +13,11 @@ Il existe des sortes de filiations de philosophes à travers le temps.
 
 Les principaux courants généraux de philosophie sont les suivants :
 
-* l'*empirisme* : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme);
+* l'*empirisme* : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme) ;
 * le rationalisme : doctrine qui pose les raisons discursives comme seule source possible de toute connaissance du monde (il s'oppose à l'empirisme) ;
 * l'*idéalisme* : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
 * le *positivisme* : ourant philosophique fondé au XIXe siècle par Auguste Comte, à la fois héritier et critique des Lumières du XVIIIe siècle et qui soumet de manière rigoureuse les connaissances acquises à l'épreuve des faits ;
-* le *stoïcisme* :  philosophie de l'éthique personnelle influencée par son système logique et ses vues sur le monde naturel. Il prône l'acceptation sereine du destin, dans sa définition stoïcienne, et la maîtrise de soi, en s'efforçant de vivre en accord avec la nature et en se détachant des émotions perturbatrices;
+* le *stoïcisme* : philosophie de l'éthique personnelle influencée par son système logique et ses vues sur le monde naturel. Il prône l'acceptation sereine du destin, dans sa définition stoïcienne, et la maîtrise de soi, en s'efforçant de vivre en accord avec la nature et en se détachant des émotions perturbatrices ;
 * le *scepticisme* ;
 * le *matérialisme* ;
 * le *structuralisme* ;

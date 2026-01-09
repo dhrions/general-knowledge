@@ -1,3 +1,5 @@
-Antora classifies the source files stored in a partials directory as partial files, or partials for short. Partials are usually AsciiDoc files that contain content snippets, such as common descriptions or terminology, that are inserted into one or more pages or partials. However, Antora doesn’t require partials to be AsciiDoc files.
+Antora classifies the source files stored in a partials directory as partial files, or partials for short.
+Partials are usually AsciiDoc files that contain content snippets, such as common descriptions or terminology, that are inserted into one or more pages or partials.
+However, Antora doesn’t require partials to be AsciiDoc files.
 
 More link:https://docs.antora.org/antora/latest/partials-directory/[here].

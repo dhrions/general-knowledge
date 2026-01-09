@@ -8,9 +8,9 @@ link:https://www.vie-publique.fr/fiches/270200-les-principaux-acteurs-de-leconom
 
 Voici les grands concepts de l'écoonmie à connaître
 
-* la consommation (cf. https://www.vie-publique.fr/fiches/287589-quest-ce-que-la-consommation[vie-publique.fr - Qu'est-ce que la consommation ?]).
-* le marché (cf. link:https://www.vie-publique.fr/fiches/287704-quest-ce-quun-marche[vie-publique.fr -  Qu'est-ce qu'un marché ?]) ;
-* l'inflation (cf. link:https://www.vie-publique.fr/fiches/270044-quest-ce-que-linflation-ipc-pouvoir-dachat[vie-publique.fr -  Qu'est-ce que l'inflation ?]) ;
+* la consommation (cf. https://www.vie-publique.fr/fiches/287589-quest-ce-que-la-consommation[vie-publique.fr - Qu'est-ce que la consommation ?]) ;
+* le marché (cf. link:https://www.vie-publique.fr/fiches/287704-quest-ce-quun-marche[vie-publique.fr - Qu'est-ce qu'un marché ?]) ;
+* l'inflation (cf. link:https://www.vie-publique.fr/fiches/270044-quest-ce-que-linflation-ipc-pouvoir-dachat[vie-publique.fr - Qu'est-ce que l'inflation ?]).
 
 == Synthèse
 
