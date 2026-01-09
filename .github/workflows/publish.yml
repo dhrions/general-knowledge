@@ -39,17 +39,17 @@ jobs:
 
       - name: Generate Antora site
         run: |
-          cd main
+          cd content
           npx antora antora-playbook.yml
 
-      # 🔑 POINT CRITIQUE : on publie TOUT le build Antora
+      # 🔑 ON PUBLIE DIRECTEMENT LE VRAI RACINE DU SITE ANTORA
+      - name: Disable Jekyll
+        run: touch content/build/culture-generale/antora/.nojekyll
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: main/build
-
-      - name: Disable Jekyll
-        run: touch main/build/.nojekyll
+          path: content/build/culture-generale/antora
 
       - name: Deploy to GitHub Pages
         id: deployment
