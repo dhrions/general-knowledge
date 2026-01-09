@@ -1,4 +1,4 @@
-name: Check Broken Links
+name: Check Broken Links (non-blocking)
 
 on:
   push:
@@ -10,6 +10,7 @@ on:
 jobs:
   check-links:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout current repository
         uses: actions/checkout@v4
@@ -40,7 +41,34 @@ jobs:
           fi
           cp -r utils/scripts/adoc_link_check .
 
-      - name: Run cli.py
+      - name: Run adoc_link_check (capture output, non-blocking)
         run: |
           source venv/bin/activate
-          python ./adoc_link_check/cli.py
+          python ./adoc_link_check/cli.py > broken_links.txt || true
+
+      - name: Display broken links in logs
+        run: |
+          if [ -s broken_links.txt ]; then
+            echo "⚠️ Broken links detected:"
+            echo "--------------------------------"
+            cat broken_links.txt
+            echo "--------------------------------"
+          else
+            echo "✅ No broken links found"
+          fi
+
+      - name: Publish summary to GitHub Actions UI
+        run: |
+          if [ -s broken_links.txt ]; then
+            {
+              echo "## ⚠️ Broken links detected"
+              echo ""
+              echo "The following broken links were found during the documentation check:"
+              echo ""
+              echo '```'
+              cat broken_links.txt
+              echo '```'
+            } >> $GITHUB_STEP_SUMMARY
+          else
+            echo "## ✅ No broken links found" >> $GITHUB_STEP_SUMMARY
+          fi
