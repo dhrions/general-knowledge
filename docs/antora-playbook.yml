@@ -1,6 +1,5 @@
 site:
   title: Mon site
-  url: https://dhrions.github.io/general-knowledge
   # start_page: component:module:file-coordinate-of-page.adoc
 content:
   # branches: [v2.0, v2.5, v3.0]

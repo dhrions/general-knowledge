@@ -1,5 +1,7 @@
 site:
   title: Culture générale
+  url: https://dhrions.github.io
+  path: /general-knowledge
   # url: https://example.org
   # start_page: component:module:file-coordinate-of-page.adoc
 content:
@@ -9,8 +11,8 @@ content:
   # edit_url: '{web_url}/blob/{refname}/{path}'
   sources:
   # - url: https://git-service.com/org/repo-z.git
-    - url: ..
-      start_path: content
+  - url: ..
+    start_path: content
   # - url: https://git-service.com/org/repo-y.git
 ui:
   bundle:
