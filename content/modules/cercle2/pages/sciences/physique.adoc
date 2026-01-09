@@ -53,7 +53,7 @@ Elle peut être aussi (cf. link:https://www.youtube.com/watch?v=HgfcZeGP7BA&t=78
 
 * L’énergie *primaire* correspond à l’énergie initiale d’un produit non transformé ; un litre de pétrole brut, un kg d’uranium, le rayonnement solaire, l’énergie éolienne, hydraulique, etc.
 * L’énergie *secondaire* est la quantité d’énergie qu’il reste après la transformation de l’énergie primaire.
-* L’énergie *finale*, est l’énergie qui arrive sur le point de consommation et prête à consommer. Typiquement, pour le transport de l’électricité (entre la centrale et votre maison par exemple) le rendement est de 95%. 
+* L’énergie *finale*, est l’énergie qui arrive sur le point de consommation et prête à consommer. Typiquement, pour le transport de l’électricité (entre la centrale et votre maison par exemple) le rendement est de 95%.
 * L’énergie *utile*, est celle qui procure le service recherché. Par exemple quand on allume une ampoule à incandescence, on ne récupère que 12% de l’énergie finale ! Le reste est parti en chaleur.
 
 .Typologie de l'énergie
