@@ -1,20 +1,17 @@
 site:
   title: Culture générale
-    url: https://dhrions.github.io/general-knowledge
-  # start_page: component:module:file-coordinate-of-page.adoc
+  url: https://dhrions.github.io/general-knowledge
+
 content:
-  # branches: [v2.0, v2.5, v3.0]
   branches: antora
-  # tags: [release/*, '!release/*-patch']
-  # edit_url: '{web_url}/blob/{refname}/{path}'
   sources:
-  # - url: https://git-service.com/org/repo-z.git
   - url: ..
     start_path: content
-  # - url: https://git-service.com/org/repo-y.git
+
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+
 output:
   dir: ./build

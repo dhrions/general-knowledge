@@ -5,14 +5,14 @@ on:
     branches: [ antora ]
   workflow_dispatch:
 
-concurrency:
-  group: github-pages
-  cancel-in-progress: false
-
 permissions:
   contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -42,7 +42,7 @@ jobs:
           cd content
           npx antora antora-playbook.yml
 
-      # 🔑 ON PUBLIE DIRECTEMENT LE VRAI RACINE DU SITE ANTORA
+      # OBLIGATOIRE pour GitHub Pages (doc officielle)
       - name: Disable Jekyll
         run: touch content/build/culture-generale/antora/.nojekyll
 
