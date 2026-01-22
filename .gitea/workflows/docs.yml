@@ -33,29 +33,10 @@ jobs:
 
       - name: Deploy documentation via SSH
         run: |
-          echo "📦 Deploying documentation to nginx-docs via SSH..."
-
+          echo "Deploying documentation to nginx-docs via SSH..."
           TEMP_DIR="/tmp/general-knowledge-docs-$$"
           mkdir -p "$TEMP_DIR"
           cp -r docs/build/* "$TEMP_DIR/"
-
-          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
-            debian@localhost -p 2156 << 'ENDSSH'
-            set -e
-            echo "🧹 Cleaning destination..."
-            TARGET="/home/dockeradmin/docker/nginx-docs/html/dhrions/general-knowledge"
-            sudo rm -rf "$TARGET"
-            sudo mkdir -p "$TARGET"
-
-            echo "📦 Copying documentation..."
-            sudo cp -r /tmp/general-knowledge-docs-*/. "$TARGET/"
-
-            echo "✅ Documentation deployed!"
-            ls -lah "$TARGET" | head -10
-
-            echo "🧹 Cleanup temp files..."
-            sudo rm -rf /tmp/general-knowledge-docs-*
-ENDSSH
-
+          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null debian@localhost -p 2156 "set -e && TARGET=/home/dockeradmin/docker/nginx-docs/html/dhrions/general-knowledge && sudo rm -rf \$TARGET && sudo mkdir -p \$TARGET && sudo cp -r /tmp/general-knowledge-docs-*/. \$TARGET/ && sudo rm -rf /tmp/general-knowledge-docs-*"
           rm -rf "$TEMP_DIR"
-          echo "🎉 Deployment complete!"
+          echo "Deployment complete!"
