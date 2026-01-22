@@ -1,0 +1,61 @@
+name: Build and Deploy Antora Documentation
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'content/**'
+      - '.gitea/workflows/docs.yml'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Antora
+        run: npm install -g @antora/cli @antora/site-generator
+
+      - name: Build documentation
+        working-directory: docs
+        run: antora --fetch antora-playbook.yml
+
+      - name: Deploy documentation via SSH
+        run: |
+          echo "📦 Deploying documentation to nginx-docs via SSH..."
+
+          TEMP_DIR="/tmp/general-knowledge-docs-$$"
+          mkdir -p "$TEMP_DIR"
+          cp -r docs/build/* "$TEMP_DIR/"
+
+          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
+            debian@localhost -p 2156 << 'ENDSSH'
+            set -e
+            echo "🧹 Cleaning destination..."
+            TARGET="/home/dockeradmin/docker/nginx-docs/html/dhrions/general-knowledge"
+            sudo rm -rf "$TARGET"
+            sudo mkdir -p "$TARGET"
+
+            echo "📦 Copying documentation..."
+            sudo cp -r /tmp/general-knowledge-docs-*/. "$TARGET/"
+
+            echo "✅ Documentation deployed!"
+            ls -lah "$TARGET" | head -10
+
+            echo "🧹 Cleanup temp files..."
+            sudo rm -rf /tmp/general-knowledge-docs-*
+ENDSSH
+
+          rm -rf "$TEMP_DIR"
+          echo "🎉 Deployment complete!"
