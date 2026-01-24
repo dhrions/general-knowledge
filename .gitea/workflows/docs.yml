@@ -37,9 +37,30 @@ jobs:
       - name: Deploy documentation
         run: |
           echo "Deploying documentation..."
+
+          # Copy shared assets (CSS, JS, fonts) to root
+          cp -r docs/build/_/ /deploy/dhrions/_/
+          chmod -R 755 /deploy/dhrions/_/
+
+          # Deploy component docs
           rm -rf /deploy/dhrions/general-knowledge
           mkdir -p /deploy/dhrions/general-knowledge
-          cp -r docs/build/* /deploy/dhrions/general-knowledge/
+          cp -r docs/build/ma-documentation/* /deploy/dhrions/general-knowledge/
+
+          # Create redirect index.html
+          cat > /deploy/dhrions/general-knowledge/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <meta http-equiv="refresh" content="0; url=main/index.html">
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="main/index.html">documentation</a>...</p>
+          </body>
+          </html>
+          EOF
           chmod -R 755 /deploy/dhrions/general-knowledge
           echo "Deployment complete!"
           ls -la /deploy/dhrions/general-knowledge/
