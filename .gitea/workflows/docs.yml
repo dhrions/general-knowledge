@@ -12,7 +12,10 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: docs-deploy
+    container:
+      volumes:
+        - /home/dockeradmin/docker/nginx-docs/html:/deploy
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -31,12 +34,12 @@ jobs:
         working-directory: docs
         run: antora --fetch antora-playbook.yml
 
-      - name: Deploy documentation via SSH
+      - name: Deploy documentation
         run: |
-          echo "Deploying documentation to nginx-docs via SSH..."
-          TEMP_DIR="/tmp/general-knowledge-docs-$$"
-          mkdir -p "$TEMP_DIR"
-          cp -r docs/build/* "$TEMP_DIR/"
-          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null debian@localhost -p 2156 "set -e && TARGET=/home/dockeradmin/docker/nginx-docs/html/dhrions/general-knowledge && sudo rm -rf \$TARGET && sudo mkdir -p \$TARGET && sudo cp -r /tmp/general-knowledge-docs-*/. \$TARGET/ && sudo rm -rf /tmp/general-knowledge-docs-*"
-          rm -rf "$TEMP_DIR"
+          echo "Deploying documentation..."
+          rm -rf /deploy/dhrions/general-knowledge
+          mkdir -p /deploy/dhrions/general-knowledge
+          cp -r docs/build/* /deploy/dhrions/general-knowledge/
+          chmod -R 755 /deploy/dhrions/general-knowledge
           echo "Deployment complete!"
+          ls -la /deploy/dhrions/general-knowledge/
