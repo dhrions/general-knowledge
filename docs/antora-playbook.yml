@@ -9,7 +9,7 @@ content:
   sources:
   # - url: https://git-service.com/org/repo-z.git
   - url: .. # needs to be the root of a git repository
-    start_path: antora
+    start_path: docs
   # - url: https://git-service.com/org/repo-y.git # needs to be the root of a git repository
 ui:
   bundle:
