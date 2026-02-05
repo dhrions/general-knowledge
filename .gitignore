@@ -1,4 +1,5 @@
 build
 env
 digest.txt
-__pycache__broken_links.json
+__pycache__
+broken_links.json
