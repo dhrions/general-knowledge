@@ -1,12 +1,3 @@
-# 📚 Build and Deploy Antora Documentation (Gitea Actions)
-#
-# Workflow canonique du parc : identique dans tous les dépôts, à la seule
-# exception de la variable REPO ci-dessous. Norme et exemptions :
-# repos-meta, docs-repos/modules/ROOT/pages/archetype-workflow-docs.adoc
-#
-# Prérequis : le secret REPOS_META_DISPATCH_TOKEN doit exister sur le dépôt
-# (gitea-secret-set dhrions/<repo> REPOS_META_DISPATCH_TOKEN).
-
 name: Build and Deploy Antora Documentation
 
 on:
@@ -17,22 +8,11 @@ on:
       - 'docs/**'
       - 'content/**'
       - '.gitea/workflows/docs.yml'
-      # L'illustration du dépôt et ses métadonnées sont déployées par ce
-      # workflow : sans ces deux filtres, une régénération par imgforge ne
-      # déclencherait aucun run et la copie publiée resterait périmée.
-      - '.repo-meta.json'
-      - '*.png'
   workflow_dispatch:
 
 jobs:
   build-and-deploy:
-    # Label du runner hébergeant le volume nginx. Surtout pas ubuntu-latest :
-    # sur un autre runner, Docker créerait /deploy vide et le déploiement
-    # réussirait en écrivant dans le vide.
     runs-on: docs-deploy
-    env:
-      # Seule ligne à adapter par dépôt.
-      REPO: general-knowledge
     container:
       volumes:
         - /home/dockeradmin/docker/nginx-docs/html:/deploy
@@ -56,33 +36,20 @@ jobs:
 
       - name: Deploy documentation
         run: |
-          echo "Deploying documentation..."
+          echo "Deploying public documentation..."
 
-          # Le dossier de build porte le nom du composant Antora, qui ne
-          # coïncide pas toujours avec celui du dépôt (ansible →
-          # ansible-documentation). On le lit plutôt que de le supposer.
-          COMPONENT=$(sed -n 's/^name:[[:space:]]*//p' docs/antora.yml | head -1)
+          # Copy shared assets (CSS, JS, fonts) for public docs
+          mkdir -p /deploy/public/_/
+          cp -r docs/build/_/* /deploy/public/_/
+          chmod -R 755 /deploy/public/_/
 
-          # Vérifier AVANT de détruire : sans ce garde-fou, un build absent ou
-          # mal nommé vide la doc en ligne puis échoue (incident du 2026-07-29).
-          if [ -z "$COMPONENT" ] || [ ! -d "docs/build/$COMPONENT" ]; then
-            echo "::error::Composant Antora introuvable (COMPONENT='$COMPONENT'). Contenu de docs/build :"
-            ls -la docs/build
-            exit 1
-          fi
-          echo "Composant Antora : $COMPONENT → /deploy/dhrions/$REPO"
-
-          # Copy shared assets (CSS, JS, fonts) to root
-          cp -r docs/build/_/ /deploy/dhrions/_/
-          chmod -R 755 /deploy/dhrions/_/
-
-          # Deploy component docs
-          rm -rf /deploy/dhrions/$REPO
-          mkdir -p /deploy/dhrions/$REPO
-          cp -r docs/build/$COMPONENT/* /deploy/dhrions/$REPO/
+          # Deploy component docs to /public/
+          rm -rf /deploy/public/general-knowledge
+          mkdir -p /deploy/public/general-knowledge
+          cp -r docs/build/ma-documentation/* /deploy/public/general-knowledge/
 
           # Create redirect index.html
-          cat > /deploy/dhrions/$REPO/index.html << 'EOF'
+          cat > /deploy/public/general-knowledge/index.html << 'EOF'
           <!DOCTYPE html>
           <html>
           <head>
@@ -95,38 +62,36 @@ jobs:
           </body>
           </html>
           EOF
-          chmod -R 755 /deploy/dhrions/$REPO
+
+          # Create /public/index.html landing page
+          cat > /deploy/public/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="fr">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Documentation Publique - Dhrions</title>
+            <style>
+              body { font-family: -apple-system, sans-serif; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
+              .container { background: white; border-radius: 12px; padding: 40px; max-width: 600px; text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+              h1 { background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+              a { display: block; padding: 20px; margin: 15px 0; background: #f8f9fa; border-radius: 8px; text-decoration: none; color: #333; border-left: 4px solid #667eea; }
+              a:hover { transform: translateX(5px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+            </style>
+          </head>
+          <body>
+            <div class="container">
+              <h1>Documentation Publique</h1>
+              <p>Bienvenue sur la documentation publique de Dhrions</p>
+              <a href="/public/general-knowledge/">
+                <strong>General Knowledge</strong><br>
+                <small>Ma documentation personnelle</small>
+              </a>
+            </div>
+          </body>
+          </html>
+          EOF
+
+          chmod -R 755 /deploy/public
           echo "Deployment complete!"
-          ls -la /deploy/dhrions/$REPO/
-
-      - name: Deploy project metadata and icon
-        run: |
-          # Copy .repo-meta.json if it exists at the repo root
-          if [ -f ".repo-meta.json" ]; then
-            cp .repo-meta.json /deploy/dhrions/$REPO/.repo-meta.json
-            echo "Deployed .repo-meta.json"
-
-            # Extract image field and copy the icon if specified
-            ICON=$(node -e "try{const m=JSON.parse(require('fs').readFileSync('.repo-meta.json','utf8'));if(m.image)console.log(m.image)}catch(e){}")
-            if [ -n "$ICON" ] && [ -f "$ICON" ]; then
-              cp "$ICON" /deploy/dhrions/$REPO/"$ICON"
-              echo "Deployed icon: $ICON"
-            fi
-          fi
-
-      - name: Trigger repos-meta index regeneration
-        if: success()
-        env:
-          GITEA_TOKEN: ${{ secrets.REPOS_META_DISPATCH_TOKEN }}
-        run: |
-          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
-            -X POST \
-            -H "Authorization: token ${GITEA_TOKEN}" \
-            -H "Content-Type: application/json" \
-            -d '{"ref":"main"}' \
-            "https://gitea.dhrions.fr/api/v1/repos/dhrions/repos-meta/actions/workflows/docs.yml/dispatches")
-          if [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
-            echo "Successfully triggered repos-meta index regeneration"
-          else
-            echo "::warning::Failed to trigger repos-meta index regeneration (HTTP $HTTP_CODE). The project index may not be updated."
-          fi
+          ls -la /deploy/public/
