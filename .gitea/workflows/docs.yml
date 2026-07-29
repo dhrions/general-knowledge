@@ -1,3 +1,12 @@
+# 📚 Build and Deploy Antora Documentation (Gitea Actions)
+#
+# Workflow canonique du parc : identique dans tous les dépôts, à la seule
+# exception de la variable REPO ci-dessous. Norme et exemptions :
+# repos-meta, docs-repos/modules/ROOT/pages/archetype-workflow-docs.adoc
+#
+# Prérequis : le secret REPOS_META_DISPATCH_TOKEN doit exister sur le dépôt
+# (gitea-secret-set dhrions/<repo> REPOS_META_DISPATCH_TOKEN).
+
 name: Build and Deploy Antora Documentation
 
 on:
@@ -8,11 +17,22 @@ on:
       - 'docs/**'
       - 'content/**'
       - '.gitea/workflows/docs.yml'
+      # L'illustration du dépôt et ses métadonnées sont déployées par ce
+      # workflow : sans ces deux filtres, une régénération par imgforge ne
+      # déclencherait aucun run et la copie publiée resterait périmée.
+      - '.repo-meta.json'
+      - '*.png'
   workflow_dispatch:
 
 jobs:
   build-and-deploy:
+    # Label du runner hébergeant le volume nginx. Surtout pas ubuntu-latest :
+    # sur un autre runner, Docker créerait /deploy vide et le déploiement
+    # réussirait en écrivant dans le vide.
     runs-on: docs-deploy
+    env:
+      # Seule ligne à adapter par dépôt.
+      REPO: general-knowledge
     container:
       volumes:
         - /home/dockeradmin/docker/nginx-docs/html:/deploy
@@ -37,9 +57,62 @@ jobs:
       - name: Deploy documentation
         run: |
           echo "Deploying documentation..."
-          rm -rf /deploy/dhrions/general-knowledge
-          mkdir -p /deploy/dhrions/general-knowledge
-          cp -r docs/build/* /deploy/dhrions/general-knowledge/
-          chmod -R 755 /deploy/dhrions/general-knowledge
+
+          # Copy shared assets (CSS, JS, fonts) to root
+          cp -r docs/build/_/ /deploy/dhrions/_/
+          chmod -R 755 /deploy/dhrions/_/
+
+          # Deploy component docs
+          rm -rf /deploy/dhrions/$REPO
+          mkdir -p /deploy/dhrions/$REPO
+          cp -r docs/build/$REPO/* /deploy/dhrions/$REPO/
+
+          # Create redirect index.html
+          cat > /deploy/dhrions/$REPO/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <meta http-equiv="refresh" content="0; url=main/index.html">
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="main/index.html">documentation</a>...</p>
+          </body>
+          </html>
+          EOF
+          chmod -R 755 /deploy/dhrions/$REPO
           echo "Deployment complete!"
-          ls -la /deploy/dhrions/general-knowledge/
+          ls -la /deploy/dhrions/$REPO/
+
+      - name: Deploy project metadata and icon
+        run: |
+          # Copy .repo-meta.json if it exists at the repo root
+          if [ -f ".repo-meta.json" ]; then
+            cp .repo-meta.json /deploy/dhrions/$REPO/.repo-meta.json
+            echo "Deployed .repo-meta.json"
+
+            # Extract image field and copy the icon if specified
+            ICON=$(node -e "try{const m=JSON.parse(require('fs').readFileSync('.repo-meta.json','utf8'));if(m.image)console.log(m.image)}catch(e){}")
+            if [ -n "$ICON" ] && [ -f "$ICON" ]; then
+              cp "$ICON" /deploy/dhrions/$REPO/"$ICON"
+              echo "Deployed icon: $ICON"
+            fi
+          fi
+
+      - name: Trigger repos-meta index regeneration
+        if: success()
+        env:
+          GITEA_TOKEN: ${{ secrets.REPOS_META_DISPATCH_TOKEN }}
+        run: |
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST \
+            -H "Authorization: token ${GITEA_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d '{"ref":"main"}' \
+            "https://gitea.dhrions.fr/api/v1/repos/dhrions/repos-meta/actions/workflows/docs.yml/dispatches")
+          if [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
+            echo "Successfully triggered repos-meta index regeneration"
+          else
+            echo "::warning::Failed to trigger repos-meta index regeneration (HTTP $HTTP_CODE). The project index may not be updated."
+          fi
