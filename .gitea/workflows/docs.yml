@@ -58,6 +58,20 @@ jobs:
         run: |
           echo "Deploying documentation..."
 
+          # Le dossier de build porte le nom du composant Antora, qui ne
+          # coïncide pas toujours avec celui du dépôt (ansible →
+          # ansible-documentation). On le lit plutôt que de le supposer.
+          COMPONENT=$(sed -n 's/^name:[[:space:]]*//p' docs/antora.yml | head -1)
+
+          # Vérifier AVANT de détruire : sans ce garde-fou, un build absent ou
+          # mal nommé vide la doc en ligne puis échoue (incident du 2026-07-29).
+          if [ -z "$COMPONENT" ] || [ ! -d "docs/build/$COMPONENT" ]; then
+            echo "::error::Composant Antora introuvable (COMPONENT='$COMPONENT'). Contenu de docs/build :"
+            ls -la docs/build
+            exit 1
+          fi
+          echo "Composant Antora : $COMPONENT → /deploy/dhrions/$REPO"
+
           # Copy shared assets (CSS, JS, fonts) to root
           cp -r docs/build/_/ /deploy/dhrions/_/
           chmod -R 755 /deploy/dhrions/_/
@@ -65,7 +79,7 @@ jobs:
           # Deploy component docs
           rm -rf /deploy/dhrions/$REPO
           mkdir -p /deploy/dhrions/$REPO
-          cp -r docs/build/$REPO/* /deploy/dhrions/$REPO/
+          cp -r docs/build/$COMPONENT/* /deploy/dhrions/$REPO/
 
           # Create redirect index.html
           cat > /deploy/dhrions/$REPO/index.html << 'EOF'
