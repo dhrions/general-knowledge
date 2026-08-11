@@ -31,13 +31,10 @@ jobs:
       - name: Install Antora
         run: npm install -g @antora/cli @antora/site-generator
 
-      - name: Build repo documentation (docs/)
-        working-directory: docs
-        run: antora --fetch antora-playbook.yml
-
-      - name: Build culture générale (content/)
-        working-directory: content
-        run: antora --fetch antora-playbook.yml
+      - name: Build Antora sites (docs/ + content/)
+        run: |
+          (cd docs && antora --fetch antora-playbook.yml)
+          (cd content && antora --fetch antora-playbook.yml)
 
       - name: Deploy culture-generale.dhrions.fr
         run: |
