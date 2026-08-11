@@ -2,36 +2,19 @@
 :toc:
 :toc-title: Sommaire
 
-== Courants philosophiques
+== Qu'est-ce que la philosophie ?
 
-À l'inverse des mouvements artistiques (voir <<Littérature, _infra_>>) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps :
+La philosophie est une démarche de questionnement rationnel : elle cherche à comprendre le monde, la connaissance et l'action par l'argumentation, et non par la foi (comme la religion) ou par la seule observation (comme la science).
+Elle se distingue de la science en ceci que ses questions (« Qu'est-ce que le bien ? », « Qu'est-ce que la réalité ? ») ne se tranchent pas par l'expérience.
 
-* le scepticisme naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec des philosophes comme René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle), continue à l'époque contemporaine avec des philosophes comme Bertand Russell (XX^e^ siècle) jusqu'à aujourd'hui ;
-* l'empirisme naît à l'époque moderne avec Francis Bacon (XVII^e^ siècle), il se poursuit avec des philosophes comme John Locke (XVII^e^ siècle), David Hume (XVIII^e^ siècle) puis à l'époque contemporaine avec des philosophes comme John Stuart Mill (XIX^e^ siècle) jusqu'à aujourd'hui.
+== Repères chronologiques
 
-Il existe des sortes de filiations de philosophes à travers le temps.
+* l'*Antiquité grecque* (V^e^-IV^e^ siècle av. J.-C.) : naissance de la philosophie occidentale avec Socrate, Platon et Aristote — passage du mythe à l'argumentation rationnelle ;
+* la *scolastique médiévale* : tentative de conciliation entre la raison philosophique héritée d'Aristote et la foi chrétienne (Thomas d'Aquin) ;
+* la *modernité* (XVII^e^-XVIII^e^ siècle) : primauté donnée à la raison individuelle et à la méthode scientifique, de Descartes aux Lumières ;
+* l'*époque contemporaine* (XIX^e^ siècle à aujourd'hui) : éclatement en une multiplicité de courants et spécialisation croissante de la discipline.
 
-Les principaux courants généraux de philosophie sont les suivants :
-
-* l'*empirisme* : ensemble de théories philosophiques qui font de l'expérience sensible l'origine de toute connaissance ou croyance et de tout plaisir esthétique (il s'oppose au rationalisme) ;
-* le rationalisme : doctrine qui pose les raisons discursives comme seule source possible de toute connaissance du monde (il s'oppose à l'empirisme) ;
-* l'*idéalisme* : position selon laquelle toute réalité se ramène à des déterminations de l'esprit, qu'il s'agisse d'« idées », de représentations mentales ou de déterminations plus subjectives comme les « expériences sensibles » ou les sensations ;
-* le *positivisme* : ourant philosophique fondé au XIXe siècle par Auguste Comte, à la fois héritier et critique des Lumières du XVIIIe siècle et qui soumet de manière rigoureuse les connaissances acquises à l'épreuve des faits ;
-* le *stoïcisme* : philosophie de l'éthique personnelle influencée par son système logique et ses vues sur le monde naturel. Il prône l'acceptation sereine du destin, dans sa définition stoïcienne, et la maîtrise de soi, en s'efforçant de vivre en accord avec la nature et en se détachant des émotions perturbatrices ;
-* le *scepticisme* ;
-* le *matérialisme* ;
-* le *structuralisme* ;
-* la *phénoménologie* ;
-* l'*existentialisme* ;
-* le *cynisme* ;
-* l'*épicurisme* ;
-* le *platonisme* ;
-* le *confucianisme* ;
-* le *taoïsme* ;
-* le *zoroastrisme* ;
-* le *manichéisme* ;
-* le *bouddhisme* ;
-* le *pragmatisme*.
+À l'inverse des mouvements artistiques (voir xref:arts-et-culture/litterature.adoc[Littérature]) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps : ils naissent, disparaissent puis réapparaissent des siècles plus tard chez d'autres auteurs.
 
 == Domaines philosophiques
 
@@ -40,7 +23,7 @@ Les différents domaines de la philosophie occidentale sont les suivants (cf. ht
 * la *métaphysique* et ses diverses branches (« Qu'est-ce que la réalité ? », « Y a-t-il des réalités immatérielles ? », « Dieu existe-t-il ? », « L'âme existe-elle ? Est-elle immortelle ? Incorporelle ? ») ;
 * l'*ontologie*, rattachée ou non à la métaphysique selon les interprètes (« Qu'est-ce que l'être ? », « Pourquoi y a-t-il de l'être plutôt que rien ? ») ;
 * la *philosophie de la religion*, partiellement rattachée à la métaphysique puisqu'elle tente de définir le divin et pose la question de l'existence de Dieu, qu'elle double d'une interrogation sur la nature du sacré en général ;
-* la *philosophie morale* ou l'éthique : discipline pratique et normative permettant de définir la meilleure conduite pour chaque situation: (« Quelle est la fin des actions humaines ? », « Le bien et le mal sont-ils des valeurs universelles permettant de définir cette fin ? ») ;
+* la *philosophie morale* ou l'éthique : discipline pratique et normative permettant de définir la meilleure conduite pour chaque situation (« Quelle est la fin des actions humaines ? », « Le bien et le mal sont-ils des valeurs universelles permettant de définir cette fin ? ») ;
 * la *philosophie de l'art* ou l'esthétique (« Qu'est-ce que le beau ? », « Qu'est-ce que l'art ? ») ;
 * la *philosophie des valeurs*, ou axiologie, qui regroupe l'éthique et l'esthétique ci-dessus ;
 * la *philosophie de l'esprit* (« Quelles sont les relations entre corps et esprit ? », « Comment fonctionne la cognition ? ») ;
@@ -55,14 +38,10 @@ Les différents domaines de la philosophie occidentale sont les suivants (cf. ht
 * la *gnoséologie* (« D'où provient la connaissance ? ») ;
 * la *théorie de la connaissance* (« Qu'est-ce que la vérité ? »).
 
-// Les principaux courants de philosophie politique sont les suivants :
+== Repères culturels
 
-// * le communisme ;
-// * le socialisme ;
-// * le libéralisme ;
-// * le conservatisme ;
-// * l'anarchisme ;
-// * l'humanisme ;
-// * le fascisme ;
-// * le contractualisme ;
-// * le libertarianisme.
+Trois références qui reviennent partout, même hors contexte philosophique — approfondies au xref:cercle2:index.adoc[2^e^ cercle] :
+
+* le *cogito* (« Je pense, donc je suis », Descartes) : fondement de la connaissance à partir du doute méthodique ;
+* l'*allégorie de la caverne* (Platon) : illustre la difficulté d'accéder à la connaissance véritable au-delà des apparences ;
+* le *dilemme du tramway* : expérience de pensée classique en éthique appliquée, qui interroge ce qui rend un acte moral.

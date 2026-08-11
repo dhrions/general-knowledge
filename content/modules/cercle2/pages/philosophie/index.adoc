@@ -1,89 +1,154 @@
-== Philosophie
+= 2^e^ cercle de la philosophie
+:toc:
+:toc-title: Sommaire
 
-=== Domaines
+Ce cercle approfondit les xref:cercle1:philosophie/index.adoc[repères du 1^er^ cercle] : les courants n'y sont plus de simples noms, mais des thèses portées par des philosophes précis, souvent en dialogue ou en opposition les uns avec les autres.
 
-==== Philosophie politique
+== Filiations : scepticisme et empirisme
 
-.Première de couverture du livre _L'État_ d'Atila Özer
-image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
+Contrairement aux mouvements artistiques, les courants philosophiques existent en pointillés à travers le temps :
 
-=== Concepts importants
+* le *scepticisme* naît dans l'Antiquité par Pyrrhon d'Élis (IV^e^ siècle av. J.-C.) et Sextus Empiricus (II^e^ siècle ap. J.-C.), il réapparaît à la Renaissance par Montaigne (XVI^e^ siècle), se poursuit à l'époque classique et moderne avec des philosophes comme René Descartes (XVII^e^ siècle) et Kant (XVIII^e^ siècle), continue à l'époque contemporaine avec des philosophes comme Bertrand Russell (XX^e^ siècle) jusqu'à aujourd'hui ;
+* l'*empirisme* naît à l'époque moderne avec Francis Bacon (XVII^e^ siècle), il se poursuit avec des philosophes comme John Locke (XVII^e^ siècle), David Hume (XVIII^e^ siècle) puis à l'époque contemporaine avec des philosophes comme John Stuart Mill (XIX^e^ siècle) jusqu'à aujourd'hui.
 
-==== Le paradoxe d'Achille et de la tortue (V^e^ siècle av. J.-C.)
+== Courants approfondis
 
-Le https://fr.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue[paradoxe d'Achille et de la tortue] est un paradoxe philosophique dû à Zénon d'Élée (V^e^ siècle av. J.-C.) selon lequel le héros grec Achille a disputé une course à pied avec une tortue.
-Comme Achille était réputé être un coureur très rapide, il avait accordé gracieusement au lent reptile une avance de cent mètres.
-L'argument exposé par Zénon est qu'Achille ne pourra pas rattraper la tortue si celle-ci a de l'avance sur lui, et ce, quelle que soit sa vitesse (non nulle) ; car pendant qu'Achille court jusqu'au point d'où a démarré la tortue, cette dernière avance, de telle sorte qu'Achille ne pourra jamais annuler l'avance de l'animal.
+=== Rationalisme et scepticisme méthodique
 
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zeno_Achilles_Paradox.png/220px-Zeno_Achilles_Paradox.png[Paradoxe d'Achille et de la tortue]
+Descartes (XVII^e^ siècle) pousse le scepticisme à son comble par le doute méthodique : il choisit de tenir pour faux tout ce qui peut être mis en doute, y compris la réalité du monde extérieur, pour chercher une vérité qui résiste à ce doute.
+
+==== Le malin génie (1641)
+
+Le https://fr.wikipedia.org/wiki/Malin_g%C3%A9nie[« malin génie »] est une expérience de pensée proposée par Descartes dans les _Méditations métaphysiques_ (1641) : et si un être malveillant tout-puissant trompait systématiquement mes sens et ma raison ? Cette hypothèse extrême sert à isoler ce qui, même dans ce cas, resterait indubitable — le cogito.
+
+=== Idéalisme
+
+L'*idéalisme* (Berkeley, XVIII^e^ siècle ; Hegel, XIX^e^ siècle) pose que toute réalité se ramène à des déterminations de l'esprit — « idées », représentations mentales ou sensations. Il s'oppose au matérialisme : pour Berkeley, « être, c'est être perçu » (_esse est percipi_).
+
+=== Positivisme
+
+Le *positivisme*, fondé au XIX^e^ siècle par Auguste Comte, est à la fois héritier et critique des Lumières du XVIII^e^ siècle : il soumet de manière rigoureuse les connaissances acquises à l'épreuve des faits. Comte y développe la « loi des trois états » : l'esprit humain passerait successivement par un stade théologique, un stade métaphysique puis un stade positif (scientifique).
+
+=== Stoïcisme
+
+Le *stoïcisme* (Zénon de Cition, III^e^ siècle av. J.-C. ; Épictète et Marc Aurèle à l'époque romaine) est une philosophie de l'éthique personnelle influencée par son système logique et ses vues sur le monde naturel. Il prône l'acceptation sereine du destin et la maîtrise de soi, en s'efforçant de vivre en accord avec la nature et en se détachant des émotions perturbatrices.
+
+=== Matérialisme et déterminisme
+
+Le *matérialisme* pose que tout ce qui existe est de nature matérielle, y compris la pensée et la conscience — de Démocrite (Antiquité, théorie des atomes) à Marx (matérialisme historique) en passant par les Lumières matérialistes du XVIII^e^ siècle. Une de ses conséquences les plus radicales est le déterminisme :
+
+==== Le démon de Laplace (1814)
+
+Le https://fr.wikipedia.org/wiki/D%C3%A9mon_de_Laplace[démon de Laplace] fait référence à une expérience de pensée proposée par Laplace dans son _Essai philosophique sur les probabilités_ (1814) pour illustrer le déterminisme dur :
+
+[quote, Pierre-Simon Laplace, Essai philosophique sur les probabilités]
+Une intelligence qui pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvemens des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l'avenir comme le passé, serait présent à ses yeux.
+
+=== Structuralisme
+
+Le *structuralisme* (Ferdinand de Saussure en linguistique, Claude Lévi-Strauss en anthropologie, XX^e^ siècle) explique les phénomènes — langage, société, mythes — par les structures et relations sous-jacentes plutôt que par les éléments pris isolément.
+
+=== Phénoménologie
+
+La *phénoménologie* (Edmund Husserl, début du XX^e^ siècle ; Martin Heidegger) étudie les phénomènes tels qu'ils apparaissent à la conscience, en suspendant tout jugement sur leur existence réelle (l'_épochè_, ou « mise entre parenthèses »).
+
+=== Existentialisme
+
+L'*existentialisme* (Kierkegaard au XIX^e^ siècle ; Sartre et Simone de Beauvoir au XX^e^ siècle) pose que l'existence précède l'essence : l'être humain n'a pas de nature fixée d'avance, il se définit par ses choix et ses actes — d'où l'idée sartrienne que l'homme est « condamné à être libre ».
+
+=== Platonisme
+
+Le *platonisme* (Platon, IV^e^ siècle av. J.-C.) pose que la réalité sensible n'est qu'un reflet imparfait d'un monde d'Idées éternelles et immuables, seul objet de la connaissance véritable.
 
 ==== L'allégorie de la caverne (IV^e^ siècle av. J.-C.)
 
-L'https://fr.wikipedia.org/wiki/All%C3%A9gorie_de_la_caverne[allégorie de la caverne] est une allégorie exposée par Platon dans La République.
-Elle expose en termes imagés les conditions d'accession de l'humain à la connaissance du Bien, au sens métaphysique du terme, ainsi que la transmission de cette connaissance.
-
-L'allégorie met en scène des humains enchaînés et immobilisés dans une caverne.
-Ils tournent le dos à l'entrée et voient non pas les objets, mais les ombres des objets qui passent devant cette entrée et sont projetées contre le mur.
-Ils croient voir la réalité, alors qu'ils n'en voient qu'une projection.
+L'https://fr.wikipedia.org/wiki/All%C3%A9gorie_de_la_caverne[allégorie de la caverne] est exposée par Platon dans _La République_. Elle met en scène des humains enchaînés dans une caverne, qui ne voient que les ombres des objets projetées sur un mur et les prennent pour la réalité — image de la condition humaine, prisonnière des apparences sensibles, et du chemin vers la connaissance véritable (les Idées).
 
 .Tableau « La grotte de Platon » attribué à Michiel Coxcie au milieu du XVI^e^ siècle
 image::https://upload.wikimedia.org/wikipedia/commons/6/66/De_grot_van_Plato.jpg[La grotte de Platon attribué à Michiel Coxcie au milieu du XVI^e^ siècle.]
 
 ==== L'anneau de Gygès (IV^e^ siècle av. J.-C.)
 
-L’ https://fr.wikipedia.org/wiki/Anneau_de_Gyg%C3%A8s[anneau de Gygès] est un anneau magique mythologique qui, selon une allégorie philosophique proposée par Platon dans le deuxième livre de La République, permettrait à son détenteur de devenir invisible.
-Mythe classique de la philosophie occidentale, l'allégorie de l'anneau de Gygès permet de soulever des questions éthiques.
+L'https://fr.wikipedia.org/wiki/Anneau_de_Gyg%C3%A8s[anneau de Gygès], anneau magique proposé par Platon dans le deuxième livre de _La République_, rendrait son détenteur invisible. Le frère de Platon en tire une question éthique : est-ce qu'être un homme juste, ce n'est pas en réalité être assez naïf pour respecter les lois même si cela peut être désavantageux ? N'agissons-nous justement que par peur de la répression ?
 
-L'allégorie de l'anneau de Gygès permet au frère de Platon de soulever la question suivante : est-ce qu'être un homme juste, ce n’est pas en réalité être assez naïf pour respecter les lois et la morale même si cela peut être désavantageux ?
-In fine, n'agissons-nous de manière juste que parce que nous avons peur de la répression pénale ?
-Si oui, alors, chacun agirait comme Gygès une fois l'anneau obtenu.
+=== Cynisme
 
-Plus largement, l'allégorie permet de débattre sur les motivations de la moralité chez l'homme : résulte-t-elle seulement d'une convention sociale et arbitraire, ou bien d'une pure idée morale qui dispose toujours déjà les hommes à la justice ?
+Le *cynisme* (Diogène de Sinope, IV^e^ siècle av. J.-C.) prône le rejet des conventions sociales et des biens matériels au profit d'une vie conforme à la nature, réduite à l'essentiel.
 
-==== Le bateau de Thésée
+=== Épicurisme
 
-Le https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e[bateau de Thésée] est une expérience de pensée philosophique concernant la notion d'identité
-Elle imagine un bateau dont toutes les parties sont remplacées progressivement.
-Au bout d'un certain temps, le bateau ne contient plus aucune de ses parties d'origine.
-La question est alors de savoir s'il s'agit du même bateau ou d'un bateau différent.
+L'*épicurisme* (Épicure, IV^e^-III^e^ siècle av. J.-C.) pose que le plaisir, entendu comme absence de trouble (_ataraxie_), est le souverain bien, atteint par une vie simple et la maîtrise des désirs — non par leur multiplication.
 
-==== Le malin génie (1641)
+=== Pragmatisme
 
-Le https://fr.wikipedia.org/wiki/Malin_g%C3%A9nie[« malin génie »] est une expérience de pensée proposée par René Descartes dans les Méditations métaphysiques (1641) pour illustrer son interprétation du scepticisme.
+Le *pragmatisme* (Charles Sanders Peirce, William James, John Dewey — États-Unis, fin du XIX^e^ et XX^e^ siècle) pose que la vérité et la valeur d'une idée se mesurent à ses conséquences pratiques plutôt qu'à sa correspondance abstraite avec le réel.
 
-==== L'état de nature (1651)
+=== Traditions extra-occidentales
 
-L’link:https://fr.wikipedia.org/wiki/%C3%89tat_de_nature[état de nature] est une notion de philosophie politique forgée par les théoriciens du contrat à partir du XVII^e^ siècle qui s'oppose à l'état civil.
-Elle désigne la situation dans laquelle l'humanité se serait trouvée avant l'émergence de la société, et particulièrement avant l'institution de l'État et du droit positif.
-Bien que certains aient cru à la réalité de l'état de nature, le concept est d'ordinaire pensé comme une hypothèse méthodologique, utile indépendamment de sa véracité historique.
-Il existe différentes conceptions de l'état de nature, largement différentes selon leurs auteurs.
-On retrouve sur les débats au sujet de l'état de nature l'idée du Bon Sauvage (d'une nature innocente ou bonne), et celle de Hobbes (d'une nature mauvaise), entre autres.
-Dans tous les cas, l'état de nature est situé dans un temps reculé, avant la naissance des sociétés étatiques.
-Selon le point de vue des partisans d'une nature bonne (ou innocente), le développement des sociétés étatiques met globalement fin à cet état.
+* le *confucianisme* (Confucius, VI^e^-V^e^ siècle av. J.-C.) : tradition chinoise centrée sur l'harmonie sociale, la vertu et le respect des rites et des hiérarchies familiales ;
+* le *taoïsme* (Lao-Tseu, _Tao Te King_) : tradition chinoise fondée sur le Tao (la « Voie »), qui prône l'harmonie avec l'ordre naturel du monde et le non-agir (_wu wei_) ;
+* le *bouddhisme* (Siddhārtha Gautama, dit le Bouddha, V^e^ siècle av. J.-C.) : l'existence est souffrance (_dukkha_), causée par le désir ; l'Octuple Sentier propose un chemin pour s'en libérer ;
+* le *zoroastrisme* (Zoroastre, Perse antique) : religion structurée autour d'un dualisme entre un principe du bien et un principe du mal en lutte constante ;
+* le *manichéisme* (Mani, III^e^ siècle ap. J.-C.) : doctrine dualiste opposant radicalement un principe de lumière (le bien) à un principe de ténèbres (le mal), en partie héritière du zoroastrisme.
 
-==== Le paradoxe de l'eau et du diamant (1776)
+== Clivage contemporain : philosophie continentale et analytique
 
-Le https://fr.wikipedia.org/wiki/Paradoxe_de_l%27eau_et_du_diamant[paradoxe de l'eau et du diamant] est un paradoxe économique qui montre que la valeur d'un bien ne dépend pas de son utilité.
-En effet, l'eau est indispensable à la vie mais elle est bon marché alors que le diamant est inutile mais il est onéreux.
+Au XX^e^ siècle, la philosophie occidentale se scinde en deux traditions qui communiquent peu :
 
-==== Le paradoxe de la veste de laine (1776)
+* la *philosophie continentale* (Europe, notamment France et Allemagne) privilégie la phénoménologie, l'existentialisme et une écriture souvent littéraire (Sartre, Heidegger, Foucault) ;
+* la *philosophie analytique* (monde anglo-saxon) privilégie la rigueur logique et l'analyse du langage (Russell, Wittgenstein) ; elle est aujourd'hui dominante dans les départements de philosophie académique anglophones.
 
-Le https://www.youtube.com/watch?v=azNw7Vx1R8o[paradoxe de la veste de laine] est un paradoxe économique qui illustre le fait que la confection d'un bien par une seule personne nécessite en réalité le travail d'une infinité de personnes.
+== Philosophie politique
 
-En effet, une seule personne est nécessaire pour confectionner une veste de laine mais il faut en réalité le travail d'une infinité de personnes pour la confectionner : il faut qu'un berger ait élevé les moutons, qu'un agriculteur produise de la nourriture pour le berger, qu'un forgeron ait confectionné les outils de l'agricultureur, qu'un cordonnier ait confectionné les chaussures du forgeron, etc.
+.Première de couverture du livre _L'État_ d'Atila Özer
+image::etat.jpg[Première de couverture du livre _L'État_ d'Atila Özer, 200]
 
-==== Le démon de Laplace (1814)
+Les principaux courants de philosophie politique sont les suivants :
 
-Le link:https://fr.wikipedia.org/wiki/D%C3%A9mon_de_Laplace[démon de Laplace], aussi parfois appelée « génie de Laplace », fait référence à une expérience de pensée proposée par Laplace, dans son ouvrage Essai philosophique sur les probabilités (1814) pour illustrer son interprétation du déterminisme dur.
+* le *libéralisme* (Locke, XVII^e^ siècle) : défend les libertés individuelles et limite le pouvoir de l'État ;
+* le *socialisme* (XIX^e^ siècle) : vise une répartition plus égalitaire des richesses et une régulation collective de l'économie ;
+* le *communisme* (Marx et Engels, XIX^e^ siècle) : vise l'abolition de la propriété privée des moyens de production et des classes sociales ;
+* le *conservatisme* (Burke, XVIII^e^ siècle) : privilégie la continuité des institutions et des traditions face au changement révolutionnaire ;
+* l'*anarchisme* (Proudhon, Bakounine, XIX^e^ siècle) : rejette toute autorité étatique imposée, au profit d'une organisation volontaire et décentralisée ;
+* le *contractualisme* (Hobbes, Locke, Rousseau, XVII^e^-XVIII^e^ siècle) : fonde la légitimité de l'État sur un contrat, implicite ou explicite, passé entre les individus ;
+* le *libertarianisme* (XX^e^ siècle) : pousse la défense des libertés individuelles jusqu'à réduire l'État à ses fonctions les plus minimales ;
+* l'*humanisme* : place la dignité et l'épanouissement de l'être humain au centre des valeurs politiques et morales ;
+* le *fascisme* (XX^e^ siècle) : subordonne l'individu à la nation ou à l'État, rejette le pluralisme politique.
 
-Laplace indique :
+=== L'état de nature (1651)
 
-"Une intelligence qui pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvemens des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l'avenir comme le passé, serait présent à ses yeux."
--- Pierre-Simon Laplace, Essai philosophique sur les probabilités
+L'link:https://fr.wikipedia.org/wiki/%C3%89tat_de_nature[état de nature] est une notion forgée par les théoriciens du contrat à partir du XVII^e^ siècle, opposée à l'état civil : la situation hypothétique de l'humanité avant l'émergence de la société et de l'État. Hobbes la conçoit comme une guerre de tous contre tous ; d'autres auteurs (l'idée du « Bon Sauvage ») la conçoivent comme une innocence originelle.
 
-==== Le dilemme du tramway (1967)
+== Concepts transversaux
 
-Le https://fr.wikipedia.org/wiki/Dilemme_du_tramway[dilemme ou problème du tramway] (_trolley problem_ en anglais) est une expérience de pensée qui se conçoit ainsi sous une forme générale : une personne peut effectuer un geste qui bénéficiera à un groupe de personnes A, mais, ce faisant, nuira à une personne B ; dans ces circonstances, est-il moral pour la personne d'effectuer ce geste ?
-L'expérience, utilisée en éthique, en sciences cognitives et en neuroéthique, a été décrite pour la première fois par Philippa Foot en 19671 et analysée en profondeur par Judith Jarvis Thomson, Peter Unger et Frances Kamm.
+Deux paradoxes classiques, indépendants des courants ci-dessus :
+
+=== Le paradoxe d'Achille et de la tortue (V^e^ siècle av. J.-C.)
+
+Le https://fr.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue[paradoxe d'Achille et de la tortue], dû à Zénon d'Élée, oppose Achille à une tortue partie avec de l'avance : pendant qu'Achille rejoint le point de départ de la tortue, celle-ci a déjà avancé, si bien qu'Achille ne semble jamais pouvoir la rattraper — bien qu'on sache par ailleurs qu'il le peut. Le paradoxe interroge la nature du mouvement, de l'infini et du continu.
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zeno_Achilles_Paradox.png/220px-Zeno_Achilles_Paradox.png[Paradoxe d'Achille et de la tortue]
+
+=== Le bateau de Thésée
+
+Le https://fr.wikipedia.org/wiki/Bateau_de_Th%C3%A9s%C3%A9e[bateau de Thésée] imagine un bateau dont toutes les pièces sont remplacées une à une, jusqu'à ne plus contenir aucune pièce d'origine : s'agit-il encore du même bateau ? Le paradoxe interroge la nature de l'identité à travers le changement — appliqué aussi bien aux objets qu'aux personnes.
+
+== Éthique appliquée
+
+=== Le dilemme du tramway (1967)
+
+Le https://fr.wikipedia.org/wiki/Dilemme_du_tramway[dilemme du tramway] (_trolley problem_) met à l'épreuve deux façons opposées de juger un acte moral : une personne peut dévier un tramway pour sauver cinq personnes, au prix d'en tuer une seule sur une autre voie — est-il moral d'agir ? Décrit pour la première fois par Philippa Foot en 1967, il a depuis été analysé en profondeur par Judith Jarvis Thomson, Peter Unger et Frances Kamm. Un *conséquentialiste* (juger un acte à ses conséquences) dévie le tramway, cinq vies sauvées valant mieux qu'une ; un *déontologue* (juger un acte à sa conformité à une règle) s'interdit souvent de le faire, tuer activement restant un interdit même pour un meilleur bilan.
 
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trolley_problem.png/370px-Trolley_problem.png[Le dilemme du tramway]
+
+== Concepts économiques adjacents
+
+Deux paradoxes nés en philosophie morale et récupérés par l'économie naissante :
+
+=== Le paradoxe de l'eau et du diamant (1776)
+
+Le https://fr.wikipedia.org/wiki/Paradoxe_de_l%27eau_et_du_diamant[paradoxe de l'eau et du diamant] montre que la valeur d'un bien ne dépend pas de son utilité : l'eau est indispensable à la vie mais bon marché, le diamant est inutile mais onéreux.
+
+=== Le paradoxe de la veste de laine (1776)
+
+Le https://www.youtube.com/watch?v=azNw7Vx1R8o[paradoxe de la veste de laine] illustre que la confection d'un bien par une seule personne nécessite en réalité le travail d'une infinité de personnes : il faut qu'un berger ait élevé les moutons, qu'un agriculteur produise sa nourriture, qu'un forgeron confectionne ses outils, qu'un cordonnier confectionne ses chaussures, etc.
