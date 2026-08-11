@@ -1,7 +1,5 @@
 = 4^e^ cercle de la culture générale
 Dhrions
-:toc:
-:toc-title: Sommaire
 
 Ce cercle approfondit les sujets déjà abordés dans les cercles précédents : xref:cercle1:index.adoc[1^er^], xref:cercle2:index.adoc[2^e^] et xref:cercle3:index.adoc[3^e^].
 

@@ -1,6 +1,4 @@
 = Apprendre à apprendre
-:toc:
-:toc-title: Sommaire
 
 Le mieux est de visionner https://www.youtube.com/watch?v=RVB3PBPxMWg[la vidéo de Science Étonnante] sur le sujet.
 

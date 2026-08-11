@@ -2,10 +2,7 @@
 Dhrions
 Version 1.0.2, 25/02/2024
 // Document attributes
-:sectnums:                                                          
-:toc:                                                   
-:toclevels: 5  
-:toc-title: Sommaire
+:sectnums:
 
 :description: Example AsciiDoc document                             
 :keywords: AsciiDoc                                                 

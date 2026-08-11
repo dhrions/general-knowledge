@@ -1,6 +1,4 @@
 = 1^er^ cercle de la philosophie
-:toc:
-:toc-title: Sommaire
 
 == Qu'est-ce que la philosophie ?
 
