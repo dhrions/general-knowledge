@@ -1,4 +1,6 @@
 * xref:cercle3:index.adoc[Cercle 3].
+
 ** Sciences
-*** xref:sciences/economie.adoc[Économie]
-*** xref:sciences/histoire.adoc[Histoire]
+*** Sciences humaines et sociales
+**** xref:cercle3:sciences/humaines-et-sociales/histoire.adoc[Histoire]
+**** xref:cercle3:sciences/humaines-et-sociales/economie.adoc[Économie]

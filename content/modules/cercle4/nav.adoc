@@ -1,3 +1,5 @@
 * xref:cercle4:index.adoc[Cercle 4].
+
 ** Sciences
-*** xref:sciences/economie.adoc[Économie]
+*** Sciences humaines et sociales
+**** xref:cercle4:sciences/humaines-et-sociales/economie.adoc[Économie]

@@ -52,4 +52,4 @@ image::jeux-geo.png[Capture d'écran du site « Jeux géographiques »]
 
 == 2^e^ cercle de la géographie
 
-xref:cercle2:sciences/geographie.adoc[2^e^ cercle de la géographie]
+xref:cercle2:sciences/humaines-et-sociales/geographie.adoc[2^e^ cercle de la géographie]

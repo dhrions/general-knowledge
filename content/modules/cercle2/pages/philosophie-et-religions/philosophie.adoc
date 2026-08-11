@@ -1,6 +1,6 @@
 = 2^e^ cercle de la philosophie
 
-Ce cercle approfondit les xref:cercle1:philosophie/index.adoc[repères du 1^er^ cercle] : les courants n'y sont plus de simples noms, mais des thèses portées par des philosophes précis, souvent en dialogue ou en opposition les uns avec les autres.
+Ce cercle approfondit les xref:cercle1:philosophie-et-religions/philosophie.adoc[repères du 1^er^ cercle] : les courants n'y sont plus de simples noms, mais des thèses portées par des philosophes précis, souvent en dialogue ou en opposition les uns avec les autres.
 
 == Filiations : scepticisme et empirisme
 

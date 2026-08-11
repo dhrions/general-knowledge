@@ -7,4 +7,4 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moreno_Sociogra
 
 == 2^e^ cercle de la sociologie
 
-xref:cercle2:sciences/sociologie.adoc[2^e^ cercle de la sociologie]
+xref:cercle2:sciences/humaines-et-sociales/sociologie.adoc[2^e^ cercle de la sociologie]

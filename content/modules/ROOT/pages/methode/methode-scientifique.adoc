@@ -1,0 +1,21 @@
+= Méthode scientifique
+
+La méthode scientifique n'est pas une connaissance parmi d'autres : c'est le procédé qui permet de trancher entre deux affirmations concurrentes sur le monde. À ce titre elle conditionne la lecture de tout le domaine xref:cercle1:sciences/index.adoc[sciences], et elle est le pendant positif des xref:methode/biais-cognitifs.adoc[biais cognitifs], qui décrivent les manières dont le raisonnement déraille quand cette méthode n'est pas appliquée.
+
+== Premiers repères
+
+Les deux vidéos ci-dessous permettent de comprendre la méthode scientifique.
+
+video::oFzC-VogTvM[youtube, width=640, height=480, title=Expérience participative de la chaîne Youtube « Scilabus »]
+
+video::C5R-XgS172k[youtube, width=640, height=480, title=Un exemple de démarche scientifique de la chaîne Youtube « Hygiène mentale »]
+
+== Pour aller plus loin
+
+La vidéo ci-dessous de la chaîne « ScienceEtonnante » permet de comprendre la recherche scientifique, en quoi consiste un papier scientifique, la revue par les pairs, les facteurs d'impact, les facteurs de confusion...
+
+video::NkdczX1Sq-U[youtube, width=640, height=480, title=""]
+
+La vidéo ci-dessous permet de comprendre la filiation des différents papiers scientifiques.
+
+video::1xe3zy2mU2M[youtube, width=640, height=480, title=""]

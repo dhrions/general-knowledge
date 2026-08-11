@@ -1,11 +1,29 @@
 * xref:cercle2:index.adoc[Cercle 2].
-** xref:cercle2:philosophie/index.adoc[Philosophie]
+
+** xref:cercle2:philosophie-et-religions/index.adoc[Philosophie et religions]
+*** xref:cercle2:philosophie-et-religions/philosophie.adoc[Philosophie]
+
 ** xref:cercle2:sciences/index.adoc[Sciences]
-*** xref:cercle2:sciences/economie.adoc[Économie]
-*** xref:cercle2:sciences/psychologie.adoc[Psychologie]
-*** xref:cercle2:sciences/physique.adoc[Physique]
+
+*** xref:cercle2:sciences/formelles/index.adoc[Sciences formelles]
+
+*** xref:cercle2:sciences/nature/index.adoc[Sciences de la nature]
+**** xref:cercle2:sciences/nature/physique.adoc[Physique]
+**** xref:cercle2:sciences/nature/medecine.adoc[Médecine]
+
+*** xref:cercle2:sciences/humaines-et-sociales/index.adoc[Sciences humaines et sociales]
+**** xref:cercle2:sciences/humaines-et-sociales/histoire.adoc[Histoire]
+**** xref:cercle2:sciences/humaines-et-sociales/geographie.adoc[Géographie]
+**** xref:cercle2:sciences/humaines-et-sociales/sociologie.adoc[Sociologie]
+**** xref:cercle2:sciences/humaines-et-sociales/economie.adoc[Économie]
+**** xref:cercle2:sciences/humaines-et-sociales/psychologie.adoc[Psychologie]
+**** xref:cercle2:sciences/humaines-et-sociales/science-politique.adoc[Science politique]
+**** xref:cercle2:sciences/humaines-et-sociales/droit.adoc[Droit]
+
 ** xref:cercle2:arts-et-culture/index.adoc[Arts et culture]
+*** xref:cercle2:arts-et-culture/arts-visuels.adoc[Arts visuels]
+*** xref:cercle2:arts-et-culture/musique.adoc[Musique]
+*** xref:cercle2:arts-et-culture/litterature.adoc[Littérature]
 *** xref:cercle2:arts-et-culture/gastronomie.adoc[Gastronomie]
-** xref:cercle2:politique/index.adoc[Politique]
-** xref:cercle2:droit/index.adoc[Droit]
+
 ** xref:cercle2:sports-et-loisirs/index.adoc[Sports et loisirs]

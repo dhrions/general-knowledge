@@ -1,4 +1,4 @@
-= 1^er^ cercle de la philosophie
+= Philosophie
 
 == Qu'est-ce que la philosophie ?
 
@@ -38,7 +38,7 @@ Les différents domaines de la philosophie occidentale sont les suivants (cf. ht
 
 == Repères culturels
 
-Trois références qui reviennent partout, même hors contexte philosophique — approfondies au xref:cercle2:index.adoc[2^e^ cercle] :
+Trois références qui reviennent partout, même hors contexte philosophique — approfondies au xref:cercle2:philosophie-et-religions/philosophie.adoc[2^e^ cercle] :
 
 * le *cogito* (« Je pense, donc je suis », Descartes) : fondement de la connaissance à partir du doute méthodique ;
 * l'*allégorie de la caverne* (Platon) : illustre la difficulté d'accéder à la connaissance véritable au-delà des apparences ;

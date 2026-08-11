@@ -1,28 +1,13 @@
 = 1^er^ cercle des sciences
-// :toc:
-// :toc-title: Sommaire
-// :sectnums:
 
-* xref:sciences/methode-scientifique.adoc[Méthode scientifique] ;
-* xref:sciences/histoire.adoc[Histoire] ;
-* xref:sciences/geographie.adoc[Géographie] ;
-* xref:sciences/anthropologie.adoc[Anthropologie] ;
-* xref:sciences/sociologie.adoc[Sociologie] ;
-* xref:sciences/demographie.adoc[Démographie] ;
-* xref:sciences/economie.adoc[Économie] ;
-* xref:sciences/linguistique.adoc[Linguistique] ;
-* xref:sciences/psychologie.adoc[Psychologie] ;
-* xref:sciences/logique.adoc[Logique] ;
-* xref:sciences/mathematiques.adoc[Mathématiques].
-** xref:sciences/statistiques.adoc[Statistiques]
-* xref:sciences/informatique.adoc[Informatique] ;
-* xref:sciences/chimie.adoc[Chimie] ;
-* xref:sciences/physique.adoc[Physique] ;
-* xref:sciences/biosciences.adoc[Biosciences].
-** xref:sciences/medecine.adoc[Médecine]
-* xref:sciences/geosciences.adoc[Géosciences] ;
-* xref:sciences/sciences-univers.adoc[Sciences de l'univers].
+Les sciences sont réparties en trois familles selon la nature de leur preuve — une distinction plus solide qu'un simple classement thématique, et qui évite qu'un seul domaine absorbe la moitié du corpus.
+
+. xref:sciences/formelles/index.adoc[Sciences formelles] — leurs énoncés se démontrent, ils ne s'observent pas
+. xref:sciences/nature/index.adoc[Sciences de la nature] — leurs énoncés se testent contre l'expérience
+. xref:sciences/humaines-et-sociales/index.adoc[Sciences humaines et sociales] — leurs énoncés portent sur des sociétés humaines, où l'expérimentation est rarement possible
+
+La démarche commune à ces trois familles — et ce qui les sépare de ce qui n'est pas science — est décrite dans xref:ROOT:methode/methode-scientifique.adoc[Méthode scientifique], hors cercles.
 
 == 2^e^ cercle des sciences
 
-xref:cercle2:sciences/index.adoc[2^e^ cercle des sciences.]
+xref:cercle2:sciences/index.adoc[2^e^ cercle des sciences]

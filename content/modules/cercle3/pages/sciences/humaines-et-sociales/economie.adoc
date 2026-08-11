@@ -36,4 +36,4 @@ video::vl02qjffotg[youtube, height=680, height=420]
 
 == 4^e^ cercle de l'économie
 
-xref:cercle4:sciences/economie.adoc[4^e^ cercle de l'économie]
+xref:cercle4:sciences/humaines-et-sociales/economie.adoc[4^e^ cercle de l'économie]

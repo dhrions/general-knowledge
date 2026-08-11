@@ -1,0 +1,32 @@
+= Religions
+
+== Pourquoi ce sujet est un fondamental
+
+Le fait religieux n'est pas ici une affaire de croyance personnelle, mais une clé de lecture. Une grande partie des références de la xref:arts-et-culture/litterature.adoc[littérature], de la peinture et de la sculpture occidentales sont bibliques ou mythologiques : sans ce socle, le domaine xref:arts-et-culture/index.adoc[arts et culture] renvoie à des repères qu'il ne fournit pas. Il structure également l'xref:sciences/humaines-et-sociales/histoire.adoc[histoire] (schismes, guerres de religion, colonisation) et la xref:sciences/humaines-et-sociales/geographie.adoc[géographie] des aires culturelles.
+
+== Les grandes traditions
+
+Par ordre d'apparition, avec les ordres de grandeur du nombre de fidèles aujourd'hui (voir https://fr.wikipedia.org/wiki/Religion#R%C3%A9partition_des_religions_dans_le_monde[« Religion » sur Wikipédia] et https://www.pewresearch.org/religion/[les enquêtes du Pew Research Center]) :
+
+* l'*hindouisme* (racines védiques au II^e^ millénaire av. J.-C., ~1,2 milliard) : pas de fondateur ni de dogme unique, une pluralité de traditions liées par les notions de _karma_, de _dharma_ et de réincarnation ;
+* le *judaïsme* (I^er^ millénaire av. J.-C., ~15 millions) : premier monothéisme durable, fondé sur la Torah et l'alliance entre Dieu et un peuple ;
+* le *bouddhisme* (V^e^ siècle av. J.-C., ~500 millions) : issu de l'enseignement du Bouddha, sans dieu créateur, centré sur la sortie du cycle des renaissances ;
+* le *christianisme* (I^er^ siècle, ~2,4 milliards) : né dans le judaïsme, fondé sur la personne de Jésus de Nazareth, séparé en trois grands ensembles — catholicisme, orthodoxie (schisme de 1054), protestantisme (Réforme, XVI^e^ siècle) ;
+* l'*islam* (VII^e^ siècle, ~2 milliards) : monothéisme fondé sur le Coran et la prédication de Mahomet, divisé principalement entre sunnisme et chiisme.
+
+Judaïsme, christianisme et islam forment les trois *monothéismes abrahamiques* : ils se réclament de la même figure d'Abraham et partagent une part de leurs récits, ce qui explique à la fois leurs proximités et l'âpreté de leurs différends.
+
+== Le corpus de références
+
+Deux ensembles de récits, qu'il faut connaître pour lire l'art occidental, indépendamment de toute adhésion :
+
+* la *Bible* : la Genèse (création, Adam et Ève, le déluge, la tour de Babel), l'Exode (Moïse), les Évangiles (Nativité, Cène, Passion), l'Apocalypse ;
+* la *mythologie gréco-romaine* : le panthéon olympien, les récits d'Homère et les _Métamorphoses_ d'Ovide, réservoir de sujets pour toute la peinture depuis la Renaissance.
+
+== Le cas français : la laïcité
+
+La France se distingue par un régime juridique particulier de séparation, à connaître au titre du xref:sciences/humaines-et-sociales/droit.adoc[droit] autant que de la culture générale : la https://www.vie-publique.fr/fiches/271394-la-laicite-principes-et-valeurs[fiche de vie-publique.fr sur la laïcité] en présente les principes, issus de la loi de 1905 de séparation des Églises et de l'État.
+
+== 2^e^ cercle des religions
+
+À écrire — le 2^e^ cercle détaillera les textes, les schismes et l'histoire des institutions.

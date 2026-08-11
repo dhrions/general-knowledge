@@ -1,0 +1,6 @@
+= 2^e^ cercle des sciences de la nature
+
+. xref:sciences/nature/physique.adoc[Physique]
+. xref:sciences/nature/medecine.adoc[Médecine]
+
+Les autres sciences de la nature restent à écrire pour ce cercle — voir xref:cercle1:sciences/nature/index.adoc[le 1^er^ cercle].

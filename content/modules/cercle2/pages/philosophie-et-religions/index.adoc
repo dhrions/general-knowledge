@@ -1,0 +1,7 @@
+= 2^e^ cercle de la philosophie et des religions
+
+Ce cercle approfondit les repères du xref:cercle1:philosophie-et-religions/index.adoc[1^er^ cercle].
+
+. xref:philosophie-et-religions/philosophie.adoc[Philosophie]
+
+NOTE: Le 2^e^ cercle des religions reste à écrire — voir xref:cercle1:philosophie-et-religions/religions.adoc[le 1^er^ cercle] en attendant.

@@ -1,0 +1,16 @@
+= 1^er^ cercle des sciences humaines et sociales
+
+Les sciences humaines et sociales prennent pour objet les sociétés humaines et leurs productions. Leurs énoncés sont empiriques comme ceux des sciences de la nature, mais l'expérimentation contrôlée y est rarement possible : elles s'appuient davantage sur l'archive, l'enquête, la comparaison et la statistique. C'est aussi la famille la plus exposée aux xref:ROOT:methode/biais-cognitifs.adoc[biais cognitifs], le chercheur appartenant à ce qu'il étudie.
+
+Le *droit* et la *science politique* y figurent : ce sont des sciences sociales, non des domaines autonomes de la culture générale.
+
+. xref:sciences/humaines-et-sociales/histoire.adoc[Histoire]
+. xref:sciences/humaines-et-sociales/geographie.adoc[Géographie]
+. xref:sciences/humaines-et-sociales/anthropologie.adoc[Anthropologie]
+. xref:sciences/humaines-et-sociales/sociologie.adoc[Sociologie]
+. xref:sciences/humaines-et-sociales/demographie.adoc[Démographie]
+. xref:sciences/humaines-et-sociales/economie.adoc[Économie]
+. xref:sciences/humaines-et-sociales/linguistique.adoc[Linguistique]
+. xref:sciences/humaines-et-sociales/psychologie.adoc[Psychologie]
+. xref:sciences/humaines-et-sociales/science-politique.adoc[Science politique]
+. xref:sciences/humaines-et-sociales/droit.adoc[Droit]

@@ -1,0 +1,10 @@
+= 1^er^ cercle de la philosophie et des religions
+
+Philosophie et religions sont réunies dans un même domaine parce qu'elles répondent aux mêmes questions — l'origine du monde, la mort, le bien et le mal, la place de l'homme — par deux voies opposées : l'argumentation rationnelle d'un côté, la révélation et la tradition de l'autre. La philosophie s'est d'ailleurs largement constituée en se démarquant de la seconde, puis en la prenant pour objet.
+
+. xref:philosophie-et-religions/philosophie.adoc[Philosophie]
+. xref:philosophie-et-religions/religions.adoc[Religions]
+
+== 2^e^ cercle de la philosophie et des religions
+
+xref:cercle2:philosophie-et-religions/index.adoc[2^e^ cercle de la philosophie et des religions]

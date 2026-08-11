@@ -11,7 +11,13 @@ Version 1.0.0, 14/01/2024
 :stylesdir: ./styles
 :scriptsdir: ./js
 
-* xref:arts-et-culture/index.adoc[Arts] ;
-* xref:sciences/index.adoc[Sciences].
-** xref:sciences/economie.adoc[Économie]
-** xref:sciences/physique.adoc[Physique]
+Ce cercle approfondit les sujets abordés dans le xref:cercle1:index.adoc[1^er^ cercle].
+
+. xref:cercle2:philosophie-et-religions/index.adoc[Philosophie et religions]
+. xref:cercle2:sciences/index.adoc[Sciences]
+. xref:cercle2:arts-et-culture/index.adoc[Arts et culture]
+. xref:cercle2:sports-et-loisirs/index.adoc[Sports et loisirs]
+
+== Cercle suivant
+
+xref:cercle3:index.adoc[3^e^ cercle de la culture générale]

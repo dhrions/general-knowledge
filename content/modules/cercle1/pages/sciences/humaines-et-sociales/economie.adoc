@@ -23,4 +23,4 @@ La collection des « ABC de l'économie » par la Banque de France présente a
 
 == 2^e^ cercle de l'économie
 
-xref:cercle2:sciences/economie.adoc[2^e^ cercle de l'économie]
+xref:cercle2:sciences/humaines-et-sociales/economie.adoc[2^e^ cercle de l'économie]

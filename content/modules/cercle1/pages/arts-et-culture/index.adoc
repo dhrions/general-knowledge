@@ -1,25 +1,29 @@
-= Arts
+= 1^er^ cercle des arts et de la culture
 
 La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
 
-. xref:./architecture.adoc[Architecture]
-. xref:./sculpture.adoc[Sculpture]
-. xref:./arts-visuels.adoc[Arts visuels]
-. xref:./musique.adoc[Musique]
-. xref:./litterature.adoc[Littérature]
-. xref:./[Arts de scène]
-.. xref:./danse.adoc[Danse]
-// .. xref:./[Théâtre]
-. xref:./[Cinéma]
-. xref:./arts-mediatiques.adoc[Arts médiatiques]
-// .. xref:./[Radio]
-// .. xref:./[Télévision]
-. xref:./bande-dessinee[Bande dessinée]
-. xref:./jeux-videos[Jeux vidéo]
+NOTE: Cette classification « des dix arts » est une convention commode, pas une taxinomie robuste — elle laisse notamment la gastronomie hors de son périmètre.
+
+. xref:arts-et-culture/architecture.adoc[Architecture]
+. xref:arts-et-culture/sculpture.adoc[Sculpture]
+. xref:arts-et-culture/arts-visuels.adoc[Arts visuels]
+. xref:arts-et-culture/musique.adoc[Musique]
+. xref:arts-et-culture/litterature.adoc[Littérature]
+. xref:arts-et-culture/arts-scene.adoc[Arts de scène]
+.. xref:arts-et-culture/danse.adoc[Danse]
+// .. Théâtre
+. xref:arts-et-culture/cinema.adoc[Cinéma]
+. xref:arts-et-culture/arts-mediatiques.adoc[Arts médiatiques]
+// .. Radio
+// .. Télévision
+. xref:arts-et-culture/bande-dessinee.adoc[Bande dessinée]
+. xref:arts-et-culture/jeux-videos.adoc[Jeux vidéo]
 
 En dehors des arts, on compte aussi :
 
-* xref:./gastronomie.adoc[Gastronomie].
+* xref:arts-et-culture/gastronomie.adoc[Gastronomie].
+
+Une grande partie des sujets traités par ces arts est biblique ou mythologique : voir xref:philosophie-et-religions/religions.adoc[Religions].
 
 == 2^e^ cercle des arts et de la culture
 

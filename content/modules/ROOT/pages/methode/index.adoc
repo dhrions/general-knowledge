@@ -1,0 +1,11 @@
+= Méthode et pensée critique
+
+Cette section ne fait pas partie des cercles.
+
+Les quatre domaines de la culture générale (philosophie et religions, sciences, arts et culture, sports et loisirs) répondent à la question « quoi savoir ? ». Les pages ci-dessous répondent à une question différente : « comment savoir ? » — comment acquérir une connaissance, comment la valider, et comment repérer les moments où notre propre raisonnement nous trompe.
+
+Ce sont des outils, pas des matières. Ils ne s'approfondissent donc pas cercle après cercle : ils servent dès le premier cercle et restent valables jusqu'au dernier.
+
+. xref:methode/apprendre-a-apprendre.adoc[Apprendre à apprendre] — comment encoder, consolider et récupérer une connaissance
+. xref:methode/methode-scientifique.adoc[Méthode scientifique] — comment une affirmation sur le monde se valide ou se réfute
+. xref:methode/biais-cognitifs.adoc[Biais cognitifs] — comment le raisonnement dévie quand cette méthode n'est pas appliquée

@@ -5,5 +5,5 @@ Ce cercle approfondit les sujets déjà abordés dans les cercles précédents 
 
 NOTE: Conformément au principe des cercles concentriques, ce cercle n'a d'intérêt qu'une fois les trois précédents parcourus.
 
-* Sciences.
-** xref:sciences/economie.adoc[Économie]
+* Sciences humaines et sociales.
+** xref:sciences/humaines-et-sociales/economie.adoc[Économie]

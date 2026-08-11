@@ -28,7 +28,7 @@ Pour un domaine donné, dès lors que sa page de cercle X **et** sa page de cerc
 où `taille` est le nombre de mots de la page.
 ====
 
-Le facteur 2 est un plancher, pas une cible : un rapport de 5 ou 6 est parfaitement sain (c'est le cas de `sciences/medecine.adoc`, 66 → 367 mots). C'est en dessous de 2 que le cercle X est suspect.
+Le facteur 2 est un plancher, pas une cible : un rapport de 5 ou 6 est parfaitement sain (c'est le cas de `sciences/nature/medecine.adoc`, 66 → 367 mots). C'est en dessous de 2 que le cercle X est suspect.
 
 === Pourquoi le nombre de mots
 

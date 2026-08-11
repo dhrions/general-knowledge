@@ -1,0 +1,3 @@
+= 2^e^ cercle des sciences formelles
+
+NOTE: Ce cercle reste à écrire — voir xref:cercle1:sciences/formelles/index.adoc[le 1^er^ cercle des sciences formelles] en attendant.

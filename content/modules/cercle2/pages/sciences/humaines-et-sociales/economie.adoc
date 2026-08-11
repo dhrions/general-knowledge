@@ -111,4 +111,4 @@ En vidéo, il y a aussi :
 
 == 3^e^ cercle de l'économie
 
-xref:cercle3:sciences/economie.adoc[3^e^ cercle de l'économie]
+xref:cercle3:sciences/humaines-et-sociales/economie.adoc[3^e^ cercle de l'économie]

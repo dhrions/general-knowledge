@@ -1,2 +1,5 @@
 * xref:ROOT:index.adoc[Accueil] ;
-* xref:ROOT:apprendre-a-apprendre.adoc[Apprendre à apprendre].
+* xref:ROOT:methode/index.adoc[Méthode et pensée critique].
+** xref:ROOT:methode/apprendre-a-apprendre.adoc[Apprendre à apprendre]
+** xref:ROOT:methode/methode-scientifique.adoc[Méthode scientifique]
+** xref:ROOT:methode/biais-cognitifs.adoc[Biais cognitifs]

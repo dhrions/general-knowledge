@@ -1,23 +1,13 @@
-= Arts
+= 2^e^ cercle des arts et de la culture
 
-La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts].
+La classification est fondée sur celle décrite dans link:https://fr.wikipedia.org/wiki/Classification_des_arts#Les_dix_arts[cette section de l'article Wikipédia dédiée à la classification des arts], comme au xref:cercle1:arts-et-culture/index.adoc[1^er^ cercle].
 
-// . xref:./architecture.adoc[Architecture]
-// . xref:./sculpture.adoc[Sculpture]
-. Arts visuels
-.. xref:./peinture.adoc[Peinture]
-. xref:./musique.adoc[Musique]
-. xref:./litterature.adoc[Littérature]
-// . xref:./[Arts de scène]
-// .. xref:./danse.adoc[Danse]
-// // .. xref:./[Théâtre]
-// . xref:./[Cinéma]
-// . xref:./arts-mediatiques.adoc[Arts médiatiques]
-// // .. xref:./[Radio]
-// // .. xref:./[Télévision]
-// . xref:./bande-dessinee[Bande dessinée]
-// . xref:./jeux-videos[Jeux vidéo]
+. xref:arts-et-culture/arts-visuels.adoc[Arts visuels]
+. xref:arts-et-culture/musique.adoc[Musique]
+. xref:arts-et-culture/litterature.adoc[Littérature]
 
 En dehors des arts, on compte aussi :
 
-* xref:./gastronomie.adoc[Gastronomie].
+* xref:arts-et-culture/gastronomie.adoc[Gastronomie].
+
+Les autres arts restent à écrire pour ce cercle.

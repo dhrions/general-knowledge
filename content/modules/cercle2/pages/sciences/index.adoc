@@ -1,5 +1,7 @@
 = 2^e^ cercle des sciences
 
-== Énergie
+Ce cercle approfondit les sujets du xref:cercle1:sciences/index.adoc[1^er^ cercle des sciences], selon le même découpage en trois familles.
 
-On peut en savoir plus xref:sciences/physique.adoc[ici].
+. xref:sciences/formelles/index.adoc[Sciences formelles]
+. xref:sciences/nature/index.adoc[Sciences de la nature]
+. xref:sciences/humaines-et-sociales/index.adoc[Sciences humaines et sociales]

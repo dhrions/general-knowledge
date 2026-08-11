@@ -38,7 +38,7 @@ obligatoire** de la réécrire dans `content/`. Il est suffisant de :
 
 * la lister (lien vers la ressource) ;
 * la hiérarchiser, si plusieurs ressources coexistent sur un même cercle — un titre de section
-  par sous-thème, à la manière de `sciences/economie.adoc` (cercle 2).
+  par sous-thème, à la manière de `sciences/humaines-et-sociales/economie.adoc` (cercle 2).
 ====
 
 Ce n'est pas une interdiction de réécrire : une synthèse propre, une mise en contexte, ou un
@@ -61,5 +61,5 @@ prolongement, pas une case vide.
 == Origine de la règle
 
 Cette convention documente un pattern déjà pratiqué spontanément dans le corpus — notamment
-`sciences/economie.adoc` (cercles 1 à 4) et `droit/index.adoc` — avant d'avoir été formalisé
+`sciences/humaines-et-sociales/economie.adoc` (cercles 1 à 4) et `sciences/humaines-et-sociales/droit.adoc` — avant d'avoir été formalisé
 (2026-08-11).

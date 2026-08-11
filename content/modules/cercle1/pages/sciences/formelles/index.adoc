@@ -1,0 +1,10 @@
+= 1^er^ cercle des sciences formelles
+
+Les sciences formelles étudient des systèmes abstraits définis par des axiomes. Leurs énoncés se *démontrent* : ils ne sont ni confirmés ni réfutés par l'observation, ce qui les distingue des sciences empiriques. Elles fournissent en revanche le langage dans lequel celles-ci s'expriment.
+
+. xref:sciences/formelles/logique.adoc[Logique]
+. xref:sciences/formelles/mathematiques.adoc[Mathématiques]
+.. xref:sciences/formelles/statistiques.adoc[Statistiques]
+. xref:sciences/formelles/informatique.adoc[Informatique]
+
+La logique est aussi un objet philosophique — voir la philosophie de la logique dans xref:philosophie-et-religions/philosophie.adoc[Philosophie].

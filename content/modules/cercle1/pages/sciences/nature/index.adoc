@@ -1,0 +1,12 @@
+= 1^er^ cercle des sciences de la nature
+
+Les sciences de la nature étudient le monde matériel. Leurs énoncés sont *empiriques* : ils se testent contre l'expérience et peuvent en principe être réfutés par elle.
+
+Elles sont classées ci-dessous par échelle croissante, de la matière élémentaire à l'univers.
+
+. xref:sciences/nature/physique.adoc[Physique]
+. xref:sciences/nature/chimie.adoc[Chimie]
+. xref:sciences/nature/biosciences.adoc[Biosciences]
+.. xref:sciences/nature/medecine.adoc[Médecine]
+. xref:sciences/nature/geosciences.adoc[Géosciences]
+. xref:sciences/nature/sciences-univers.adoc[Sciences de l'univers]

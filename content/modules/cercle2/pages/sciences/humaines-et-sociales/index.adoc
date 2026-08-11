@@ -1,0 +1,11 @@
+= 2^e^ cercle des sciences humaines et sociales
+
+. xref:sciences/humaines-et-sociales/histoire.adoc[Histoire]
+. xref:sciences/humaines-et-sociales/geographie.adoc[Géographie]
+. xref:sciences/humaines-et-sociales/sociologie.adoc[Sociologie]
+. xref:sciences/humaines-et-sociales/economie.adoc[Économie]
+. xref:sciences/humaines-et-sociales/psychologie.adoc[Psychologie]
+. xref:sciences/humaines-et-sociales/science-politique.adoc[Science politique]
+. xref:sciences/humaines-et-sociales/droit.adoc[Droit]
+
+Les autres sciences humaines et sociales restent à écrire pour ce cercle — voir xref:cercle1:sciences/humaines-et-sociales/index.adoc[le 1^er^ cercle].

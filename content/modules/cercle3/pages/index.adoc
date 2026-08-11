@@ -5,9 +5,9 @@ Ce cercle approfondit les sujets déjà abordés dans les xref:cercle1:index.ado
 
 NOTE: Conformément au principe des cercles concentriques, ce cercle n'a d'intérêt qu'une fois les deux précédents parcourus.
 
-* Sciences.
-** xref:sciences/economie.adoc[Économie]
-** xref:sciences/histoire.adoc[Histoire]
+* Sciences humaines et sociales.
+** xref:sciences/humaines-et-sociales/histoire.adoc[Histoire]
+** xref:sciences/humaines-et-sociales/economie.adoc[Économie]
 
 == Cercle suivant
 

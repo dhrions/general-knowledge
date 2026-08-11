@@ -11,13 +11,14 @@ Version 2.0.0, 20/08/2025
 :stylesdir: ./styles
 :scriptsdir: ./js
 
-. xref:cercle1:philosophie/index.adoc[Philosophie]
+. xref:cercle1:philosophie-et-religions/index.adoc[Philosophie et religions]
 . xref:cercle1:sciences/index.adoc[Sciences]
 . xref:cercle1:arts-et-culture/index.adoc[Arts et culture]
 . xref:cercle1:sports-et-loisirs/index.adoc[Sports et loisirs]
-. xref:cercle1:politique/index.adoc[Politique]
-. xref:cercle1:droit/index.adoc[Droit]
-. xref:cercle1:biais-cognitifs/index.adoc[Biais cognitifs]
+
+Le droit et la politique ne forment pas un domaine à part : ils sont traités comme les sciences sociales qu'ils sont, dans xref:cercle1:sciences/humaines-et-sociales/index.adoc[Sciences humaines et sociales].
+
+Les outils de pensée (apprendre à apprendre, méthode scientifique, biais cognitifs) ne sont pas non plus un domaine : ils sont transverses aux cercles et regroupés dans xref:ROOT:methode/index.adoc[Méthode et pensée critique].
 
 == 2^e^ cercle de la culture générale
 
