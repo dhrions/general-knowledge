@@ -20,38 +20,20 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Create and activate virtual environment
-        run: |
-          python -m venv venv
-          source venv/bin/activate
+      # adoc-link-checker (CLI `adocx`) : https://github.com/dhrions/adoc-link-checker
+      - name: Install adoc-link-checker
+        run: pip install adoc-link-checker
 
-      - name: Download adoc_link_check module
+      - name: Run adocx (capture report, non-blocking)
         run: |
-          git clone --depth 1 --filter=blob:none --sparse https://github.com/dhrions/utils
-          cd utils
-          git sparse-checkout init --cone
-          git sparse-checkout set scripts/adoc_link_check
-          cd ..
-
-      - name: Install dependencies from adoc_link_check
-        run: |
-          source venv/bin/activate
-          if [ -f utils/scripts/adoc_link_check/requirements.txt ]; then
-            pip install -r utils/scripts/adoc_link_check/requirements.txt
-          fi
-          cp -r utils/scripts/adoc_link_check .
-
-      - name: Run adoc_link_check (capture output, non-blocking)
-        run: |
-          source venv/bin/activate
-          python ./adoc_link_check/cli.py > broken_links.txt || true
+          adocx check-links . --output broken_links.json || true
 
       - name: Display broken links in logs
         run: |
-          if [ -s broken_links.txt ]; then
+          if [ -s broken_links.json ] && [ "$(cat broken_links.json)" != "{}" ]; then
             echo "⚠️ Broken links detected:"
             echo "--------------------------------"
-            cat broken_links.txt
+            cat broken_links.json
             echo "--------------------------------"
           else
             echo "✅ No broken links found"
@@ -59,16 +41,16 @@ jobs:
 
       - name: Publish summary to GitHub Actions UI
         run: |
-          if [ -s broken_links.txt ]; then
+          if [ -s broken_links.json ] && [ "$(cat broken_links.json)" != "{}" ]; then
             {
               echo "## ⚠️ Broken links detected"
               echo ""
               echo "The following broken links were found during the documentation check:"
               echo ""
+              echo '```json'
+              cat broken_links.json
               echo '```'
-              cat broken_links.txt
-              echo '```'
-            } >> $GITHUB_STEP_SUMMARY
+            } >> "$GITHUB_STEP_SUMMARY"
           else
-            echo "## ✅ No broken links found" >> $GITHUB_STEP_SUMMARY
+            echo "## ✅ No broken links found" >> "$GITHUB_STEP_SUMMARY"
           fi
