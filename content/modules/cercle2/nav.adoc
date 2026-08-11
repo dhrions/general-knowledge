@@ -1,4 +1,4 @@
-* xref:cercle2:index.adoc[Cercle 2]
+* xref:cercle2:index.adoc[Cercle 2].
 ** xref:cercle2:philosophie/index.adoc[Philosophie]
 ** xref:cercle2:sciences/index.adoc[Sciences]
 *** xref:cercle2:sciences/economie.adoc[Économie]

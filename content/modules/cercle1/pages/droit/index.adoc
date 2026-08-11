@@ -1,6 +1,6 @@
 = Droit
 
-En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
+En droit, le plus important est de connaître le concept de « hiérarchie des normes ».
 
 == Hiérarchie des normes
 
@@ -24,4 +24,4 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Organisation_ju
 
 == Ressources
 
-https://www.youtube.com/@Vousavezledroit[Chaîne Youtube « Vous Avez Le Droit »]
+https://www.youtube.com/@Vousavezledroit[Chaîne Youtube « Vous Avez Le Droit »]

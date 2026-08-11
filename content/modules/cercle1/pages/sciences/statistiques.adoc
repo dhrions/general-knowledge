@@ -4,5 +4,5 @@
 -- Ronald Aylmer Fisher, cf. https://youtu.be/BII9UNkQosI?si=rzUjQDAex78wobw0&t=59[Youtube]
 
 video::5bsgf9YAYdo[youtube,width=680,height=420,title=Les indicateurs de position]
-video::e5QMapt8Wfg&t=15s[youtube,width=680,height=420,title=Les indicateurs de dispersion]
-video::BII9UNkQosI&t=210s[youtube,width=680,height=420,title=Proportions et taux de variation]
+video::e5QMapt8Wfg&t=15 s[youtube,width=680,height=420,title=Les indicateurs de dispersion]
+video::BII9UNkQosI&t=210 s[youtube,width=680,height=420,title=Proportions et taux de variation]

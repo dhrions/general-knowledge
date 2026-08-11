@@ -1,4 +1,4 @@
-* xref:cercle3:index.adoc[Cercle 3]
+* xref:cercle3:index.adoc[Cercle 3].
 ** Sciences
 *** xref:sciences/economie.adoc[Économie]
 *** xref:sciences/histoire.adoc[Histoire]

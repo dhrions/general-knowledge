@@ -1,2 +1,2 @@
-* xref:ROOT:index.adoc[Accueil]
-* xref:ROOT:apprendre-a-apprendre.adoc[Apprendre à apprendre]
+* xref:ROOT:index.adoc[Accueil] ;
+* xref:ROOT:apprendre-a-apprendre.adoc[Apprendre à apprendre].

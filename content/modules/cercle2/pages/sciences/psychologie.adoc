@@ -2,7 +2,7 @@
 
 Expérience de Rosenhan
 
-.Vidéo « L'homme qui a mis la psychiatrie en PLS  »
+.Vidéo « L'homme qui a mis la psychiatrie en PLS »
 video::jcHaN33Nm2E[youtube, width=680, height=420]
 
 Expérience Hawthorne

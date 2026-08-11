@@ -4,14 +4,14 @@ Version 1.0.0, 14/01/2024
 // Document attributes
 :sectnums:
 
-:description: Example AsciiDoc document                             
-:keywords: AsciiDoc                                                 
+:description: Example AsciiDoc document
+:keywords: AsciiDoc
 :imagesdir: ./images
 :iconsdir: ./icons
 :stylesdir: ./styles
 :scriptsdir: ./js
 
-* xref:arts-et-culture/index.adoc[Arts]
-* xref:sciences/index.adoc[Sciences]
+* xref:arts-et-culture/index.adoc[Arts] ;
+* xref:sciences/index.adoc[Sciences].
 ** xref:sciences/economie.adoc[Économie]
 ** xref:sciences/physique.adoc[Physique]

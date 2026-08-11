@@ -1,4 +1,4 @@
-* xref:cercle1:index.adoc[Cercle 1]
+* xref:cercle1:index.adoc[Cercle 1].
 
 ** xref:cercle1:philosophie/index.adoc[Philosophie]
 

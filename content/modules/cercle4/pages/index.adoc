@@ -1,9 +1,9 @@
 = 4^e^ cercle de la culture générale
 Dhrions
 
-Ce cercle approfondit les sujets déjà abordés dans les cercles précédents : xref:cercle1:index.adoc[1^er^], xref:cercle2:index.adoc[2^e^] et xref:cercle3:index.adoc[3^e^].
+Ce cercle approfondit les sujets déjà abordés dans les cercles précédents : xref:cercle1:index.adoc[1^er^], xref:cercle2:index.adoc[2^e^] et xref:cercle3:index.adoc[3^e^].
 
 NOTE: Conformément au principe des cercles concentriques, ce cercle n'a d'intérêt qu'une fois les trois précédents parcourus.
 
-* Sciences
+* Sciences.
 ** xref:sciences/economie.adoc[Économie]

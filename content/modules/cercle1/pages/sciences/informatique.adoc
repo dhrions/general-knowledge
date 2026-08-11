@@ -2,18 +2,18 @@
 
 == Concepts à connaître
 
-Voici les principaux concepts à connaître :
+Voici les principaux concepts à connaître :
 
-* _hardware_ ;
-* _firmware_ ;
-* _software_ ;
-* ordinateur ;
-* bit ;
-* octet ;
-* processeur ;
-* périphérique ;
+* _hardware_ ;
+* _firmware_ ;
+* _software_ ;
+* ordinateur ;
+* bit ;
+* octet ;
+* processeur ;
+* périphérique ;
 * intelligence artificielle.
 
 == Internet
 
-https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours intitulé « Comprendre le web » du site Open Classrooms] permet de comprendre le web qui est une composante majeure d'Internet.
+https://openclassrooms.com/fr/courses/1946386-comprendre-le-web[Le cours intitulé « Comprendre le web » du site Open Classrooms] permet de comprendre le web qui est une composante majeure d'Internet.

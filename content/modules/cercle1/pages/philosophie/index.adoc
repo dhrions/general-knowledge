@@ -1,45 +1,45 @@
 = 1^er^ cercle de la philosophie
 
-== Qu'est-ce que la philosophie ?
+== Qu'est-ce que la philosophie ?
 
-La philosophie est une démarche de questionnement rationnel : elle cherche à comprendre le monde, la connaissance et l'action par l'argumentation, et non par la foi (comme la religion) ou par la seule observation (comme la science).
-Elle se distingue de la science en ceci que ses questions (« Qu'est-ce que le bien ? », « Qu'est-ce que la réalité ? ») ne se tranchent pas par l'expérience.
+La philosophie est une démarche de questionnement rationnel : elle cherche à comprendre le monde, la connaissance et l'action par l'argumentation, et non par la foi (comme la religion) ou par la seule observation (comme la science).
+Elle se distingue de la science en ceci que ses questions (« Qu'est-ce que le bien ? », « Qu'est-ce que la réalité ? ») ne se tranchent pas par l'expérience.
 
 == Repères chronologiques
 
-* l'*Antiquité grecque* (V^e^-IV^e^ siècle av. J.-C.) : naissance de la philosophie occidentale avec Socrate, Platon et Aristote — passage du mythe à l'argumentation rationnelle ;
-* la *scolastique médiévale* : tentative de conciliation entre la raison philosophique héritée d'Aristote et la foi chrétienne (Thomas d'Aquin) ;
-* la *modernité* (XVII^e^-XVIII^e^ siècle) : primauté donnée à la raison individuelle et à la méthode scientifique, de Descartes aux Lumières ;
-* l'*époque contemporaine* (XIX^e^ siècle à aujourd'hui) : éclatement en une multiplicité de courants et spécialisation croissante de la discipline.
+* l'*Antiquité grecque* (V^e^-IV^e^ siècle av. J.-C.) : naissance de la philosophie occidentale avec Socrate, Platon et Aristote — passage du mythe à l'argumentation rationnelle ;
+* la *scolastique médiévale* : tentative de conciliation entre la raison philosophique héritée d'Aristote et la foi chrétienne (Thomas d'Aquin) ;
+* la *modernité* (XVII^e^-XVIII^e^ siècle) : primauté donnée à la raison individuelle et à la méthode scientifique, de Descartes aux Lumières ;
+* l'*époque contemporaine* (XIX^e^ siècle à aujourd'hui) : éclatement en une multiplicité de courants et spécialisation croissante de la discipline.
 
-À l'inverse des mouvements artistiques (voir xref:arts-et-culture/litterature.adoc[Littérature]) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps : ils naissent, disparaissent puis réapparaissent des siècles plus tard chez d'autres auteurs.
+À l'inverse des mouvements artistiques (voir xref:arts-et-culture/litterature.adoc[Littérature]) qui ont une certaine cohérence historique, les courants philosophiques existent en pointillés à travers le temps : ils naissent, disparaissent puis réapparaissent des siècles plus tard chez d'autres auteurs.
 
 == Domaines philosophiques
 
-Les différents domaines de la philosophie occidentale sont les suivants (cf. https://fr.wikipedia.org/wiki/Philosophie#Les_branches_de_la_philosophie_occidentale[« Philosophie » sur Wikipédia]) :
+Les différents domaines de la philosophie occidentale sont les suivants (cf. https://fr.wikipedia.org/wiki/Philosophie#Les_branches_de_la_philosophie_occidentale[« Philosophie » sur Wikipédia]) :
 
-* la *métaphysique* et ses diverses branches (« Qu'est-ce que la réalité ? », « Y a-t-il des réalités immatérielles ? », « Dieu existe-t-il ? », « L'âme existe-elle ? Est-elle immortelle ? Incorporelle ? ») ;
-* l'*ontologie*, rattachée ou non à la métaphysique selon les interprètes (« Qu'est-ce que l'être ? », « Pourquoi y a-t-il de l'être plutôt que rien ? ») ;
-* la *philosophie de la religion*, partiellement rattachée à la métaphysique puisqu'elle tente de définir le divin et pose la question de l'existence de Dieu, qu'elle double d'une interrogation sur la nature du sacré en général ;
-* la *philosophie morale* ou l'éthique : discipline pratique et normative permettant de définir la meilleure conduite pour chaque situation (« Quelle est la fin des actions humaines ? », « Le bien et le mal sont-ils des valeurs universelles permettant de définir cette fin ? ») ;
-* la *philosophie de l'art* ou l'esthétique (« Qu'est-ce que le beau ? », « Qu'est-ce que l'art ? ») ;
-* la *philosophie des valeurs*, ou axiologie, qui regroupe l'éthique et l'esthétique ci-dessus ;
-* la *philosophie de l'esprit* (« Quelles sont les relations entre corps et esprit ? », « Comment fonctionne la cognition ? ») ;
-* la *phénoménologie*, dont la méthode est de partir des expériences humaines pour appréhender la réalité telle qu'elle se donne, à travers les phénomènes ;
-* la *philosophie de la logique* ;
-* la *philosophie politique* (« D'où peut provenir la légitimité du pouvoir ? », « Quel est le meilleur régime politique ? », « La morale peut-elle et doit-elle guider l'action politique ? ») ;
-* la *philosophie du droit* (« Quelles sont les relations entre droit et justice ? », « Comment naissent les normes juridiques ? », « Selon quels critères faut-il les juger ? ») ;
-* la *philosophie de l'action* (« La liberté est-elle illusoire ? ») ;
-* la *philosophie du langage* (« Quelle est l'origine du langage ? », « En quoi le langage se distingue-t-il d'autres systèmes de communications ? », « Quelles relations entretiennent langage et pensée ? ») ;
-* la *philosophie de l'histoire* (« L'histoire est-elle régie par des lois, une nécessité, ou est-elle le fruit abscons de la contingence ? ») ;
-* l'*épistémologie* qui est littéralement l'étude de la science et la connaissance ;
-* la *gnoséologie* (« D'où provient la connaissance ? ») ;
-* la *théorie de la connaissance* (« Qu'est-ce que la vérité ? »).
+* la *métaphysique* et ses diverses branches (« Qu'est-ce que la réalité ? », « Y a-t-il des réalités immatérielles ? », « Dieu existe-t-il ? », « L'âme existe-elle ? Est-elle immortelle ? Incorporelle ? ») ;
+* l'*ontologie*, rattachée ou non à la métaphysique selon les interprètes (« Qu'est-ce que l'être ? », « Pourquoi y a-t-il de l'être plutôt que rien ? ») ;
+* la *philosophie de la religion*, partiellement rattachée à la métaphysique puisqu'elle tente de définir le divin et pose la question de l'existence de Dieu, qu'elle double d'une interrogation sur la nature du sacré en général ;
+* la *philosophie morale* ou l'éthique : discipline pratique et normative permettant de définir la meilleure conduite pour chaque situation (« Quelle est la fin des actions humaines ? », « Le bien et le mal sont-ils des valeurs universelles permettant de définir cette fin ? ») ;
+* la *philosophie de l'art* ou l'esthétique (« Qu'est-ce que le beau ? », « Qu'est-ce que l'art ? ») ;
+* la *philosophie des valeurs*, ou axiologie, qui regroupe l'éthique et l'esthétique ci-dessus ;
+* la *philosophie de l'esprit* (« Quelles sont les relations entre corps et esprit ? », « Comment fonctionne la cognition ? ») ;
+* la *phénoménologie*, dont la méthode est de partir des expériences humaines pour appréhender la réalité telle qu'elle se donne, à travers les phénomènes ;
+* la *philosophie de la logique* ;
+* la *philosophie politique* (« D'où peut provenir la légitimité du pouvoir ? », « Quel est le meilleur régime politique ? », « La morale peut-elle et doit-elle guider l'action politique ? ») ;
+* la *philosophie du droit* (« Quelles sont les relations entre droit et justice ? », « Comment naissent les normes juridiques ? », « Selon quels critères faut-il les juger ? ») ;
+* la *philosophie de l'action* (« La liberté est-elle illusoire ? ») ;
+* la *philosophie du langage* (« Quelle est l'origine du langage ? », « En quoi le langage se distingue-t-il d'autres systèmes de communications ? », « Quelles relations entretiennent langage et pensée ? ») ;
+* la *philosophie de l'histoire* (« L'histoire est-elle régie par des lois, une nécessité, ou est-elle le fruit abscons de la contingence ? ») ;
+* l'*épistémologie* qui est littéralement l'étude de la science et la connaissance ;
+* la *gnoséologie* (« D'où provient la connaissance ? ») ;
+* la *théorie de la connaissance* (« Qu'est-ce que la vérité ? »).
 
 == Repères culturels
 
-Trois références qui reviennent partout, même hors contexte philosophique — approfondies au xref:cercle2:index.adoc[2^e^ cercle] :
+Trois références qui reviennent partout, même hors contexte philosophique — approfondies au xref:cercle2:index.adoc[2^e^ cercle] :
 
-* le *cogito* (« Je pense, donc je suis », Descartes) : fondement de la connaissance à partir du doute méthodique ;
-* l'*allégorie de la caverne* (Platon) : illustre la difficulté d'accéder à la connaissance véritable au-delà des apparences ;
-* le *dilemme du tramway* : expérience de pensée classique en éthique appliquée, qui interroge ce qui rend un acte moral.
+* le *cogito* (« Je pense, donc je suis », Descartes) : fondement de la connaissance à partir du doute méthodique ;
+* l'*allégorie de la caverne* (Platon) : illustre la difficulté d'accéder à la connaissance véritable au-delà des apparences ;
+* le *dilemme du tramway* : expérience de pensée classique en éthique appliquée, qui interroge ce qui rend un acte moral.
