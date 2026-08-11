@@ -1,0 +1,65 @@
+= Convention de citation des ressources externes
+:description: Lister et hiérarchiser une ressource externe faisant autorité plutôt que la réécrire
+:keywords: sources, liens, réécriture, convention
+
+Cette page est une règle de rédaction du contenu de `content/`, complémentaire à
+xref:conventions-cercles.adoc[la convention de dimensionnement des cercles]. Elle répond à une
+question différente : pas *jusqu'où* écrire, mais *quand s'abstenir de réécrire*.
+
+== ⚡ TL;DR
+
+* 🔗 Une ressource externe qui fait déjà autorité sur un sujet (fiche vie-publique.fr, ABC de
+  l'économie de la Banque de France, etc.) n'a pas besoin d'être paraphrasée — la lister et la
+  hiérarchiser (titres de section) est une réponse valide
+* 🌍 La convention est générale : elle vaut pour tout domaine, pas seulement l'économie
+* 🧮 Un item qui n'est qu'un lien compte normalement dans le nombre de mots de la page pour la
+  xref:conventions-cercles.adoc[règle de doublement des cercles] — pas de décompte à part
+* ✍️ Ce qui reste à écrire soi-même : la mise en contexte et l'articulation entre les ressources,
+  pas leur contenu
+
+== Le principe sous-jacent
+
+Ce dépôt n'a pas vocation à être une encyclopédie qui reproduit en pire ce qui existe déjà
+ailleurs, à jour et fait par des institutions dont c'est le métier. Une fiche vie-publique.fr ou
+une fiche de l'ABC de l'économie de la Banque de France est une ressource *vivante* : elle est
+corrigée, mise à jour, republiée. La réécrire fige une version qui se périme silencieusement,
+sans qu'aucun mécanisme du dépôt n'avertisse de l'écart.
+
+Ce que le dépôt peut apporter, en revanche, et qu'aucune fiche externe ne fait à sa place :
+sélectionner les ressources pertinentes pour un cercle donné, les organiser entre elles, et les
+relier au reste du corpus.
+
+== La règle
+
+[IMPORTANT]
+====
+Pour un sujet déjà couvert par une ressource externe faisant autorité, il n'est **pas
+obligatoire** de la réécrire dans `content/`. Il est suffisant de :
+
+* la lister (lien vers la ressource) ;
+* la hiérarchiser, si plusieurs ressources coexistent sur un même cercle — un titre de section
+  par sous-thème, à la manière de `sciences/economie.adoc` (cercle 2).
+====
+
+Ce n'est pas une interdiction de réécrire : une synthèse propre, une mise en contexte, ou un
+rapprochement avec un autre domaine du corpus (cf. les renvois `xref:` déjà pratiqués entre
+domaines) restent bienvenus. La convention retire seulement l'obligation implicite de paraphraser
+une source pour qu'une page « compte » comme du contenu.
+
+=== Articulation avec la règle de doublement des cercles
+
+xref:conventions-cercles.adoc[La convention de dimensionnement des cercles] compare le nombre de
+mots de deux pages d'un même domaine. Un item de liste qui n'est qu'un lien vers une fiche externe
+compte **normalement** dans ce total, au même titre qu'un paragraphe rédigé — il n'est ni exclu ni
+pondéré à part.
+
+Ce choix n'est pas une approximation commode : un lien vers une ressource faisant autorité
+*délègue* de la profondeur au cercle, il ne la nie pas. Le rédacteur a fait le travail de
+sélection et de hiérarchisation propre à ce cercle ; le contenu du lien lui-même en est le
+prolongement, pas une case vide.
+
+== Origine de la règle
+
+Cette convention documente un pattern déjà pratiqué spontanément dans le corpus — notamment
+`sciences/economie.adoc` (cercles 1 à 4) et `droit/index.adoc` — avant d'avoir été formalisé
+(2026-08-11).

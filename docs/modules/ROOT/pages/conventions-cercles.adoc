@@ -55,6 +55,10 @@ Deux valeurs :
 
 Les pages `index.adoc` (index de cercle, index de domaine) ne sont pas soumises à la règle : elles cadrent et orientent, leur longueur ne reflète aucune profondeur de traitement.
 
+=== Cas des ressources externes citées en lien
+
+Un item de liste qui n'est qu'un lien vers une ressource externe faisant autorité (fiche vie-publique.fr, ABC de l'économie de la Banque de France…) compte normalement dans le nombre de mots — voir xref:conventions-sources-externes.adoc[la convention de citation des ressources externes] pour le détail et sa justification.
+
 == Vérifier
 
 Depuis `content/modules/` :
