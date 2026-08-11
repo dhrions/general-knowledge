@@ -1,0 +1,61 @@
+name: Revue annuelle des liens morts
+
+on:
+  schedule:
+    - cron: '0 8 1 2 *'
+  workflow_dispatch:
+
+jobs:
+  fix-broken-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install adoc-link-checker anthropic
+
+      - name: Check links
+        id: check
+        run: |
+          adocx check-links . --output broken_links.json || true
+          if [ ! -s broken_links.json ] || [ "$(cat broken_links.json)" = "{}" ]; then
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Find replacements and apply fixes
+        if: steps.check.outputs.found == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 .gitea/scripts/fix_broken_links.py
+
+      - name: Create branch, commit and open PR
+        env:
+          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
+        run: |
+          if [ ! -f fixes_summary.md ]; then
+            echo "Rien à corriger, ou aucune correction applicable — pas de PR."
+            exit 0
+          fi
+          YEAR=$(date +%Y)
+          BRANCH="liens-morts-${YEAR}"
+          git config user.name "gitea-actions"
+          git config user.email "actions@gitea.dhrions.fr"
+          git checkout -b "$BRANCH"
+          git add -A -- content docs
+          git commit -F fixes_commit_message.txt
+          git push "https://oauth2:${GITEA_TOKEN}@gitea.dhrions.fr/dhrions/general-knowledge.git" "$BRANCH"
+          PAYLOAD=$(python3 .gitea/scripts/build_pr_payload.py "🔗 Revue annuelle des liens morts (${YEAR})" "$BRANCH" fixes_summary.md)
+          curl -sf -X POST "https://gitea.dhrions.fr/api/v1/repos/dhrions/general-knowledge/pulls" \
+            -H "Authorization: token ${GITEA_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD"
