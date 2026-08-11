@@ -16,6 +16,7 @@ jobs:
     container:
       volumes:
         - /home/dockeradmin/docker/nginx-docs/html:/deploy
+        - /home/dockeradmin/docker/culture-generale/html:/deploy-culture-generale
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,9 +31,22 @@ jobs:
       - name: Install Antora
         run: npm install -g @antora/cli @antora/site-generator
 
-      - name: Build documentation
+      - name: Build repo documentation (docs/)
         working-directory: docs
         run: antora --fetch antora-playbook.yml
+
+      - name: Build culture générale (content/)
+        working-directory: content
+        run: antora --fetch antora-playbook.yml
+
+      - name: Deploy culture-generale.dhrions.fr
+        run: |
+          echo "Deploying culture générale to culture-generale.dhrions.fr..."
+          rm -rf /deploy-culture-generale/*
+          cp -r content/build/culture-generale/antora/* /deploy-culture-generale/
+          chmod -R 755 /deploy-culture-generale
+          echo "Deployment complete!"
+          ls -la /deploy-culture-generale/
 
       - name: Deploy documentation
         run: |
