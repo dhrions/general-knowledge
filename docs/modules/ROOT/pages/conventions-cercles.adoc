@@ -1,0 +1,81 @@
+= Convention de dimensionnement des cercles
+:description: Règle de progression entre les cercles d'un même domaine
+:keywords: cercles, progression, rédaction, convention
+
+Cette page est la règle de rédaction du contenu de `content/`. Elle ne décrit pas *quoi* écrire, mais *jusqu'où* écrire dans un cercle donné avant de passer au suivant.
+
+== ⚡ TL;DR
+
+* 🎯 Pour un même domaine, le cercle X+1 doit faire **au moins le double** du cercle X
+* 🏷️ La règle ne s'applique qu'entre deux pages marquées `:status: complet`
+* 🚫 Les pages d'index (`index.adoc`) en sont exemptées — ce sont des pages de cadrage, pas de contenu
+* 🔍 Contrôle : voir la commande de la section « Vérifier »
+
+== Le principe sous-jacent
+
+Le site organise la connaissance en cercles concentriques : le cercle 1 porte le b.a.-ba de *tous* les domaines, le cercle 2 approfondit, et ainsi de suite. Ce principe est énoncé pour le lecteur sur la page d'accueil du contenu.
+
+La présente convention en tire la conséquence pratique pour le rédacteur : **si un cercle X n'est pas nettement plus court que le cercle X+1 du même domaine, c'est que le cercle X déborde de son rôle** — il ne contient plus le b.a.-ba, il contient déjà de l'approfondissement.
+
+== La règle
+
+[IMPORTANT]
+====
+Pour un domaine donné, dès lors que sa page de cercle X **et** sa page de cercle X+1 portent toutes deux `:status: complet` :
+
+  taille(cercle X+1)  >=  2 x  taille(cercle X)
+
+où `taille` est le nombre de mots de la page.
+====
+
+Le facteur 2 est un plancher, pas une cible : un rapport de 5 ou 6 est parfaitement sain (c'est le cas de `sciences/medecine.adoc`, 66 → 367 mots). C'est en dessous de 2 que le cercle X est suspect.
+
+=== Pourquoi le nombre de mots
+
+Le nombre de mots est un mauvais indicateur de qualité *dans l'absolu* — une page dense de 100 mots peut valoir mieux qu'une page diluée de 400. Mais la règle ne compare jamais une page à une valeur absolue : elle compare **deux pages du même domaine entre elles**. À sujet constant et à auteur constant, le volume devient un proxy acceptable de la profondeur traitée.
+
+=== Le marqueur `:status:`
+
+Chaque page de contenu porte dans son en-tête AsciiDoc :
+
+[source,asciidoc]
+----
+= Économie
+:status: complet
+----
+
+Deux valeurs :
+
+* 🏷️ `complet` — la page couvre ce qu'elle doit couvrir pour son cercle ;
+* 📝 `brouillon` — la page est en cours.
+
+**L'absence d'attribut vaut `brouillon`.** C'est ce qui permet d'enrichir le corpus au fil de l'eau sans que chaque page inachevée ne déclenche un faux positif : une page de cercle X+1 encore à l'état d'ébauche est forcément plus courte que le cercle X, et c'est normal.
+
+=== Ce qui est exempté
+
+Les pages `index.adoc` (index de cercle, index de domaine) ne sont pas soumises à la règle : elles cadrent et orientent, leur longueur ne reflète aucune profondeur de traitement.
+
+== Vérifier
+
+Depuis `content/modules/` :
+
+[source,bash]
+----
+for path in $(for m in cercle1 cercle2 cercle3 cercle4; do \
+    find $m/pages -name "*.adoc" 2>/dev/null | sed "s|^$m/pages/||"; done | sort -u); do
+  printf '%-42s' "$path"
+  for m in cercle1 cercle2 cercle3 cercle4; do
+    f="$m/pages/$path"
+    if [ -f "$f" ]; then printf '%6s' "$(wc -w < "$f")"; else printf '%6s' "-"; fi
+  done
+  echo
+done
+----
+
+La lecture reste manuelle : la commande donne les volumes par cercle, c'est au rédacteur de ne retenir que les couples de pages toutes deux `complet`.
+
+== Origine de la règle
+
+Cette convention a été écrite après un constat de mesure sur le corpus (2026-08-11) : la philosophie comptait 892 mots au cercle 1 pour 1096 au cercle 2, soit un rapport de 1,23. Autrement dit, le cercle 1 de philosophie avait absorbé l'essentiel de ce que le cercle 2 aurait dû porter — pendant que dix sous-domaines de sciences du cercle 1 (mathématiques, physique, chimie, biosciences…) étaient encore vides.
+
+C'est précisément le déséquilibre que le modèle des cercles concentriques est censé empêcher, et que rien dans le dépôt ne permettait de détecter jusque-là.
