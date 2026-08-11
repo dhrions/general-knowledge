@@ -48,4 +48,6 @@ Pour avoir une culture générale équilibrée, il faut commencer par le cercle 
 Les différents cercles :
 
 * xref:cercle1:index.adoc[premier cercle] ;
-* xref:cercle2:index.adoc[deuxième cercle].
+* xref:cercle2:index.adoc[deuxième cercle] ;
+* xref:cercle3:index.adoc[troisième cercle] ;
+* xref:cercle4:index.adoc[quatrième cercle].
