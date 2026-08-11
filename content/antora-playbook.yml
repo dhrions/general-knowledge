@@ -3,7 +3,7 @@ site:
   url: https://dhrions.github.io/general-knowledge
 
 content:
-  branches: antora
+  branches: HEAD
   sources:
   - url: ..
     start_path: content

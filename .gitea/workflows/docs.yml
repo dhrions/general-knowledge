@@ -39,8 +39,26 @@ jobs:
       - name: Deploy culture-generale.dhrions.fr
         run: |
           echo "Deploying culture générale to culture-generale.dhrions.fr..."
+          # version: true dans antora.yml ajoute un segment "main" (nom de la branche) :
+          # la sortie réelle est content/build/culture-generale/main/, pas .../antora/.
+          # On copie l'arborescence telle quelle (mêmes chemins relatifs vers _/ que
+          # dans les pages générées) et on ajoute une redirection à la racine, comme
+          # pour /public/general-knowledge/ ci-dessous.
           rm -rf /deploy-culture-generale/*
-          cp -r content/build/culture-generale/antora/* /deploy-culture-generale/
+          cp -r content/build/* /deploy-culture-generale/
+          cat > /deploy-culture-generale/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <meta http-equiv="refresh" content="0; url=culture-generale/main/index.html">
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="culture-generale/main/index.html">documentation</a>...</p>
+          </body>
+          </html>
+          EOF
           chmod -R 755 /deploy-culture-generale
           echo "Deployment complete!"
           ls -la /deploy-culture-generale/
